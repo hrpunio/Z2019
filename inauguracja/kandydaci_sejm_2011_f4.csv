@@ -1,0 +1,3662 @@
+okr;nrk;komitet;kandydat;glosy;procent;procentl;wynik;plec
+1;1;PiS;Lipiński Adam Józef;25523;7.42;26.79;T;M
+1;2;PiS;Witek Elżbieta Barbara;9381;2.73;9.85;T;K
+1;3;PiS;Machałek Marzena Anna;11812;3.43;12.40;T;K
+1;4;PiS;Ślusarz Rafał Józef;5657;1.64;5.94;N;M
+1;5;PiS;Idczak Witold Lech;6289;1.83;6.60;N;M
+1;6;PiS;Stachyra Jerzy Grzegorz;6451;1.87;6.77;N;M
+1;7;PiS;Kubów Krzysztof Jan;6082;1.77;6.38;N;M
+1;8;PiS;Zembik Wojciech Bolesław;1408;0.41;1.48;N;M
+1;9;PiS;Grocki Władysław Ryszard;2333;0.68;2.45;N;M
+1;10;PiS;Sidorowicz Dorota Małgorzata;2658;0.77;2.79;N;K
+1;11;PiS;Horzempa Mirosław;852;0.25;0.89;N;M
+1;12;PiS;Zubowski Wojciech Michał;6800;1.98;7.14;T;M
+1;13;PiS;Szymański Rafał Piotr;1400;0.41;1.47;N;M
+1;14;PiS;Gęborys Jarosław Andrzej;490;0.14;0.51;N;M
+1;15;PiS;Buciuto Jadwiga Barbara;485;0.14;0.51;N;K
+1;16;PiS;Majsner Iwona;631;0.18;0.66;N;K
+1;17;PiS;Lachowicz Julian;815;0.24;0.86;N;M
+1;18;PiS;Zawiślak Katarzyna Małgorzata;914;0.27;0.96;N;K
+1;19;PiS;Birut Teresa Mariola;619;0.18;0.65;N;K
+1;20;PiS;Troczyńska Danuta Anna;1114;0.32;1.17;N;K
+1;21;PiS;Duraj Joanna Edyta;1015;0.29;1.07;N;K
+1;22;PiS;Zatylna Irena;868;0.25;0.91;N;K
+1;23;PiS;Tarnowski Jarosław Michał;656;0.19;0.69;N;M
+1;24;PiS;Zołoteńki Paweł;1024;0.30;1.07;N;M
+1;1;SLD;Zbrzyzny Ryszard;11990;3.48;26.16;T;M
+1;2;SLD;Zakrzewska Elżbieta;5055;1.47;11.03;N;K
+1;3;SLD;Sekuła-Szmajdzińska Małgorzata Helena;15883;4.61;34.66;T;K
+1;4;SLD;Kusiak Józef;1624;0.47;3.54;N;M
+1;5;SLD;Śmiechowska Adrianna Inez;255;0.07;0.56;N;K
+1;6;SLD;Zdanowicz Zbigniew;613;0.18;1.34;N;M
+1;7;SLD;Huzarski Michał Seweryn;1583;0.46;3.45;N;M
+1;8;SLD;Świątek Andrzej Kazimierz;1112;0.32;2.43;N;M
+1;9;SLD;Król Józef;643;0.19;1.40;N;M
+1;10;SLD;Sienkiewicz Zbigniew Ryszard;1750;0.51;3.82;N;M
+1;11;SLD;Miara Rafał;963;0.28;2.10;N;M
+1;12;SLD;Szudrowicz Lucyna;573;0.17;1.25;N;K
+1;13;SLD;Kamiński Paweł Ryszard;409;0.12;0.89;N;M
+1;14;SLD;Chmielewska Sylwia;375;0.11;0.82;N;K
+1;15;SLD;Baczmański Henryk Stanisław;595;0.17;1.30;N;M
+1;16;SLD;Niczyporuk Jerzy Grzegorz;113;0.03;0.25;N;M
+1;17;SLD;Kukla Agnieszka Sylwia;317;0.09;0.69;N;K
+1;18;SLD;Tazbir-Suchocka Magdalena;228;0.07;0.50;N;K
+1;19;SLD;Specylak Iwona Anna;165;0.05;0.36;N;K
+1;20;SLD;Demecki Adam;312;0.09;0.68;N;M
+1;21;SLD;Jędrzejewska Elżbieta Urszula;368;0.11;0.80;N;K
+1;22;SLD;Świętochowski Waldemar Wacław;133;0.04;0.29;N;M
+1;23;SLD;Piotrowicz Joanna Agnieszka;766;0.22;1.67;N;K
+1;1;PSL;Grala Leszek;4326;1.26;24.05;N;M
+1;2;PSL;Pawlak Józef;2233;0.65;12.42;N;M
+1;3;PSL;Maćkała Tadeusz;3181;0.92;17.69;N;M
+1;4;PSL;Zawis Sabina;886;0.26;4.93;N;K
+1;5;PSL;Zawierucha Stefan Adam;603;0.18;3.35;N;M
+1;6;PSL;Bernacki Zenon;605;0.18;3.36;N;M
+1;7;PSL;Kaźmierczak-Wojtasiewicz Ewa Aldona;432;0.13;2.40;N;K
+1;8;PSL;Gronowski Waldemar Ireneusz;223;0.06;1.24;N;M
+1;9;PSL;Litwin Czesław;333;0.10;1.85;N;M
+1;10;PSL;Kuty Roman Andrzej;569;0.17;3.16;N;M
+1;11;PSL;Wrona Maria;457;0.13;2.54;N;K
+1;12;PSL;Huk Kazimierz;518;0.15;2.88;N;M
+1;13;PSL;Hasiuk Jan Dominik;474;0.14;2.64;N;M
+1;14;PSL;Jarmułowicz Lidia Maria;215;0.06;1.20;N;K
+1;15;PSL;Krosnowski Roman Piotr;134;0.04;0.75;N;M
+1;16;PSL;Mikołajczyk Mariusz Piotr;234;0.07;1.30;N;M
+1;18;PSL;Sasiela Michał;156;0.05;0.87;N;M
+1;19;PSL;Wiśniewska Bożena;285;0.08;1.58;N;K
+1;20;PSL;Kaczyńska Marcelina;431;0.13;2.40;N;K
+1;21;PSL;Klimek Kazimierz Sławomir;400;0.12;2.22;N;M
+1;22;PSL;Leszczyńska Ryszarda Zofia;223;0.06;1.24;N;K
+1;23;PSL;Liszka Grażyna;342;0.10;1.90;N;K
+1;24;PSL;Zatchiej Zenon;628;0.18;3.49;N;M
+1;1;PO;Schetyna Grzegorz Juliusz;67670;19.66;49.51;T;M
+1;2;PO;Drozd Ewa;14205;4.13;10.39;T;K
+1;3;PO;Wojnarowski Norbert Ryszard;5981;1.74;4.38;T;M
+1;4;PO;Czernow Zofia;7740;2.25;5.66;T;K
+1;5;PO;Brodniak Roman Marek;5688;1.65;4.16;N;M
+1;6;PO;Kropiwnicki Robert;6029;1.75;4.41;T;M
+1;7;PO;Krawczyk Iwona Małgorzata;5682;1.65;4.16;N;K
+1;8;PO;Kwaśniewski Dariusz Jerzy;5125;1.49;3.75;N;M
+1;9;PO;Lewków Jarosław;542;0.16;0.40;N;M
+1;10;PO;Godlewski Bogusław Dariusz;1128;0.33;0.83;N;M
+1;11;PO;Bera Emilian Stanisław;2047;0.59;1.50;N;M
+1;12;PO;Kajpust Paweł Mariusz;588;0.17;0.43;N;M
+1;13;PO;Kołodziejska Halina Anastazja;1087;0.32;0.80;N;K
+1;14;PO;Wróblewski Krzysztof Ryszard;606;0.18;0.44;N;M
+1;15;PO;Alira Ali Jean Eric;795;0.23;0.58;N;M
+1;16;PO;Zbadyńska Katarzyna;520;0.15;0.38;N;K
+1;17;PO;Kosmalski Radosław;777;0.23;0.57;N;M
+1;18;PO;Solpa-Tertel Beata Bogusława;669;0.19;0.49;N;K
+1;19;PO;Sienkiewicz Aldona Agata;932;0.27;0.68;N;K
+1;20;PO;Sokołowska Alicja;1746;0.51;1.28;N;K
+1;21;PO;Radzięta Krystyna;552;0.16;0.40;N;K
+1;22;PO;Sadowska Maria;1827;0.53;1.34;N;K
+1;23;PO;Jedlecka Elżbieta Barbara;1018;0.30;0.74;N;K
+1;24;PO;Łużniak Jerzy Lucjan;3729;1.08;2.73;N;M
+2;1;PiS;Święczkowski Bogdan Roman;17109;7.59;31.53;T;M
+2;2;PiS;Zalewska Anna Elżbieta;14999;6.65;27.64;T;K
+2;3;PiS;Wiązowski Waldemar Bogdan;3498;1.55;6.45;N;M
+2;4;PiS;Dąbrowski Andrzej Wojciech;4188;1.86;7.72;N;M
+2;5;PiS;Zieliński Kamil Krzysztof;2975;1.32;5.48;N;M
+2;6;PiS;Bielawska Zuzanna;1927;0.85;3.55;N;K
+2;7;PiS;Szumiejko Eugeniusz;584;0.26;1.08;N;M
+2;8;PiS;Błasik Robert Artur;838;0.37;1.54;N;M
+2;9;PiS;Gaszyńska Elżbieta;970;0.43;1.79;N;K
+2;10;PiS;Tyniec Jacek;795;0.35;1.46;N;M
+2;11;PiS;Frankowska Iwona Krystyna;1032;0.46;1.90;N;K
+2;12;PiS;Furmanek Janusz Marian;394;0.17;0.73;N;M
+2;13;PiS;Koczot Tomasz Kazimierz;588;0.26;1.08;N;M
+2;14;PiS;Mucha Beata Maria;1471;0.65;2.71;N;K
+2;15;PiS;Natanek Wiesław;708;0.31;1.30;N;M
+2;16;PiS;Rejman Monika;2195;0.97;4.04;N;K
+2;1;SLD;Marosz Danuta;4777;2.12;23.68;N;K
+2;2;SLD;Dyduch Marek;7950;3.53;39.40;N;M
+2;3;SLD;Łącki Adam Edward;2085;0.92;10.33;N;M
+2;4;SLD;Kamińska Marzanna;1285;0.57;6.37;N;K
+2;5;SLD;Fasuga Rafał Paweł;376;0.17;1.86;N;M
+2;6;SLD;Słatyńska Bożena Helena;405;0.18;2.01;N;K
+2;7;SLD;Piątek Ewa Barbara;552;0.24;2.74;N;K
+2;8;SLD;Godlewski Zygmunt;261;0.12;1.29;N;M
+2;9;SLD;Socha Ilona Małgorzata;610;0.27;3.02;N;K
+2;10;SLD;Gackiewicz Michał Krzysztof;128;0.06;0.63;N;M
+2;11;SLD;Dorosz Ewa Anna;692;0.31;3.43;N;K
+2;12;SLD;Świątek Józef Jan;200;0.09;0.99;N;M
+2;13;SLD;Niewęgłowski Kazimierz;171;0.08;0.85;N;M
+2;14;SLD;Tworzydło Bernadeta Monika;109;0.05;0.54;N;K
+2;15;SLD;Kubaś Robert Waldemar;122;0.05;0.60;N;M
+2;16;SLD;Szopian Elżbieta Antonina;454;0.20;2.25;N;K
+2;1;PSL;Niebieszczański Ryszard Wiktor;5332;2.36;38.55;N;M
+2;2;PSL;Kurzawa Jarosław;1281;0.57;9.26;N;M
+2;3;PSL;Cal Grażyna Joanna;1058;0.47;7.65;N;K
+2;4;PSL;Zibrow Andrzej;565;0.25;4.08;N;M
+2;5;PSL;Wiszniewska Elżbieta;620;0.27;4.48;N;K
+2;6;PSL;Węgrzyn Andrzej Waldemar;261;0.12;1.89;N;M
+2;7;PSL;Mesjasz Joanna;311;0.14;2.25;N;K
+2;8;PSL;Nowak Ryszard Mieczysław;1395;0.62;10.09;N;M
+2;9;PSL;Korzewicz Monika;203;0.09;1.47;N;K
+2;10;PSL;Łuciów Marek Jerzy;260;0.12;1.88;N;M
+2;11;PSL;Siemczonek Barbara Łucja;319;0.14;2.31;N;K
+2;12;PSL;Piela Sylwia;278;0.12;2.01;N;K
+2;13;PSL;Longawa Stanisław Tadeusz;500;0.22;3.61;N;M
+2;14;PSL;Kowalczyk Zenon Jacek;308;0.14;2.23;N;M
+2;15;PSL;Marchlewski Grzegorz Ryszard;240;0.11;1.74;N;M
+2;16;PSL;Jaworska Dorota Adriana;901;0.40;6.51;N;K
+2;1;PO;Mrzygłocka Izabela Katarzyna;31697;14.05;30.96;T;K
+2;2;PO;Szulc Jakub Maciej;17230;7.64;16.83;T;M
+2;3;PO;Smolarz Tomasz;9893;4.39;9.66;T;M
+2;4;PO;Wielichowska Monika;10589;4.70;10.34;T;K
+2;5;PO;Jagła Robert Aleksander;4376;1.94;4.27;N;M
+2;6;PO;Organiściak Jerzy;4027;1.79;3.93;N;M
+2;7;PO;Kołacz-Leszczyńska Agnieszka Maria;6762;3.00;6.61;T;K
+2;8;PO;Gromadzka Dorota;2086;0.92;2.04;N;K
+2;9;PO;Świło Teresa;4431;1.96;4.33;N;K
+2;10;PO;Szczygieł Zbigniew;2872;1.27;2.81;N;M
+2;11;PO;Adamska Jadwiga Monika;1416;0.63;1.38;N;K
+2;12;PO;Linard-Krawczyńska Malwina Małgorzata;772;0.34;0.75;N;K
+2;13;PO;Konieczna-Enözel Dorota;1056;0.47;1.03;N;K
+2;14;PO;Rudzińska Grażyna Maria;945;0.42;0.92;N;K
+2;15;PO;Prostak Paweł Władysław;989;0.44;0.97;N;M
+2;16;PO;Piotrowicz Zbigniew;3227;1.43;3.15;N;M
+3;1;PiS;Jackiewicz Dawid Bohdan;26648;5.37;20.93;T;M
+3;2;PiS;Ujazdowski Kazimierz Michał;26221;5.28;20.60;T;M
+3;3;PiS;Hreniak Paweł Marek;2618;0.53;2.06;N;M
+3;4;PiS;Stachowiak-Różecka Mirosława Agnieszka;2952;0.59;2.32;N;K
+3;5;PiS;Świat Jacek;14904;3.00;11.71;T;M
+3;6;PiS;Babiarz Piotr Łukasz;3575;0.72;2.81;N;M
+3;7;PiS;Jaroch Andrzej Stanisław;2775;0.56;2.18;N;M
+3;8;PiS;Krysowata-Zielnica Jolanta;3318;0.67;2.61;N;K
+3;9;PiS;Ciołek Łukasz Tadeusz;986;0.20;0.77;N;M
+3;10;PiS;Włodarczyk Urszula Ewa;1624;0.33;1.28;N;K
+3;11;PiS;Kowalczyk Roman;1259;0.25;0.99;N;M
+3;12;PiS;Węgrzynowicz Sławomir Andrzej;791;0.16;0.62;N;M
+3;13;PiS;Kociński Wojciech Eugeniusz;1779;0.36;1.40;N;M
+3;14;PiS;Jędrysek Mariusz Orion;22381;4.51;17.58;T;M
+3;15;PiS;Kulig Alojzy Józef;924;0.19;0.73;N;M
+3;16;PiS;Pieńkowski Robert;517;0.10;0.41;N;M
+3;17;PiS;Bednarz Danuta Stanisława;989;0.20;0.78;N;K
+3;18;PiS;Kowańdy Agnieszka Ewa;280;0.06;0.22;N;K
+3;19;PiS;Tarczyńska Natalia Jolanta;1099;0.22;0.86;N;K
+3;20;PiS;Strączek Kamila Anna;617;0.12;0.48;N;K
+3;21;PiS;Kowalczyk Kamil Łukasz;839;0.17;0.66;N;M
+3;22;PiS;Popławska Renata;1287;0.26;1.01;N;K
+3;23;PiS;Zawodniak-Węgrzynowska Krystyna Adela;754;0.15;0.59;N;K
+3;24;PiS;Capik Marian;234;0.05;0.18;N;M
+3;25;PiS;Jach-Kobielska Barbara Irena;468;0.09;0.37;N;K
+3;26;PiS;Polański Artur Maciej;661;0.13;0.52;N;M
+3;27;PiS;Sokołowski Mariusz Dariusz;589;0.12;0.46;N;M
+3;28;PiS;Czarnecki Przemysław Maksymilian;6222;1.25;4.89;N;M
+3;1;SLD;Krasoń Janusz Mirosław;9609;1.94;35.92;N;M
+3;2;SLD;Trela Helena;2942;0.59;11.00;N;K
+3;3;SLD;Syska Michał Jan;2417;0.49;9.03;N;M
+3;4;SLD;Czajkowski Tomasz Robert;767;0.15;2.87;N;M
+3;5;SLD;Kruk-Gręziak Joanna Elżbieta;915;0.18;3.42;N;K
+3;6;SLD;Bernacki Henryk;869;0.18;3.25;N;M
+3;7;SLD;Morka Stefan;788;0.16;2.95;N;M
+3;8;SLD;Gulczyński Artur Cezary;816;0.16;3.05;N;M
+3;9;SLD;Wicha Stanisław;686;0.14;2.56;N;M
+3;10;SLD;Fitek Jerzy Andrzej;412;0.08;1.54;N;M
+3;11;SLD;Tabisz Bożena;558;0.11;2.09;N;K
+3;12;SLD;Damrath Jagoda Halina;206;0.04;0.77;N;K
+3;13;SLD;Zbroiński Roman;279;0.06;1.04;N;M
+3;14;SLD;Noga Beniamin;444;0.09;1.66;N;M
+3;15;SLD;Borowik Małgorzata Stanisława;247;0.05;0.92;N;K
+3;16;SLD;Grześkowicz Łukasz Paweł;194;0.04;0.73;N;M
+3;17;SLD;Syguła Bronisław Mateusz;415;0.08;1.55;N;M
+3;18;SLD;Padiasek Aleksandra;127;0.03;0.47;N;K
+3;19;SLD;Żak Przemysław Paweł;272;0.05;1.02;N;M
+3;20;SLD;Szafrańska-Nienart Anna;346;0.07;1.29;N;K
+3;21;SLD;Wroński Patryk Marek;265;0.05;0.99;N;M
+3;22;SLD;Włodarczyk Iwona Elżbieta;496;0.10;1.85;N;K
+3;23;SLD;Klewin Maria Barbara;135;0.03;0.50;N;K
+3;24;SLD;Milian Jarosław Michał;196;0.04;0.73;N;M
+3;25;SLD;Śmiałek Danuta Maria;440;0.09;1.64;N;K
+3;26;SLD;Mirowski Dawid Jan;146;0.03;0.55;N;M
+3;27;SLD;Kłosowski Dominik;402;0.08;1.50;N;M
+3;28;SLD;Lewandowska Alicja Mariola;1365;0.27;5.10;N;K
+3;1;PSL;Mańkowska Ewa Maria;5773;1.16;26.31;N;K
+3;2;PSL;Chlebosz Włodzimierz Stanisław;1225;0.25;5.58;N;M
+3;3;PSL;Antoniszyn-Klik Ilona Galia;833;0.17;3.80;N;K
+3;4;PSL;Kubacki Rafał Andrzej;1953;0.39;8.90;N;M
+3;5;PSL;Lech Lesław;424;0.09;1.93;N;M
+3;6;PSL;Szczerba Barbara;1575;0.32;7.18;N;K
+3;7;PSL;Hurkot Jan;1058;0.21;4.82;N;M
+3;8;PSL;Konopka Mariusz Edward;1224;0.25;5.58;N;M
+3;9;PSL;Szawan Andrzej;457;0.09;2.08;N;M
+3;10;PSL;Kuryś Hieronim Stanisław;896;0.18;4.08;N;M
+3;11;PSL;Wiraszka Joanna;307;0.06;1.40;N;K
+3;12;PSL;Drapiewski Andrzej;148;0.03;0.67;N;M
+3;13;PSL;Swadek-Schneider Dorota;360;0.07;1.64;N;K
+3;14;PSL;Rzepkowski Mirosław Tadeusz;224;0.05;1.02;N;M
+3;15;PSL;Chrzan Eugeniusz;540;0.11;2.46;N;M
+3;16;PSL;Olkiewicz Teresa Stanisława;362;0.07;1.65;N;K
+3;17;PSL;Szlachetka Robert;535;0.11;2.44;N;M
+3;18;PSL;Pilawka Tomasz;927;0.19;4.22;N;M
+3;19;PSL;Szylle Dariusz Władysław;27;0.01;0.12;N;M
+3;20;PSL;Bronowicka Joanna Barbara;719;0.14;3.28;N;K
+3;21;PSL;Kustroń Leszek;111;0.02;0.51;N;M
+3;22;PSL;Stachorzecka Maria Helena;118;0.02;0.54;N;K
+3;23;PSL;Sabat Alicja;335;0.07;1.53;N;K
+3;24;PSL;Trębacz Michał;382;0.08;1.74;N;M
+3;25;PSL;Szałankiewicz Krzysztof;309;0.06;1.41;N;M
+3;26;PSL;Mróz-Możdżonek Joanna Róża;233;0.05;1.06;N;K
+3;27;PSL;Turowski Ryszard Leon;891;0.18;4.06;N;M
+3;1;PO;Zdrojewski Bogdan Andrzej;149962;30.20;59.78;T;M
+3;2;PO;Wolak Ewa Wanda;11554;2.33;4.61;T;K
+3;3;PO;Piechota Sławomir Jan;11750;2.37;4.68;T;M
+3;4;PO;Młyńczak Aldona Janina;4855;0.98;1.94;N;K
+3;5;PO;Charłampowicz Jarosław;8399;1.69;3.35;T;M
+3;6;PO;Sidorowicz Władysław;3279;0.66;1.31;N;M
+3;7;PO;Huskowski Stanisław Tadeusz;7164;1.44;2.86;T;M
+3;8;PO;Jaroń Lilla Urszula;3336;0.67;1.33;N;K
+3;9;PO;Łapiński Marek;6357;1.28;2.53;T;M
+3;10;PO;Jaros Michał;9635;1.94;3.84;T;M
+3;11;PO;Raba Norbert Łukasz;3364;0.68;1.34;N;M
+3;12;PO;Pytlarz Grzegorz Piotr;248;0.05;0.10;N;M
+3;13;PO;Kaczor Roman Bronisław;5302;1.07;2.11;T;M
+3;14;PO;Wołowicz Piotr Tomasz;1662;0.33;0.66;N;M
+3;15;PO;Granowska Renata Małgorzata;4257;0.86;1.70;N;K
+3;16;PO;Burdzy Sebastian Robert;1073;0.22;0.43;N;M
+3;17;PO;Engel Małgorzata Elżbieta;1562;0.31;0.62;N;K
+3;18;PO;Sierpiński Cezary Maksymilian;1906;0.38;0.76;N;M
+3;19;PO;Zalewski Marek Krzysztof;818;0.16;0.33;N;M
+3;20;PO;Wróbel Anna Magdalena;1690;0.34;0.67;N;K
+3;21;PO;Machiński Dariusz;984;0.20;0.39;N;M
+3;22;PO;Efinowicz Wioletta Jadwiga;1585;0.32;0.63;N;K
+3;23;PO;Dzierzgowska-Herman Dobrosława Maria;306;0.06;0.12;N;K
+3;24;PO;Jędrzejewska Krystyna Bożena;790;0.16;0.31;N;K
+3;25;PO;Trybuła-Kiernicka Ewa Iwona;790;0.16;0.31;N;K
+3;26;PO;Dziwińska-Karaba Bożena;628;0.13;0.25;N;K
+3;27;PO;Wróblewska Krystyna Eliza;1514;0.30;0.60;N;K
+3;28;PO;Zieliński Maciej Jerzy;6099;1.23;2.43;T;M
+4;1;PiS;Złotowski Kosma Tadeusz;21607;5.88;26.80;T;K
+4;2;PiS;Latos Tomasz Edward;20308;5.52;25.19;T;M
+4;3;PiS;Kownacki Bartosz Józef;7735;2.10;9.59;T;M
+4;4;PiS;Żuraw Magdalena Kamila;2261;0.62;2.80;N;K
+4;5;PiS;Król Piotr Marek;5797;1.58;7.19;N;M
+4;6;PiS;Kiełpiński Marek Jan;1428;0.39;1.77;N;M
+4;7;PiS;Warda Maria Alina;2464;0.67;3.06;N;K
+4;8;PiS;Gawęda Jerzy Marek;1246;0.34;1.55;N;M
+4;9;PiS;Tarczewski Jacek Andrzej;1382;0.38;1.71;N;M
+4;10;PiS;Witkowski Marek Leon;1971;0.54;2.44;N;M
+4;11;PiS;Pilarska Danuta Stanisława;1517;0.41;1.88;N;K
+4;12;PiS;Sowińska Grażyna Maria;753;0.20;0.93;N;K
+4;13;PiS;Kowalik Jerzy;1765;0.48;2.19;N;M
+4;14;PiS;Jagiełłowicz Magdalena Wanda;658;0.18;0.82;N;K
+4;15;PiS;Mrugalska Krystyna;686;0.19;0.85;N;K
+4;16;PiS;Rega Tomasz Jan;1134;0.31;1.41;N;M
+4;17;PiS;Szabelska Grażyna Edyta;526;0.14;0.65;N;K
+4;18;PiS;Konwiński Janusz Andrzej;389;0.11;0.48;N;M
+4;19;PiS;Pastuszewski Stefan Marian;1382;0.38;1.71;N;M
+4;20;PiS;Szymańska Anna-Maria;1580;0.43;1.96;N;K
+4;21;PiS;Wiszniewska Renata Urszula;1008;0.27;1.25;N;K
+4;22;PiS;Walenciak Mariusz;1637;0.45;2.03;N;M
+4;23;PiS;Nycek Łukasz;362;0.10;0.45;N;M
+4;24;PiS;Młodzikowski Sławomir Krzysztof;1036;0.28;1.28;N;M
+4;1;SLD;Bańkowska Anna Danuta;16203;4.41;42.64;T;K
+4;2;SLD;Chojnacki Łukasz Karol;2324;0.63;6.12;N;M
+4;3;SLD;Gawron-Fiedorow Krystyna Danuta;2373;0.65;6.24;N;K
+4;4;SLD;Jaszczuk Zbigniew;2497;0.68;6.57;N;M
+4;5;SLD;Grugel Zbigniew Józef;1905;0.52;5.01;N;M
+4;6;SLD;Molus Marta Hanna;1260;0.34;3.32;N;K
+4;7;SLD;Krzesiński Tomasz;650;0.18;1.71;N;M
+4;8;SLD;Ludwisiak-Kawecka Anna Magdalena;413;0.11;1.09;N;K
+4;9;SLD;Rucińska Małgorzata Maria;632;0.17;1.66;N;K
+4;10;SLD;Feldheim Helena Zofia;696;0.19;1.83;N;K
+4;11;SLD;Gackowska Wanda;502;0.14;1.32;N;K
+4;12;SLD;Janeczek Stefan;579;0.16;1.52;N;M
+4;13;SLD;Makowski Maciej Sławomir;935;0.25;2.46;N;M
+4;14;SLD;Domański Jerzy Stanisław;467;0.13;1.23;N;M
+4;15;SLD;Błaszak Zdzisław Tomasz;246;0.07;0.65;N;M
+4;16;SLD;Pogodziński Ignacy Ryszard;1319;0.36;3.47;N;M
+4;17;SLD;Kobiera Krzysztof Lech;296;0.08;0.78;N;M
+4;18;SLD;Marcinkowska Magdalena Maria;457;0.12;1.20;N;K
+4;19;SLD;Dulińska Agnieszka;461;0.13;1.21;N;K
+4;20;SLD;Murawski Piotr Zbigniew;370;0.10;0.97;N;M
+4;21;SLD;Czyż Emilia;494;0.13;1.30;N;K
+4;22;SLD;Sucharska Dorota;414;0.11;1.09;N;K
+4;23;SLD;Arent Wiesława Teresa;292;0.08;0.77;N;K
+4;24;SLD;Lewandowski Lech Stanisław;2216;0.60;5.83;N;M
+4;1;PSL;Kłopotek Eugeniusz;13287;3.61;43.55;T;M
+4;2;PSL;Mes Ewa Monika;3222;0.88;10.56;N;K
+4;3;PSL;Kozłowska Zofia Władysława;2235;0.61;7.33;N;K
+4;4;PSL;Zaborowski Tadeusz;1200;0.33;3.93;N;M
+4;5;PSL;Majewski Tadeusz Jan;1347;0.37;4.42;N;M
+4;6;PSL;Woźniak Dariusz Robert;1473;0.40;4.83;N;M
+4;7;PSL;Repulak Dorota Maria;491;0.13;1.61;N;K
+4;8;PSL;Stroiński Leszek Stanisław;437;0.12;1.43;N;M
+4;9;PSL;Ankiewicz-Jasińska Ewa Teresa;240;0.07;0.79;N;K
+4;10;PSL;Miłowski Tomasz Edmund;485;0.13;1.59;N;M
+4;11;PSL;Bielińska Halina Józefa;257;0.07;0.84;N;K
+4;12;PSL;Przybył Marlena Ewa;247;0.07;0.81;N;K
+4;13;PSL;Bury Barbara;343;0.09;1.12;N;K
+4;14;PSL;Gadacz Edyta;302;0.08;0.99;N;K
+4;15;PSL;Prochownik Wiesława Stanisława;114;0.03;0.37;N;K
+4;16;PSL;Jankiewicz Iwona Maria;115;0.03;0.38;N;K
+4;17;PSL;Drewczyński Grzegorz;193;0.05;0.63;N;M
+4;18;PSL;Gajewicz Maciej Rafał;403;0.11;1.32;N;M
+4;19;PSL;Ludwikowski Michał;133;0.04;0.44;N;M
+4;20;PSL;Kawka Ryszard Stanisław;556;0.15;1.82;N;M
+4;21;PSL;Borkowska Anna;812;0.22;2.66;N;K
+4;22;PSL;Krasicki Adam Henryk;353;0.10;1.16;N;M
+4;23;PSL;Ornowski Alojzy;162;0.04;0.53;N;M
+4;24;PSL;Kurzawa Dariusz;2102;0.57;6.89;N;M
+4;1;PO;Sikorski Radosław Tomasz;91720;24.95;57.71;T;M
+4;2;PO;Piotrowska Teresa;10009;2.72;6.30;T;K
+4;3;PO;Olszewski Paweł Bartosz;9257;2.52;5.82;T;M
+4;4;PO;Katulski Jarosław Paweł;5872;1.60;3.69;T;M
+4;5;PO;Kozłowska Iwona Maria;4668;1.27;2.94;T;K
+4;6;PO;Roszak Grzegorz Michał;2625;0.71;1.65;N;M
+4;7;PO;Brejza Krzysztof;12600;3.43;7.93;T;M
+4;8;PO;Nowakowska Aleksandra Bogumiła;4501;1.22;2.83;N;K
+4;9;PO;Ciemniak Grażyna Jolanta;4590;1.25;2.89;N;K
+4;10;PO;Drzazgowski Józef;1415;0.38;0.89;N;M
+4;11;PO;Balbuza-Walkowska Lucyna Elżbieta;717;0.20;0.45;N;K
+4;12;PO;Hardyk Tomasz Paweł;296;0.08;0.19;N;M
+4;13;PO;Eliasz Józef Henryk;1513;0.41;0.95;N;M
+4;14;PO;Janowska-Giłka Halina Maria;486;0.13;0.31;N;K
+4;15;PO;Macura Angelika Bożena;808;0.22;0.51;N;K
+4;16;PO;Błoński Krzysztof Jan;350;0.10;0.22;N;M
+4;17;PO;Wasilewski Andrzej Mieczysław;356;0.10;0.22;N;M
+4;18;PO;Szeliga Agnieszka;2003;0.54;1.26;N;K
+4;19;PO;Marzec Maciej Jan;554;0.15;0.35;N;M
+4;20;PO;Biernacki Marek;680;0.18;0.43;N;M
+4;21;PO;Grabarkiewicz Natalia;846;0.23;0.53;N;K
+4;22;PO;Drzycimska Jadwiga;626;0.17;0.39;N;K
+4;23;PO;Sławeta Alina Izabela;586;0.16;0.37;N;K
+4;24;PO;Grobelski Ryszard Zdzisław;1860;0.51;1.17;N;M
+5;1;PiS;Ardanowski Jan Krzysztof;14841;4.22;16.30;T;M
+5;2;PiS;Zbonikowski Łukasz;17327;4.93;19.03;T;M
+5;3;PiS;Girzyński Zbigniew;24907;7.08;27.36;T;M
+5;4;PiS;Drab Marzenna Stefania;4782;1.36;5.25;N;K
+5;5;PiS;Przybylski Przemysław Tomasz;5844;1.66;6.42;N;M
+5;6;PiS;Meller Dariusz Henryk;1599;0.45;1.76;N;M
+5;7;PiS;Sobecka Anna Elżbieta;6990;1.99;7.68;T;K
+5;8;PiS;Turska Maria Teresa;897;0.26;0.99;N;K
+5;9;PiS;Stańko Małgorzata;1155;0.33;1.27;N;K
+5;10;PiS;Sochacki Jarosław;1067;0.30;1.17;N;M
+5;11;PiS;Konieczna Barbara Krystyna;1015;0.29;1.11;N;K
+5;12;PiS;Kończyńska Ewa Maria;1015;0.29;1.11;N;K
+5;13;PiS;Tyburski Jacek Aleksander;634;0.18;0.70;N;M
+5;14;PiS;Nadolski Jerzy Marian;490;0.14;0.54;N;M
+5;15;PiS;Litwin Grażyna Krystyna;589;0.17;0.65;N;K
+5;16;PiS;Trawiński Marek Piotr;1060;0.30;1.16;N;M
+5;17;PiS;Grzegórski Konstanty Antoni;788;0.22;0.87;N;M
+5;18;PiS;Maniewska Elżbieta;434;0.12;0.48;N;K
+5;19;PiS;Czyżykowski Andrzej;235;0.07;0.26;N;M
+5;20;PiS;Szymański Sławomir Andrzej;1423;0.40;1.56;N;M
+5;21;PiS;Jaranowski Wojciech;836;0.24;0.92;N;M
+5;22;PiS;Szlitkus Grzegorz Wojciech;297;0.08;0.33;N;M
+5;23;PiS;Lamparska Mariola;615;0.17;0.68;N;K
+5;24;PiS;Tomaszewski Tadeusz Zygmunt;339;0.10;0.37;N;M
+5;25;PiS;Gilewicz Iwona Danuta;635;0.18;0.70;N;K
+5;26;PiS;Banasik Paweł Piotr;1235;0.35;1.36;N;M
+5;1;SLD;Wenderlich Jerzy Jan;19078;5.43;54.12;T;M
+5;2;SLD;Pierzchała Maria Jolanta;1464;0.42;4.15;N;K
+5;3;SLD;Łuczak Krystian Walery;2980;0.85;8.45;N;M
+5;4;SLD;Polak Urszula;1792;0.51;5.08;N;K
+5;5;SLD;Kukucki Krzysztof Aleksander;2298;0.65;6.52;N;M
+5;6;SLD;Bagniewska Helena Teresa;368;0.10;1.04;N;K
+5;7;SLD;Jasiński Wiesław Eugeniusz;405;0.12;1.15;N;M
+5;8;SLD;Szparaga Elżbieta Anna;669;0.19;1.90;N;K
+5;9;SLD;Pilarski Marcin Andrzej;661;0.19;1.88;N;M
+5;10;SLD;Stasiak Irena Maria;256;0.07;0.73;N;K
+5;11;SLD;Szczurowski Arkadiusz Wojciech;284;0.08;0.81;N;M
+5;12;SLD;Sosińska Aneta;420;0.12;1.19;N;K
+5;13;SLD;Mizera Łukasz Marcin;487;0.14;1.38;N;M
+5;14;SLD;Arbart Elżbieta Ewa;266;0.08;0.75;N;K
+5;15;SLD;Szymańska Danuta;314;0.09;0.89;N;K
+5;16;SLD;Beksa Alicja Mariola;257;0.07;0.73;N;K
+5;17;SLD;Steinert Andrzej Wojciech;283;0.08;0.80;N;M
+5;18;SLD;Grzelak Maria Magdalena;217;0.06;0.62;N;K
+5;19;SLD;Czubakowski Rafał Daniel;84;0.02;0.24;N;M
+5;20;SLD;Trojanowska Izabella Barbara;475;0.14;1.35;N;K
+5;21;SLD;Blumkowski Mariusz;281;0.08;0.80;N;M
+5;22;SLD;Kwaśniewski Tomasz Wiktor;480;0.14;1.36;N;M
+5;23;SLD;Szczerbiak Roman Tadeusz;264;0.08;0.75;N;M
+5;24;SLD;Karbowska Agnieszka;256;0.07;0.73;N;K
+5;25;SLD;Piotrowska Justyna Danuta;353;0.10;1.00;N;K
+5;26;SLD;Leszczyński Stanisław Radosław;561;0.16;1.59;N;M
+5;1;PSL;Kierzkowska Ewa Sławomira;6913;1.97;20.67;N;K
+5;2;PSL;Sosnowski Zbigniew;7354;2.09;21.99;T;M
+5;3;PSL;Kłopotek Andrzej;4828;1.37;14.44;N;M
+5;4;PSL;Petrykowski Piotr Paweł;586;0.17;1.75;N;M
+5;5;PSL;Zakrzewska Edyta Lidia;2011;0.57;6.01;N;K
+5;6;PSL;Wichrowska Magdalena;1336;0.38;3.99;N;K
+5;7;PSL;Korgol Edmund Stanisław;432;0.12;1.29;N;M
+5;8;PSL;Klimkiewicz Marek;768;0.22;2.30;N;M
+5;9;PSL;Bułkowski Krzysztof;382;0.11;1.14;N;M
+5;10;PSL;Kwiatkowski Piotr Tomasz;502;0.14;1.50;N;M
+5;11;PSL;Dąbrowska Danuta Ewa;685;0.19;2.05;N;K
+5;12;PSL;Pokora Krzysztof Piotr;449;0.13;1.34;N;M
+5;13;PSL;Podyma Józef Stanisław;465;0.13;1.39;N;M
+5;14;PSL;Domian Grażyna Stefania;125;0.04;0.37;N;K
+5;15;PSL;Pastuszka Anna;297;0.08;0.89;N;K
+5;16;PSL;Rachubińska Marzena Ewa;247;0.07;0.74;N;K
+5;17;PSL;Gapiński Henryk;455;0.13;1.36;N;M
+5;18;PSL;Lewandowska-Mazurek Krystyna;167;0.05;0.50;N;K
+5;19;PSL;Elwertowska Ewa;200;0.06;0.60;N;K
+5;20;PSL;Kupczak Marzenna Elżbieta;87;0.02;0.26;N;K
+5;21;PSL;Owczarz Andrzej;429;0.12;1.28;N;M
+5;22;PSL;Róg Leszek Władysław;220;0.06;0.66;N;M
+5;23;PSL;Lewandowski Zbigniew Karol;764;0.22;2.28;N;M
+5;24;PSL;Dworzyński Tadeusz Jan;120;0.03;0.36;N;M
+5;25;PSL;Sternicka Violetta;406;0.12;1.21;N;K
+5;26;PSL;Baranowski Krzysztof;3215;0.91;9.61;N;M
+5;1;PO;Lenz Tomasz;28998;8.25;20.61;T;M
+5;2;PO;Kopaczewska Domicela Katarzyna;16992;4.83;12.08;T;K
+5;3;PO;Mężydło Antoni;17077;4.86;12.14;T;M
+5;4;PO;Szymański Tomasz Józef;7510;2.14;5.34;T;M
+5;5;PO;Krzemińska Beata;5385;1.53;3.83;N;K
+5;6;PO;Karpiński Grzegorz;6723;1.91;4.78;N;M
+5;7;PO;Socha Zbigniew Józef;5490;1.56;3.90;N;M
+5;8;PO;Rycharski Łukasz;4306;1.22;3.06;N;M
+5;9;PO;Wojtkowski Marek;7352;2.09;5.23;T;M
+5;10;PO;Królikowska-Ziemkiewicz Barbara Maria;3947;1.12;2.81;N;K
+5;11;PO;Sokołowska Mariola Henryka;4137;1.18;2.94;N;K
+5;12;PO;Michnicki Tomasz Krzysztof;875;0.25;0.62;N;M
+5;13;PO;Zaleski Jerzy;1916;0.54;1.36;N;M
+5;14;PO;Błaszkiewicz Marek;1577;0.45;1.12;N;M
+5;15;PO;Dąbrowski Marcin Tomasz;1269;0.36;0.90;N;M
+5;16;PO;Łańcucka Dorota;1314;0.37;0.93;N;K
+5;17;PO;Wojciechowski Piotr;1467;0.42;1.04;N;M
+5;18;PO;Mansour Lotfi;2554;0.73;1.82;N;M
+5;19;PO;Szmerk Małgorzata;669;0.19;0.48;N;K
+5;20;PO;Graczyk Mirosław Roman;1644;0.47;1.17;N;M
+5;21;PO;Wasiluk Barbara Marianna;1169;0.33;0.83;N;K
+5;22;PO;Skiba Emilia;1303;0.37;0.93;N;K
+5;23;PO;Jałoszyński Dariusz;892;0.25;0.63;N;M
+5;24;PO;Nowak Krystyna Barbara;1076;0.31;0.76;N;K
+5;25;PO;Orbaczewska Teresa;1132;0.32;0.80;N;K
+5;26;PO;Dzięcioł Janusz Andrzej;13907;3.95;9.89;T;M
+6;1;PiS;Kruk Elżbieta Małgorzata;30048;6.53;16.92;T;K
+6;2;PiS;Michałkiewicz Krzysztof Stefan;11816;2.57;6.66;T;M
+6;3;PiS;Pogonowski Piotr;8287;1.80;4.67;N;M
+6;4;PiS;Sprawka Lech Stanisław;23848;5.18;13.43;T;M
+6;5;PiS;Masłowska Gabriela;17777;3.86;10.01;T;K
+6;6;PiS;Sadurska Małgorzata Barbara;15946;3.47;8.98;T;K
+6;7;PiS;Stawiarski Jarosław Piotr;10126;2.20;5.70;N;M
+6;8;PiS;Żaczek Jarosław;11278;2.45;6.35;T;M
+6;9;PiS;Głuchowski Krzysztof;8438;1.83;4.75;N;M
+6;10;PiS;Solis Tomasz Piotr;3371;0.73;1.90;N;M
+6;11;PiS;Majkowski Ryszard Marek;5501;1.20;3.10;N;M
+6;12;PiS;Mach Jadwiga;1215;0.26;0.68;N;K
+6;13;PiS;Pisarek-Piotrowska Sylwia Ewa;838;0.18;0.47;N;K
+6;14;PiS;Radek Włodzimierz Sylwester;2619;0.57;1.48;N;M
+6;15;PiS;Tor Lech Zbigniew;2966;0.64;1.67;N;M
+6;16;PiS;Paprocki Jarema Maciej;736;0.16;0.41;N;K
+6;17;PiS;Podkański Zdzisław Zbigniew;8102;1.76;4.56;N;M
+6;18;PiS;Duńska Małgorzata Maria;382;0.08;0.22;N;K
+6;19;PiS;Skiba Tadeusz Jan;2323;0.50;1.31;N;M
+6;20;PiS;Tułajew Sylwester Karol;3168;0.69;1.78;N;M
+6;21;PiS;Krawczyk Agnieszka;1863;0.40;1.05;N;K
+6;22;PiS;Skrzat Dorota;505;0.11;0.28;N;K
+6;23;PiS;Dobrzyńska Dorota;585;0.13;0.33;N;K
+6;24;PiS;Kozłowski Andrzej Marek;638;0.14;0.36;N;M
+6;25;PiS;Dragan Maria;466;0.10;0.26;N;K
+6;26;PiS;Nowak Marcin Andrzej;1461;0.32;0.82;N;M
+6;27;PiS;Świątkowska Teresa;724;0.16;0.41;N;K
+6;28;PiS;Widomska Dorota;914;0.20;0.51;N;K
+6;29;PiS;Szymoniuk Grzegorz Dariusz;381;0.08;0.21;N;M
+6;30;PiS;Księska Eliza Angelika;1221;0.27;0.69;N;K
+6;1;SLD;Czerniak Jacek Andrzej;5965;1.30;20.02;T;M
+6;2;SLD;Szyszkowska Maria;3239;0.70;10.87;N;K
+6;3;SLD;Goławska Kazimiera;4364;0.95;14.64;N;K
+6;4;SLD;Teresiński Grzegorz;2239;0.49;7.51;N;M
+6;5;SLD;Mazur Stanisław Jan;1853;0.40;6.22;N;M
+6;6;SLD;Jabłońska-Chmielewska Anna Maria;859;0.19;2.88;N;K
+6;7;SLD;Kufel Tomasz;618;0.13;2.07;N;M
+6;8;SLD;Sobaszek Andrzej;758;0.16;2.54;N;M
+6;9;SLD;Tałęda Julian Michał;239;0.05;0.80;N;M
+6;10;SLD;Berej Ewa;398;0.09;1.34;N;K
+6;11;SLD;Bielski Paweł Łukasz;213;0.05;0.71;N;M
+6;12;SLD;Czechowska-Kosacka Aneta Maria;225;0.05;0.76;N;K
+6;13;SLD;Czyżyk Stefan;485;0.11;1.63;N;M
+6;14;SLD;Dudzińska Elżbieta Jadwiga;266;0.06;0.89;N;K
+6;15;SLD;Gaj-Godyńska Halina;97;0.02;0.33;N;K
+6;16;SLD;Gąbka Jan;830;0.18;2.79;N;M
+6;17;SLD;Kaźmierczak Józef Tomasz;169;0.04;0.57;N;M
+6;18;SLD;Chudzik Robert Stanisław;310;0.07;1.04;N;M
+6;19;SLD;Kozak Jolanta Maria;306;0.07;1.03;N;K
+6;20;SLD;Lenart Agnieszka Monika;968;0.21;3.25;N;K
+6;21;SLD;Lewczuk Edward Jan;396;0.09;1.33;N;M
+6;22;SLD;Skrzypczak Piotr Józef;202;0.04;0.68;N;M
+6;23;SLD;Orłowski Mirosław;179;0.04;0.60;N;M
+6;24;SLD;Lenart Katarzyna;502;0.11;1.68;N;K
+6;25;SLD;Rzedzicka Karolina Barbara;185;0.04;0.62;N;K
+6;26;SLD;Torbicz Mateusz Tymon;66;0.01;0.22;N;M
+6;27;SLD;Siennicka Katarzyna Urszula;284;0.06;0.95;N;K
+6;28;SLD;Świerczyński Grzegorz;224;0.05;0.75;N;M
+6;29;SLD;Żmurek Michał;211;0.05;0.71;N;M
+6;30;SLD;Szymański Zygmunt Jerzy;3149;0.68;10.57;N;M
+6;1;PSL;Hetman Krzysztof Andrzej;10804;2.35;18.75;T;M
+6;2;PSL;Łopata Jan Zbigniew;8725;1.90;15.15;T;M
+6;3;PSL;Starownik Marian Roman;5310;1.15;9.22;N;M
+6;4;PSL;Czerska-Gąsiewska Hanna Barbara;3331;0.72;5.78;N;K
+6;5;PSL;Smolarz Henryk Józef;6191;1.35;10.75;N;M
+6;6;PSL;Rzetelski Piotr Sławomir;4311;0.94;7.48;N;M
+6;7;PSL;Rodzik Zenon Jerzy;2291;0.50;3.98;N;M
+6;8;PSL;Świętochowski Leszek Jan;3999;0.87;6.94;N;M
+6;9;PSL;Ciupak Andrzej Piotr;426;0.09;0.74;N;M
+6;10;PSL;Popiołek Witold Zygmunt;1240;0.27;2.15;N;M
+6;11;PSL;Skrabucha Adam Piotr;423;0.09;0.73;N;M
+6;12;PSL;Kołodziejczyk Dariusz Stanisław;1071;0.23;1.86;N;M
+6;13;PSL;Biegalska Janina Ewa;506;0.11;0.88;N;K
+6;14;PSL;Borzęcka Hanna Irena;299;0.06;0.52;N;K
+6;15;PSL;Stefanek Anna;306;0.07;0.53;N;K
+6;16;PSL;Prządka Tomasz;729;0.16;1.27;N;M
+6;17;PSL;Kołodziejczyk Genowefa;226;0.05;0.39;N;K
+6;18;PSL;Gawdzik Zbigniew Józef;818;0.18;1.42;N;M
+6;19;PSL;Szmidt Anna;224;0.05;0.39;N;K
+6;20;PSL;Wójtowicz Kazimiera Ewa;459;0.10;0.80;N;K
+6;21;PSL;Bujak Małgorzata;543;0.12;0.94;N;K
+6;22;PSL;Gorgol Zofia;299;0.06;0.52;N;K
+6;23;PSL;Solarski Tadeusz;815;0.18;1.41;N;M
+6;24;PSL;Ćwirta Katarzyna Aneta;142;0.03;0.25;N;K
+6;25;PSL;Guz Ewa Elżbieta;526;0.11;0.91;N;K
+6;26;PSL;Grzywaczewska Anna;462;0.10;0.80;N;K
+6;27;PSL;Sienkiewicz Małgorzata Barbara;310;0.07;0.54;N;K
+6;28;PSL;Kwiecień Zofia Barbara;721;0.16;1.25;N;K
+6;29;PSL;Seredyn Elżbieta;523;0.11;0.91;N;K
+6;30;PSL;Zdanowski Adam Grzegorz;1576;0.34;2.74;N;M
+6;1;PO;Gąsior-Marek Magdalena Ewa;14676;3.19;12.62;T;K
+6;2;PO;Mucha Joanna;45568;9.90;39.20;T;K
+6;3;PO;Karpiński Włodzimierz Witold;16498;3.59;14.19;T;M
+6;4;PO;Wilk Wojciech;7772;1.69;6.69;N;M
+6;5;PO;Kucharski Cezary;7910;1.72;6.80;T;M
+6;6;PO;Kulka Maciej Andrzej;5963;1.30;5.13;N;M
+6;7;PO;Kwapisz Kornelia;2156;0.47;1.85;N;K
+6;8;PO;Zalewski Jacek Kazimierz;968;0.21;0.83;N;M
+6;9;PO;Białowąs Waldemar Franciszek;1774;0.39;1.53;N;M
+6;10;PO;Szczucki Piotr;1046;0.23;0.90;N;M
+6;11;PO;Strawa Andrzej;582;0.13;0.50;N;M
+6;12;PO;Żyśko Robert Artur;384;0.08;0.33;N;M
+6;13;PO;Lipiec Agnieszka Monika;531;0.12;0.46;N;K
+6;14;PO;Kowalik Maciej;462;0.10;0.40;N;M
+6;15;PO;Stec Robert;286;0.06;0.25;N;M
+6;16;PO;Stalęga Mariola Anna;250;0.05;0.22;N;K
+6;17;PO;Jachim Ewa Anna;162;0.04;0.14;N;K
+6;18;PO;Daniewski Leszek Kazimierz;1914;0.42;1.65;N;M
+6;19;PO;Klechowicz Dariusz Władysław;201;0.04;0.17;N;M
+6;20;PO;Sęk Teresa Maria;326;0.07;0.28;N;K
+6;21;PO;Szczepaniak Monika;548;0.12;0.47;N;K
+6;22;PO;Guz Radosław Teofil;369;0.08;0.32;N;M
+6;23;PO;Chwała Teresa;250;0.05;0.22;N;K
+6;24;PO;Bielecka Izabela;943;0.20;0.81;N;K
+6;25;PO;Gajak Andrzej Leszek;251;0.05;0.22;N;M
+6;26;PO;Lachowski Krzysztof Jan;236;0.05;0.20;N;M
+6;27;PO;Czuryszkiewicz Krystyna;322;0.07;0.28;N;K
+6;28;PO;Jurkowski Zbigniew Wiktor;1492;0.32;1.28;N;M
+6;29;PO;Lemparty Ewelina;236;0.05;0.20;N;K
+6;30;PO;Glijer Anna Elżbieta;2176;0.47;1.87;N;K
+7;1;PiS;Mazurek Beata;22249;7.00;17.93;T;K
+7;2;PiS;Zawiślak Sławomir;24478;7.70;19.73;T;M
+7;3;PiS;Bejda Ernest Gerard;4585;1.44;3.70;N;M
+7;4;PiS;Abramowicz Adam Krzysztof;12708;4.00;10.24;T;M
+7;5;PiS;Rębek Jerzy;7503;2.36;6.05;T;M
+7;6;PiS;Młynarczyk Henryk;4325;1.36;3.49;N;M
+7;7;PiS;Hałas Teresa;4381;1.38;3.53;N;K
+7;8;PiS;Zańko Mariusz Artur;3188;1.00;2.57;N;M
+7;9;PiS;Szeliga Piotr;8222;2.59;6.63;T;M
+7;10;PiS;Szwaj Jerzy Ryszard;2920;0.92;2.35;N;M
+7;11;PiS;Podoba Paweł Karol;2967;0.93;2.39;N;M
+7;12;PiS;Gmyz Maria;2442;0.77;1.97;N;K
+7;13;PiS;Szwed Zdzisław;470;0.15;0.38;N;M
+7;14;PiS;Brodawka Jan;3915;1.23;3.16;N;M
+7;15;PiS;Pudło Agnieszka;625;0.20;0.50;N;K
+7;16;PiS;Zagdański Dariusz Zbigniew;979;0.31;0.79;N;M
+7;17;PiS;Suchocka Hanna;1395;0.44;1.12;N;K
+7;18;PiS;Czarnecka Halina;1131;0.36;0.91;N;K
+7;19;PiS;Maksymiuk Marta;651;0.20;0.52;N;K
+7;20;PiS;Duszek Marcin Kamil;5226;1.64;4.21;N;M
+7;21;PiS;Panasiuk Ewa Teresa;3022;0.95;2.44;N;K
+7;22;PiS;Gołoś Hanna Maria;754;0.24;0.61;N;K
+7;23;PiS;Kusiak-Janiec Anna;945;0.30;0.76;N;K
+7;24;PiS;Mulawa Michał;5003;1.57;4.03;N;M
+7;1;SLD;Matuszczak Zbigniew;8017;2.52;32.71;T;M
+7;2;SLD;Bajkowski Jan Józef;4104;1.29;16.74;N;M
+7;3;SLD;Kurzępa Irena;3142;0.99;12.82;N;K
+7;4;SLD;Organista Kazimierz Stanisław;857;0.27;3.50;N;M
+7;5;SLD;Stachura Rafał Artur;1143;0.36;4.66;N;M
+7;6;SLD;Piasko Mirosława;526;0.17;2.15;N;K
+7;7;SLD;Żbikowski Krzysztof Adam;969;0.30;3.95;N;M
+7;8;SLD;Bożek Krzysztof;353;0.11;1.44;N;M
+7;9;SLD;Chwaszcz Agnieszka;491;0.15;2.00;N;K
+7;10;SLD;Fręchowicz Wojciech;105;0.03;0.43;N;M
+7;11;SLD;Fudali Włodzimierz;532;0.17;2.17;N;M
+7;12;SLD;Herda Iwona;326;0.10;1.33;N;K
+7;13;SLD;Iwaniuk Iwona;560;0.18;2.28;N;K
+7;14;SLD;Kamiński Henryk Krzysztof;820;0.26;3.35;N;M
+7;15;SLD;Kudzia Wiesława;212;0.07;0.86;N;K
+7;16;SLD;Nowacka Jadwiga Maria;404;0.13;1.65;N;K
+7;17;SLD;Perechubko-Mirosław Teresa;210;0.07;0.86;N;K
+7;18;SLD;Piasecki Paweł Rajmund;157;0.05;0.64;N;M
+7;19;SLD;Pietrusiński Rafał Grzegorz;148;0.05;0.60;N;M
+7;20;SLD;Sieńczyk Eugeniusz;126;0.04;0.51;N;M
+7;21;SLD;Wojewódzka Ewa;533;0.17;2.17;N;K
+7;22;SLD;Zaleńska-Sak Teresa Stanisława;232;0.07;0.95;N;K
+7;23;SLD;Zawierucha Joanna Katarzyna;331;0.10;1.35;N;K
+7;24;SLD;Szoc Jan Włodzimierz;215;0.07;0.88;N;M
+7;1;PSL;Stefaniuk Franciszek Jerzy;10527;3.31;18.19;T;M
+7;2;PSL;Sławecki Tadeusz;7916;2.49;13.68;N;M
+7;3;PSL;Tokarska Genowefa;8906;2.80;15.39;T;K
+7;4;PSL;Szpak Janusz Krzysztof;5095;1.60;8.80;N;M
+7;5;PSL;Królikowska Teresa;1514;0.48;2.62;N;K
+7;6;PSL;Kowalczyk Jan Franciszek;4827;1.52;8.34;N;M
+7;7;PSL;Zając Tomasz Piotr;2973;0.94;5.14;N;M
+7;8;PSL;Mielnicki Kazimierz;1774;0.56;3.06;N;M
+7;9;PSL;Gadomska Maria Teresa;619;0.19;1.07;N;K
+7;10;PSL;Kloc Janusz Adam;1502;0.47;2.59;N;M
+7;11;PSL;Bondyra Krystyna Teresa;774;0.24;1.34;N;K
+7;12;PSL;Drozdowska Krystyna Florianna;140;0.04;0.24;N;K
+7;13;PSL;Kozaczuk Lucyna;847;0.27;1.46;N;K
+7;14;PSL;Fidecka Edyta Barbara;859;0.27;1.48;N;K
+7;15;PSL;Ożóg Tomasz;664;0.21;1.15;N;M
+7;16;PSL;Kowalczuk Zofia;278;0.09;0.48;N;K
+7;17;PSL;Matyjanka Renata Anna;455;0.14;0.79;N;K
+7;18;PSL;Iwaniuk Elżbieta Stanisława;749;0.24;1.29;N;K
+7;19;PSL;Chodyka Marcin Tadeusz;267;0.08;0.46;N;M
+7;20;PSL;Deniszczuk Piotr;530;0.17;0.92;N;M
+7;21;PSL;Podkański Mariusz Józef;1789;0.56;3.09;N;M
+7;22;PSL;Juszczak Artur Paweł;591;0.19;1.02;N;M
+7;23;PSL;Kiczyński Mariusz Jan;2094;0.66;3.62;N;M
+7;24;PSL;Stanibuła Ryszard Zbigniew;2192;0.69;3.79;N;M
+7;1;PO;Żmijan Stanisław;14202;4.47;22.54;T;M
+7;2;PO;Grad Mariusz;9962;3.13;15.81;T;M
+7;3;PO;Mazurkiewicz Hanna Małgorzata;4574;1.44;7.26;N;K
+7;4;PO;Kucharska Elżbieta Krystyna;5081;1.60;8.06;N;K
+7;5;PO;Raniewicz Grzegorz Artur;7907;2.49;12.55;T;M
+7;6;PO;Broniewicz Bogusław;4403;1.38;6.99;N;M
+7;7;PO;Piętak-Faryna Agnieszka Barbara;1451;0.46;2.30;N;K
+7;8;PO;Garaj Tadeusz;1632;0.51;2.59;N;M
+7;9;PO;Wetoszka Krystyna;721;0.23;1.14;N;K
+7;10;PO;Zieliński Bogdan;509;0.16;0.81;N;M
+7;11;PO;Mazur Marian Jan;1184;0.37;1.88;N;M
+7;12;PO;Furlepa Michał;812;0.26;1.29;N;M
+7;13;PO;Andrzejuk Marzenna Maria;777;0.24;1.23;N;K
+7;14;PO;Łucjan Łukasz Adam;1177;0.37;1.87;N;M
+7;15;PO;Wrzesień Jerzy;1172;0.37;1.86;N;M
+7;16;PO;Kolbus Barbara Małgorzata;379;0.12;0.60;N;K
+7;17;PO;Krzykała Marcin Wojciech;255;0.08;0.40;N;M
+7;18;PO;Lipiec Marek;914;0.29;1.45;N;M
+7;19;PO;Tywoniuk-Małysz Aneta Izabela;682;0.21;1.08;N;K
+7;20;PO;Artecka-Wichlaj Marzenna Maria;359;0.11;0.57;N;K
+7;21;PO;Mirzwa Anna;1170;0.37;1.86;N;K
+7;22;PO;Pawłoś Dariusz;1061;0.33;1.68;N;M
+7;23;PO;Hetman Jerzy Janusz;970;0.31;1.54;N;M
+7;24;PO;Mulawa Krzysztof Piotr;1651;0.52;2.62;N;M
+8;1;PiS;Ast Marek;12598;3.79;17.42;T;M
+8;2;PiS;Rafalska Elżbieta;14812;4.45;20.49;T;K
+8;3;PiS;Materna Jerzy Marian;12868;3.87;17.80;T;M
+8;4;PiS;Dajczak Władysław;5852;1.76;8.09;N;M
+8;5;PiS;Ronowicz Bożena;3181;0.96;4.40;N;K
+8;6;PiS;Kurzępa Jacek Sławomir;5402;1.62;7.47;N;M
+8;7;PiS;Ostrowski Henryk Ryszard;939;0.28;1.30;N;M
+8;8;PiS;Płonka Elżbieta Teresa;2564;0.77;3.55;N;K
+8;9;PiS;Łyszczyk Barbara Kazimiera;734;0.22;1.02;N;K
+8;10;PiS;Pieńkowski Sebastian;2628;0.79;3.63;N;M
+8;11;PiS;Werstler-Wojtaszek Joanna Magdalena;1522;0.46;2.11;N;K
+8;12;PiS;Grabarek Grzegorz;632;0.19;0.87;N;M
+8;13;PiS;Kaczmarek-Skóra Krystyna;615;0.18;0.85;N;K
+8;14;PiS;Jaszcz Mieczysław;656;0.20;0.91;N;M
+8;15;PiS;Lubieniec Arleta Barbara;506;0.15;0.70;N;K
+8;16;PiS;Grochala Wojciech;673;0.20;0.93;N;M
+8;17;PiS;Sitek Małgorzata Maria;414;0.12;0.57;N;K
+8;18;PiS;Fabianowicz Zenon;485;0.15;0.67;N;M
+8;19;PiS;Sroczyński Krzysztof Andrzej;460;0.14;0.64;N;M
+8;20;PiS;Gancarz Ewa Danuta;1212;0.36;1.68;N;K
+8;21;PiS;Szołtun Amelia Honorata;486;0.15;0.67;N;K
+8;22;PiS;Galerczyk Krzysztof Jan;260;0.08;0.36;N;M
+8;23;PiS;Ardelli Tadeusz;1151;0.35;1.59;N;M
+8;24;PiS;Budziński Jacek Wojciech;1652;0.50;2.28;N;M
+8;1;SLD;Kochanowski Jan;8059;2.42;23.50;N;M
+8;2;SLD;Winnicka Mirosława Weronika;2512;0.76;7.32;N;K
+8;3;SLD;Wontor Bogusław Tadeusz;8065;2.42;23.51;T;M
+8;4;SLD;Danielak Jolanta Ryszarda;3755;1.13;10.95;N;K
+8;5;SLD;Sikora Krzysztof Ryszard;1214;0.36;3.54;N;M
+8;6;SLD;Jasicka Aleksandra Elżbieta;785;0.24;2.29;N;K
+8;7;SLD;Derech-Krzycki Jakub Alfred;2021;0.61;5.89;N;M
+8;8;SLD;Grzybowicz Lucyna;814;0.24;2.37;N;K
+8;9;SLD;Popławski Emilian Arkadiusz;214;0.06;0.62;N;M
+8;10;SLD;Płotecka Marlena Ewa;300;0.09;0.87;N;K
+8;11;SLD;Aleksandrowicz Hieronim;405;0.12;1.18;N;M
+8;12;SLD;Oźminkowska Anna;412;0.12;1.20;N;K
+8;13;SLD;Klajnerok Piotr;427;0.13;1.24;N;M
+8;14;SLD;Haściło Elżbieta;639;0.19;1.86;N;K
+8;15;SLD;Galent Bolesław;1404;0.42;4.09;N;M
+8;16;SLD;Sarbicka Katarzyna Izabela;256;0.08;0.75;N;K
+8;17;SLD;Piotrowski Arkadiusz;365;0.11;1.06;N;M
+8;18;SLD;Kasprowicz Joanna Maria;221;0.07;0.64;N;K
+8;19;SLD;Smejlis Zbigniew;788;0.24;2.30;N;M
+8;20;SLD;Samotyja Anna Monika;460;0.14;1.34;N;K
+8;21;SLD;Dembniak Ryszard Romuald;214;0.06;0.62;N;M
+8;22;SLD;Moskalik Kinga Maria;310;0.09;0.90;N;K
+8;23;SLD;Psonak Marcin;205;0.06;0.60;N;M
+8;24;SLD;Kąkalec Tadeusz;455;0.14;1.33;N;M
+8;1;PSL;Fedak Jolanta Beata;4692;1.41;18.35;N;K
+8;2;PSL;Zych Józef;6919;2.08;27.05;T;M
+8;3;PSL;Szykuła Maciej Wawrzyniec;753;0.23;2.94;N;M
+8;4;PSL;Tomczyszyn Stanisław;1099;0.33;4.30;N;M
+8;5;PSL;Deptuch Michał;1132;0.34;4.43;N;M
+8;6;PSL;Plewa Zofia Teresa;970;0.29;3.79;N;K
+8;7;PSL;Polak Elżbieta Olga;1040;0.31;4.07;N;K
+8;8;PSL;Fabiś Jerzy Antoni;986;0.30;3.86;N;M
+8;9;PSL;Kucharska Barbara;515;0.15;2.01;N;K
+8;10;PSL;Kruczkowski Józef;993;0.30;3.88;N;M
+8;11;PSL;Paduszyński Zdzisław Franciszek;432;0.13;1.69;N;M
+8;12;PSL;Strojnowska Bogusława Aleksandra;204;0.06;0.80;N;K
+8;13;PSL;Kołodziej Zbigniew Jan;656;0.20;2.57;N;M
+8;14;PSL;Dereń Grażyna;268;0.08;1.05;N;K
+8;15;PSL;Chylak Paweł;597;0.18;2.33;N;M
+8;16;PSL;Sańko Ferdynand Maciej;591;0.18;2.31;N;M
+8;17;PSL;Chinalska Anna;399;0.12;1.56;N;K
+8;18;PSL;Kwaśniewicz Elżbieta;282;0.08;1.10;N;K
+8;19;PSL;Baś Zygmunt;206;0.06;0.81;N;M
+8;20;PSL;Starosta Waldemar Henryk;279;0.08;1.09;N;M
+8;21;PSL;Pawlak Natalia;1481;0.45;5.79;N;K
+8;22;PSL;Starzewska Jolanta;278;0.08;1.09;N;K
+8;23;PSL;Konieczna Wioletta Barbara;333;0.10;1.30;N;K
+8;24;PSL;Grochla Dariusz Paweł;470;0.14;1.84;N;M
+8;1;PO;Bukiewicz Bożenna;38017;11.43;25.52;T;K
+8;2;PO;Niesiołowski Stefan Konstanty;36993;11.12;24.83;T;M
+8;3;PO;Sibińska Krystyna Mieczysława;8756;2.63;5.88;T;K
+8;4;PO;Bojko Bogdan;4391;1.32;2.95;N;M
+8;5;PO;Sławiak Bożena Maria;6673;2.01;4.48;T;K
+8;6;PO;Balcerzak Klaudiusz;5590;1.68;3.75;N;M
+8;7;PO;Issel Małgorzata Barbara;4964;1.49;3.33;N;K
+8;8;PO;Sługocki Waldemar Jan;6465;1.94;4.34;T;M
+8;9;PO;Wróblewski Radosław Artur;1009;0.30;0.68;N;M
+8;10;PO;Osos Katarzyna;2499;0.75;1.68;N;K
+8;11;PO;Bycka Andrzej;1313;0.39;0.88;N;M
+8;12;PO;Bajon Michał Maciej;648;0.19;0.43;N;M
+8;13;PO;Sawicki Wiesław Marek;1704;0.51;1.14;N;M
+8;14;PO;Górna-Bobrowska Maria Jolanta;727;0.22;0.49;N;K
+8;15;PO;Osińska-Cegielnik Alicja Sylwia;1680;0.51;1.13;N;K
+8;16;PO;Hadada Jacek Zbysław;604;0.18;0.41;N;M
+8;17;PO;Pahl Witold;7235;2.17;4.86;T;M
+8;18;PO;Dziduch Roman;1570;0.47;1.05;N;M
+8;19;PO;Machalica Krzysztof Edward;3011;0.91;2.02;N;M
+8;20;PO;Horodyski Zygmunt;826;0.25;0.55;N;M
+8;21;PO;Stawowczyk Grażyna;2217;0.67;1.49;N;K
+8;22;PO;Woźniak Henryk Maciej;5495;1.65;3.69;N;M
+8;23;PO;Osińska Bożena Krystyna;4382;1.32;2.94;N;K
+8;24;PO;Ganczar Ireneusz;2201;0.66;1.48;N;M
+9;1;PiS;Waszczykowski Witold Jan;36854;10.17;40.70;T;M
+9;2;PiS;Barski Dariusz;12245;3.38;13.52;T;M
+9;3;PiS;Loba Jerzy Andrzej;2763;0.76;3.05;N;M
+9;4;PiS;Więcławska-Sauk Elżbieta;6258;1.73;6.91;N;K
+9;5;PiS;Ługowska Sylwia;4447;1.23;4.91;N;K
+9;6;PiS;Gorzkowski Mariusz Bogusław;533;0.15;0.59;N;M
+9;7;PiS;Jaworski Piotr Marceli;1191;0.33;1.32;N;M
+9;8;PiS;Kamińska Anna Bogda;1325;0.37;1.46;N;K
+9;9;PiS;Wypych Małgorzata Józefa;611;0.17;0.67;N;K
+9;10;PiS;Jakubowska Ilona Adrianna;1652;0.46;1.82;N;K
+9;11;PiS;Markiewicz Marek Sławomir;2955;0.82;3.26;N;M
+9;12;PiS;Sęczkowska Barbara;484;0.13;0.53;N;K
+9;13;PiS;Jagiełło Jarosław Tomasz;6596;1.82;7.28;N;M
+9;14;PiS;Kaczorowska Alicja Grażyna;1322;0.36;1.46;N;K
+9;15;PiS;Korwin-Kochanowski Piotr Tadeusz;799;0.22;0.88;N;M
+9;16;PiS;Ciecierska Marianna Łucja;294;0.08;0.32;N;K
+9;17;PiS;Górski Paweł;1067;0.29;1.18;N;M
+9;18;PiS;Polański Jacek Mieczysław;361;0.10;0.40;N;M
+9;19;PiS;Bartoszewski Tadeusz Waldemar;687;0.19;0.76;N;M
+9;20;PiS;Tomaszewski Jan;8114;2.24;8.96;T;M
+9;1;SLD;Joński Dariusz;15164;4.19;43.24;T;M
+9;2;SLD;Pawłowski Sylwester Stefan;2470;0.68;7.04;N;M
+9;3;SLD;Niewiadomska-Cudak Małgorzata Krystyna;3462;0.96;9.87;N;K
+9;4;SLD;Janowska Zdzisława;6002;1.66;17.11;N;K
+9;5;SLD;Niemczyk Ryszard Andrzej;980;0.27;2.79;N;M
+9;6;SLD;Murynowicz Alicja Maria;696;0.19;1.98;N;K
+9;7;SLD;Sójka Michał;574;0.16;1.64;N;M
+9;8;SLD;Runowski Bogdan Stanisław;198;0.05;0.56;N;M
+9;9;SLD;Pieróg Piotr;544;0.15;1.55;N;M
+9;10;SLD;Grabarska Krystyna;448;0.12;1.28;N;K
+9;11;SLD;Berger Jarosław;1642;0.45;4.68;N;M
+9;12;SLD;Nowicka Anna Maria;423;0.12;1.21;N;K
+9;13;SLD;Majewski Grzegorz Piotr;305;0.08;0.87;N;M
+9;14;SLD;Robak Łucja;197;0.05;0.56;N;K
+9;15;SLD;Babski Paweł Władysław;341;0.09;0.97;N;M
+9;16;SLD;Krysiak Monika Izabela;212;0.06;0.60;N;K
+9;17;SLD;Wnuk Alina;251;0.07;0.72;N;K
+9;18;SLD;Chojnacka Maria Jolanta;313;0.09;0.89;N;K
+9;19;SLD;Wilczyńska Krystyna;237;0.07;0.68;N;K
+9;20;SLD;Bors Piotr Marcin;610;0.17;1.74;N;M
+9;1;PSL;Kaczmarek Marian Bogusław;1900;0.52;19.49;N;M
+9;2;PSL;Bednarczyk Stanisław;1344;0.37;13.78;N;M
+9;3;PSL;Białas Monika Krystyna;850;0.23;8.72;N;K
+9;4;PSL;Majewski Eugeniusz Paweł;329;0.09;3.37;N;M
+9;5;PSL;Pyka Jolanta Danuta;508;0.14;5.21;N;K
+9;6;PSL;Borodzicz Irena;137;0.04;1.41;N;K
+9;7;PSL;Tomczyk Antoni Józef;1621;0.45;16.63;N;M
+9;8;PSL;Urbański Jerzy Marian;153;0.04;1.57;N;M
+9;9;PSL;Węgrzynowski Wojciech Ireneusz;346;0.10;3.55;N;M
+9;10;PSL;Borek Czesław Tadeusz;197;0.05;2.02;N;M
+9;11;PSL;Miniak Robert Jacek;132;0.04;1.35;N;M
+9;12;PSL;Włuka Barbara Maria;180;0.05;1.85;N;K
+9;13;PSL;Znyk Aneta Agnieszka;205;0.06;2.10;N;K
+9;14;PSL;Durys Lidia;179;0.05;1.84;N;K
+9;15;PSL;Walaszczyk Alina Nina;182;0.05;1.87;N;K
+9;16;PSL;Sławińska Jolanta;168;0.05;1.72;N;K
+9;17;PSL;Pytka Zbigniew;155;0.04;1.59;N;M
+9;18;PSL;Hilt Józef;136;0.04;1.39;N;M
+9;19;PSL;Żebrowski Michał Robert;326;0.09;3.34;N;M
+9;20;PSL;Kaczorowska Maria;702;0.19;7.20;N;K
+9;1;PO;Grabarczyk Cezary Stanisław;24582;6.79;14.31;T;M
+9;2;PO;Śledzińska-Katarasińska Iwona Elżbieta;16279;4.49;9.48;T;K
+9;3;PO;Kwiatkowski Krzysztof;68814;19.00;40.07;T;M
+9;4;PO;Królikowska-Kińska Elżbieta Maria;3942;1.09;2.30;N;K
+9;5;PO;Godson John Abraham;29832;8.23;17.37;T;M
+9;6;PO;Kacprzak Tomasz Piotr;1674;0.46;0.97;N;M
+9;7;PO;Niemczyk Małgorzata Barbara;10959;3.03;6.38;T;K
+9;8;PO;Papierski Zbigniew;477;0.13;0.28;N;M
+9;9;PO;Krakowiak Jan Jerzy;3296;0.91;1.92;N;M
+9;10;PO;Rosset Witold Andrzej;1312;0.36;0.76;N;M
+9;11;PO;Kurowski Tomasz Włodzimierz;635;0.18;0.37;N;M
+9;12;PO;Adamczewska Sylwia Anna;1814;0.50;1.06;N;K
+9;13;PO;Ziemniewicz Bożena Maria;888;0.25;0.52;N;K
+9;14;PO;Pąsiek Adam Marian;348;0.10;0.20;N;M
+9;15;PO;Puchalski Tobiasz Krzysztof;414;0.11;0.24;N;M
+9;16;PO;Łopiński Paweł Mikołaj;338;0.09;0.20;N;M
+9;17;PO;Misiakiewicz-Woch Magdalena Beata;431;0.12;0.25;N;K
+9;18;PO;Kieruczenko Jacek Witold;248;0.07;0.14;N;M
+9;19;PO;Ostojska Grażyna;1548;0.43;0.90;N;K
+9;20;PO;Stolarczyk Jarosław Piotr;3919;1.08;2.28;N;M
+10;1;PiS;Macierewicz Antoni;41871;16.03;40.47;T;M
+10;2;PiS;Seliga Dariusz Michał;8129;3.11;7.86;T;M
+10;3;PiS;Krupa Urszula Irena;4791;1.83;4.63;N;K
+10;4;PiS;Telus Robert;11305;4.33;10.93;T;M
+10;5;PiS;Maciejewski Krzysztof;6442;2.47;6.23;N;M
+10;6;PiS;Witko Marcin;6535;2.50;6.32;T;M
+10;7;PiS;Brózda Jarosław Konrad;5039;1.93;4.87;N;M
+10;8;PiS;Olejnik Wiesława Helena;2168;0.83;2.10;N;K
+10;9;PiS;Grabek Anna Małgorzata;3014;1.15;2.91;N;K
+10;10;PiS;Penczak Maria Karolina;558;0.21;0.54;N;K
+10;11;PiS;Grabowski Piotr;4211;1.61;4.07;N;M
+10;12;PiS;Lasota Magdalena Małgorzata;1118;0.43;1.08;N;K
+10;13;PiS;Kubiak Dariusz Jan;2080;0.80;2.01;N;M
+10;14;PiS;Sikorska Iwona Ewa;855;0.33;0.83;N;K
+10;15;PiS;Nowakowska Joanna Małgorzata;950;0.36;0.92;N;K
+10;16;PiS;Marasek Mariusz Wojciech;567;0.22;0.55;N;M
+10;17;PiS;Witczak Witold Jacek;3839;1.47;3.71;N;M
+10;1;SLD;Ostrowski Artur Zygmunt;7884;3.02;32.87;T;M
+10;2;SLD;Barański Andrzej;4004;1.53;16.69;N;M
+10;3;SLD;Kałuzińska Danuta;2894;1.11;12.06;N;K
+10;4;SLD;Komidzierski Sławomir Jarosław;1845;0.71;7.69;N;M
+10;5;SLD;Karbowiak Małgorzata Stanisława;895;0.34;3.73;N;K
+10;6;SLD;Baryła Stanisław Paweł;836;0.32;3.49;N;M
+10;7;SLD;Rochmiński Paweł;227;0.09;0.95;N;M
+10;8;SLD;Dębska Anna Janina;758;0.29;3.16;N;K
+10;9;SLD;Napora Joanna Małgorzata;680;0.26;2.83;N;K
+10;10;SLD;Kik Mirosław Jan;544;0.21;2.27;N;M
+10;11;SLD;Pierkoś Piotr Mariusz;312;0.12;1.30;N;M
+10;12;SLD;Wiktorowicz Agnieszka Dorota;400;0.15;1.67;N;K
+10;13;SLD;Cieślik Jan;353;0.14;1.47;N;M
+10;14;SLD;Pecyna Maria;478;0.18;1.99;N;K
+10;15;SLD;Starczyk Tomasz Krzysztof;170;0.07;0.71;N;M
+10;16;SLD;Jagiełło Jolanta Gabriela;688;0.26;2.87;N;K
+10;17;SLD;Chrzanowski Bogdan;360;0.14;1.50;N;M
+10;18;SLD;Stempniak Piotr Andrzej;660;0.25;2.75;N;M
+10;1;PSL;Ozga Krystyna Ewa;9207;3.53;26.47;T;K
+10;2;PSL;Witaszczyk Stanisław;5902;2.26;16.97;N;M
+10;3;PSL;Mazur Marek Marian;2857;1.09;8.21;N;M
+10;4;PSL;Klimczak Dariusz;4714;1.81;13.55;N;M
+10;5;PSL;First Agnieszka Teresa;1035;0.40;2.98;N;K
+10;6;PSL;Kuchta Kamil Łukasz;1766;0.68;5.08;N;M
+10;7;PSL;Kącki Bogdan;842;0.32;2.42;N;M
+10;8;PSL;Pawlak Włodzimierz Jerzy;1979;0.76;5.69;N;M
+10;9;PSL;Kowalczyk Dariusz Anatol;680;0.26;1.95;N;M
+10;10;PSL;Leszczyński Włodzimierz Tadeusz;1478;0.57;4.25;N;M
+10;11;PSL;Matusiewicz Monika Agnieszka;1152;0.44;3.31;N;K
+10;12;PSL;Kokocińska Bogusława;421;0.16;1.21;N;K
+10;13;PSL;Czechowska Krystyna;488;0.19;1.40;N;K
+10;14;PSL;Gawron Iwona Wiesława;390;0.15;1.12;N;K
+10;15;PSL;Jagura Andrzej Piotr;234;0.09;0.67;N;M
+10;16;PSL;Gandziarek Jolanta;240;0.09;0.69;N;K
+10;17;PSL;Urbanek Antoni Tadeusz;209;0.08;0.60;N;M
+10;18;PSL;Ościk Elżbieta Teresa;1195;0.46;3.43;N;K
+10;1;PO;Radziszewska Elżbieta;19269;7.38;28.81;T;K
+10;2;PO;Zacharewicz Jacek Paweł;8857;3.39;13.24;N;M
+10;3;PO;Rutkowska Dorota;10268;3.93;15.35;T;K
+10;4;PO;Czapla Andrzej Wiesław;6391;2.45;9.55;N;M
+10;5;PO;Krawczyk Cezary Jarosław;4410;1.69;6.59;N;M
+10;6;PO;Kudaj Elżbieta Maria;4271;1.64;6.39;N;K
+10;7;PO;Derewęda-Jankowska Katarzyna Elżbieta;980;0.38;1.47;N;K
+10;8;PO;Pietrzak Teresa Wiesława;1339;0.51;2.00;N;K
+10;9;PO;Klatka Barbara Ewa;3241;1.24;4.85;N;K
+10;10;PO;Kucharski Sylwester Wojciech;1685;0.65;2.52;N;M
+10;11;PO;Magacz Dariusz Marian;806;0.31;1.20;N;M
+10;12;PO;Kruszona Bartosz;253;0.10;0.38;N;M
+10;13;PO;Greta Szczepan Jan;285;0.11;0.43;N;M
+10;14;PO;Cłapa Ewa Maria;1095;0.42;1.64;N;K
+10;15;PO;Olszewski Wiktor Łukasz;917;0.35;1.37;N;M
+10;16;PO;Langkamer Tomasz Łukasz;253;0.10;0.38;N;M
+10;17;PO;Jarczyński Mateusz Arkadiusz;414;0.16;0.62;N;M
+10;18;PO;Malinowski Sławomir;2155;0.83;3.22;N;M
+11;1;PiS;Schreiber Grzegorz Zenon;17808;5.24;16.31;T;M
+11;2;PiS;Matuszewski Marek;16207;4.77;14.84;T;M
+11;3;PiS;Mastalerek Marcin;8509;2.50;7.79;T;M
+11;4;PiS;Grabicka Krystyna Stanisława;6776;1.99;6.20;N;K
+11;5;PiS;Mateusiak-Pielucha Beata Anna;6319;1.86;5.79;N;K
+11;6;PiS;Zarzycki Wojciech Szczęsny;4158;1.22;3.81;N;M
+11;7;PiS;Woźniak Tadeusz Jacek;8996;2.65;8.24;T;M
+11;8;PiS;Polak Piotr Stanisław;9022;2.65;8.26;T;M
+11;9;PiS;Kłopotowski Konrad;2211;0.65;2.02;N;M
+11;10;PiS;Czyżak Grażyna Ewa;3128;0.92;2.86;N;K
+11;11;PiS;Kosiorek Marcin Rafał;5213;1.53;4.77;N;M
+11;12;PiS;Dęga Sylwia Bogumiła;4179;1.23;3.83;N;K
+11;13;PiS;Olas Stanisław Czesław;1127;0.33;1.03;N;M
+11;14;PiS;Krzak Michał Bazyli;1243;0.37;1.14;N;M
+11;15;PiS;Rządziński Robert Roman;1327;0.39;1.22;N;M
+11;16;PiS;Sagan Marlena Barbara;2630;0.77;2.41;N;K
+11;17;PiS;Gędek Łukasz Andrzej;878;0.26;0.80;N;M
+11;18;PiS;Moska Jolanta Maria;510;0.15;0.47;N;K
+11;19;PiS;Olczak Grażyna Jadwiga;1046;0.31;0.96;N;K
+11;20;PiS;Żebrowska Jolanta Janina;1102;0.32;1.01;N;K
+11;21;PiS;Rozmarynowska Anna Maria;2159;0.64;1.98;N;K
+11;22;PiS;Liberski Zbigniew Krzysztof;631;0.19;0.58;N;M
+11;23;PiS;Woźniak Marlena Maria;1431;0.42;1.31;N;K
+11;24;PiS;Rozmarynowska Urszula Teresa;2595;0.76;2.38;N;K
+11;1;SLD;Piątek Iwona Zofia;5539;1.63;18.50;N;K
+11;2;SLD;Krasiński Zbigniew Stanisław;2846;0.84;9.51;N;M
+11;3;SLD;Dziemdziela Józef;2405;0.71;8.03;N;M
+11;4;SLD;Jura Tomasz Aleksander;1259;0.37;4.21;N;M
+11;5;SLD;Kaźmierska-Małyska Iwona Monika;1896;0.56;6.33;N;K
+11;6;SLD;Leśniczak Henryk Jan;615;0.18;2.05;N;M
+11;7;SLD;Sadziński Przemysław;652;0.19;2.18;N;M
+11;8;SLD;Zarębski Zdzisław;332;0.10;1.11;N;M
+11;9;SLD;Leśkiewicz Patrycja Irena;534;0.16;1.78;N;K
+11;10;SLD;Kabaciński Wojciech Andrzej;415;0.12;1.39;N;M
+11;11;SLD;Łebkowski Paweł Krzysztof;296;0.09;0.99;N;M
+11;12;SLD;Przytulska Maria Nina;587;0.17;1.96;N;K
+11;13;SLD;Kowalczyk Dominika Anna;516;0.15;1.72;N;K
+11;14;SLD;Warzocha Maryla;368;0.11;1.23;N;K
+11;15;SLD;Kraska Robert Piotr;642;0.19;2.14;N;M
+11;16;SLD;Płuciennik Agnieszka;728;0.21;2.43;N;K
+11;17;SLD;Szczepańska Elżbieta Zofia;325;0.10;1.09;N;K
+11;18;SLD;Wiśniewska Ewa;695;0.20;2.32;N;K
+11;19;SLD;Groblewska-Durajska Bogusława Maria;181;0.05;0.60;N;K
+11;20;SLD;Walczewska Aleksandra Marianna;290;0.09;0.97;N;K
+11;21;SLD;Janowska Ewa Maria;999;0.29;3.34;N;K
+11;22;SLD;Krysiak Piotr Paweł;312;0.09;1.04;N;M
+11;23;SLD;Ruciński Mirosław Remigiusz;419;0.12;1.40;N;M
+11;24;SLD;Olejniczak Cezary Roman;7082;2.08;23.66;T;M
+11;1;PSL;Łuczak Mieczysław Marcin;9373;2.76;21.97;T;M
+11;2;PSL;Nawrocka Elżbieta Renata;6370;1.87;14.93;N;K
+11;3;PSL;Olas Stanisław Piotr;1789;0.53;4.19;N;M
+11;4;PSL;Bejda Paweł Jan;3385;1.00;7.93;N;M
+11;5;PSL;Miedzińska Irena Maria;2109;0.62;4.94;N;K
+11;6;PSL;Fraszka Tomasz Władysław;1007;0.30;2.36;N;M
+11;7;PSL;Gabryelczak Małgorzata;1509;0.44;3.54;N;K
+11;8;PSL;Łabędzki Marcin;935;0.28;2.19;N;M
+11;9;PSL;Barczak Sebastian Bogdan;971;0.29;2.28;N;M
+11;10;PSL;Stasiak Zbigniew Marek;1754;0.52;4.11;N;M
+11;11;PSL;Jasińska Justyna Magdalena;899;0.26;2.11;N;K
+11;12;PSL;Olszewska-Nowak Iwona Ewa;380;0.11;0.89;N;K
+11;13;PSL;Kwiatkowski Grzegorz;1157;0.34;2.71;N;M
+11;14;PSL;Trawczyński Zdzisław;753;0.22;1.76;N;M
+11;15;PSL;Kania Małgorzata Anna;608;0.18;1.42;N;K
+11;16;PSL;Topór Halina Maria;407;0.12;0.95;N;K
+11;17;PSL;Ławniczak Artur Jerzy;1433;0.42;3.36;N;M
+11;18;PSL;Will Jolanta;248;0.07;0.58;N;K
+11;19;PSL;Płonek Bożena Maria;311;0.09;0.73;N;K
+11;20;PSL;Żubrowski Krzysztof Andrzej;1343;0.40;3.15;N;M
+11;21;PSL;Dzierżek Bohdan Cezary;1549;0.46;3.63;N;M
+11;22;PSL;Szyszka Dariusz;874;0.26;2.05;N;M
+11;23;PSL;Różański Jacek Mirosław;671;0.20;1.57;N;M
+11;24;PSL;Owczarek Włodzimierz Jan;2836;0.83;6.65;N;M
+11;1;PO;Biernat Andrzej Zbigniew;25721;7.57;24.13;T;M
+11;2;PO;Hanajczyk Agnieszka Małgorzata;16484;4.85;15.46;T;K
+11;3;PO;Tomczyk Cezary Józef;12748;3.75;11.96;T;M
+11;4;PO;Zakrzewska Danuta Ewa;5882;1.73;5.52;N;K
+11;5;PO;Pawlak Janusz Bogdan;3699;1.09;3.47;N;M
+11;6;PO;Jarosławska Joanna Beata;6248;1.84;5.86;N;K
+11;7;PO;Jasiński Janusz;2397;0.71;2.25;N;M
+11;8;PO;Binder Piotr Jan;1549;0.46;1.45;N;M
+11;9;PO;Bieda Robert Damazy;1690;0.50;1.59;N;M
+11;10;PO;Krawczyk Marek;1896;0.56;1.78;N;M
+11;11;PO;Kałużny Jan;1314;0.39;1.23;N;M
+11;12;PO;Kołodziejska Agnieszka Dorota;1771;0.52;1.66;N;K
+11;13;PO;Lipińska Grażyna Jolanta;2012;0.59;1.89;N;K
+11;14;PO;Górecki Piotr Wojciech;700;0.21;0.66;N;M
+11;15;PO;Makota Beata;1210;0.36;1.14;N;K
+11;16;PO;Piekarz Krzysztof Władysław;1578;0.46;1.48;N;M
+11;17;PO;Dunin Borkowska Anna Maria;1294;0.38;1.21;N;K
+11;18;PO;Rąkowski Krzysztof Gabor;2996;0.88;2.81;N;M
+11;19;PO;Kałuża Emilia Stanisława;1480;0.44;1.39;N;K
+11;20;PO;Sałagacki Marcin;1419;0.42;1.33;N;M
+11;21;PO;Werwińska Krystyna;1517;0.45;1.42;N;K
+11;22;PO;Sut Sebastian Jan;1049;0.31;0.98;N;M
+11;23;PO;Pigłowski Dariusz Andrzej;352;0.10;0.33;N;M
+11;24;PO;Dunin Artur Jerzy;9595;2.82;9.00;T;M
+12;1;PiS;Szydło Beata Maria;43612;18.22;47.81;T;K
+12;2;PiS;Szczerski Krzysztof Maria;4751;1.98;5.21;T;M
+12;3;PiS;Łatas Marek Jerzy;12466;5.21;13.67;T;M
+12;4;PiS;Polak Marek Władysław;6341;2.65;6.95;T;M
+12;5;PiS;Górska Anna Teresa;2219;0.93;2.43;N;K
+12;6;PiS;Jurzak Jarosław Ludwik;2132;0.89;2.34;N;M
+12;7;PiS;Hajos Sławomir Paweł;2588;1.08;2.84;N;M
+12;8;PiS;Bieniek Władysław;1186;0.50;1.30;N;M
+12;9;PiS;Kasperek Krzysztof;2205;0.92;2.42;N;M
+12;10;PiS;Nieśpielak Jeremi Paweł;2602;1.09;2.85;N;M
+12;11;PiS;Kozik Krzysztof Janusz;2683;1.12;2.94;N;M
+12;12;PiS;Światłoń Krystyna;944;0.39;1.03;N;K
+12;13;PiS;Świerkosz Grażyna;1308;0.55;1.43;N;K
+12;14;PiS;Majka Jolanta Maria;1172;0.49;1.28;N;K
+12;15;PiS;Wągiel Krystyna Maria;686;0.29;0.75;N;K
+12;16;PiS;Kaczyński Filip Roman;4325;1.81;4.74;N;M
+12;1;SLD;Szwed Dariusz Jacek;3842;1.61;23.37;N;M
+12;2;SLD;Rydzoń Stanisław;5811;2.43;35.35;N;M
+12;3;SLD;Drabek - Polek Wiesława;1053;0.44;6.41;N;K
+12;4;SLD;Skuza Grzegorz;401;0.17;2.44;N;M
+12;5;SLD;Rauch Jan Zbigniew;678;0.28;4.12;N;M
+12;6;SLD;Matuszewska Franciszka;427;0.18;2.60;N;K
+12;7;SLD;Grzelka - Kopeć Joanna;548;0.23;3.33;N;K
+12;8;SLD;Talaga Irena;810;0.34;4.93;N;K
+12;9;SLD;Grodecki Andrzej Józef;173;0.07;1.05;N;M
+12;10;SLD;Szafrańska Janina Bożena;434;0.18;2.64;N;K
+12;11;SLD;Kuliński Wojciech Marcin;173;0.07;1.05;N;M
+12;12;SLD;Szczotkowski Dariusz;265;0.11;1.61;N;M
+12;13;SLD;Adamus Karolina;562;0.23;3.42;N;K
+12;14;SLD;Lewandowski Andrzej Jan;482;0.20;2.93;N;M
+12;15;SLD;Janzer Izabela Magdalena;195;0.08;1.19;N;K
+12;16;SLD;Kobielusz Paweł Bernard;584;0.24;3.55;N;M
+12;1;PSL;Harężlak Andrzej Jerzy;2271;0.95;16.14;N;M
+12;2;PSL;Szydłowski Franciszek;2024;0.85;14.38;N;M
+12;3;PSL;Sasuła Andrzej Wojciech;1122;0.47;7.97;N;M
+12;4;PSL;Wiśniewska Beata Barbara;923;0.39;6.56;N;K
+12;5;PSL;Hyjek Ewa Maria;457;0.19;3.25;N;K
+12;6;PSL;Stalmach Wiesław;660;0.28;4.69;N;M
+12;7;PSL;Klimczyk Józef;377;0.16;2.68;N;M
+12;8;PSL;Pudo Stanisław;1173;0.49;8.33;N;M
+12;9;PSL;Budka Józef;551;0.23;3.92;N;M
+12;10;PSL;Adamczyk Adam;734;0.31;5.22;N;M
+12;11;PSL;Szczepaniak Krystyna;633;0.26;4.50;N;K
+12;12;PSL;Klimowska - Bobula Edyta Katarzyna;282;0.12;2.00;N;K
+12;13;PSL;Jopek Bożena Halina;386;0.16;2.74;N;K
+12;14;PSL;Jarosz Franciszka;213;0.09;1.51;N;K
+12;15;PSL;Miska Anna Maria;269;0.11;1.91;N;K
+12;16;PSL;Kała Józef;1999;0.84;14.20;N;M
+12;1;PO;Graś Paweł Bolesław;36992;15.45;43.18;T;M
+12;2;PO;Arkit Tadeusz Andrzej;12458;5.20;14.54;T;M
+12;3;PO;Bobowska Joanna Grażyna;7976;3.33;9.31;T;K
+12;4;PO;Kotarba Stanisław Wojciech;2783;1.16;3.25;N;M
+12;5;PO;Niedziela Dorota;6166;2.58;7.20;T;K
+12;6;PO;Saternus Andrzej Stanisław;3330;1.39;3.89;N;M
+12;7;PO;Maciaszek Robert Tomasz;3479;1.45;4.06;N;M
+12;8;PO;Kołat Zbigniew Wojciech;692;0.29;0.81;N;M
+12;9;PO;Listwan Ryszard Andrzej;1162;0.49;1.36;N;M
+12;10;PO;Pędrak Maria Irena;1474;0.62;1.72;N;K
+12;11;PO;Szczurek Renata Krystyna;1898;0.79;2.22;N;K
+12;12;PO;Tomiak Krzysztof Marek;861;0.36;1.01;N;M
+12;13;PO;Brożek Maria;2029;0.85;2.37;N;K
+12;14;PO;Ramenda Sebastian;1613;0.67;1.88;N;M
+12;15;PO;Nagórzańska Henryka Maria;633;0.26;0.74;N;K
+12;16;PO;Wacławski Jan Stanisław;2124;0.89;2.48;N;M
+13;1;PiS;Duda Andrzej Sebastian;79981;15.79;51.01;T;M
+13;2;PiS;Adamczyk Andrzej Mieczysław;14297;2.82;9.12;T;M
+13;3;PiS;Terlecki Ryszard Iwon;14726;2.91;9.39;T;M
+13;4;PiS;Bubula Barbara Ewa;7502;1.48;4.78;T;K
+13;5;PiS;Osuch Jacek Piotr;10997;2.17;7.01;T;M
+13;6;PiS;Kosior Bolesław Henryk;1984;0.39;1.27;N;M
+13;7;PiS;Tatara Agata Iwona;3099;0.61;1.98;N;K
+13;8;PiS;Biesaga Jan Czesław;1513;0.30;0.96;N;M
+13;9;PiS;Ćwik Piotr Krzysztof;3502;0.69;2.23;N;M
+13;10;PiS;Pietrus Włodzimierz Wacław;1168;0.23;0.74;N;M
+13;11;PiS;Śmiałek Witold Janusz;831;0.16;0.53;N;M
+13;12;PiS;Gilarski Mirosław Jan;1870;0.37;1.19;N;M
+13;13;PiS;Duda Elżbieta;3353;0.66;2.14;N;K
+13;14;PiS;Wróblewska Halina Elżbieta;833;0.16;0.53;N;K
+13;15;PiS;Gamrat Krystyna;1220;0.24;0.78;N;K
+13;16;PiS;Mazur Andrzej Karol;585;0.12;0.37;N;M
+13;17;PiS;Tochowicz Włodzimierz;1087;0.21;0.69;N;M
+13;18;PiS;Kwiatkowska - Rachwał Ewa Maria;810;0.16;0.52;N;K
+13;19;PiS;Słoniowski Łukasz Jan;447;0.09;0.29;N;M
+13;20;PiS;Głowa Elżbieta;962;0.19;0.61;N;K
+13;21;PiS;Plewniak Stanisław Zdzisław;591;0.12;0.38;N;M
+13;22;PiS;Jagocki Marek Witold;425;0.08;0.27;N;M
+13;23;PiS;Wyrwińska - Cieślak Małgorzata Anna;425;0.08;0.27;N;K
+13;24;PiS;Buczkowski Andrzej;947;0.19;0.60;N;M
+13;25;PiS;Zaremba - Piwowarska Maria Teresa;636;0.13;0.41;N;K
+13;26;PiS;Duraj Izabela Agnieszka;657;0.13;0.42;N;K
+13;27;PiS;Zamorska Grażyna Małgorzata;882;0.17;0.56;N;K
+13;28;PiS;Jahn - Machowska Joanna Agnieszka;1470;0.29;0.94;N;K
+13;1;SLD;Kalita Tomasz Roman;8365;1.65;30.41;N;M
+13;2;SLD;Bińczycka Elżbieta;4098;0.81;14.90;N;K
+13;3;SLD;Hartman Jan Marek;2209;0.44;8.03;N;M
+13;4;SLD;Orkisz Jan;5295;1.05;19.25;N;M
+13;5;SLD;Szczuka Anna Małgorzata;1144;0.23;4.16;N;K
+13;6;SLD;Czerkas Irena Barbara;361;0.07;1.31;N;K
+13;7;SLD;Prokop Jerzy Franciszek;380;0.08;1.38;N;M
+13;8;SLD;Natkaniec Ryszard;619;0.12;2.25;N;M
+13;9;SLD;Ufir Dorota Maria;479;0.09;1.74;N;K
+13;10;SLD;Bednarek Marian;312;0.06;1.13;N;M
+13;11;SLD;Leszczyńska Ryszarda;197;0.04;0.72;N;K
+13;12;SLD;Kimner - Trzcińska Iwona Teresa;141;0.03;0.51;N;K
+13;13;SLD;Jedynak Roman Waldemar;243;0.05;0.88;N;M
+13;14;SLD;Nocoń Anna Małgorzata;395;0.08;1.44;N;K
+13;15;SLD;Marcinek Ewa Lucyna;233;0.05;0.85;N;K
+13;16;SLD;Solarz Bogdan Władysław;283;0.06;1.03;N;M
+13;17;SLD;Piechnik Jerzy Zbigniew;125;0.02;0.45;N;M
+13;19;SLD;Król Agnieszka;884;0.17;3.21;N;K
+13;20;SLD;Kania Joanna Marzena;315;0.06;1.15;N;K
+13;21;SLD;Szwed Damian;271;0.05;0.99;N;M
+13;22;SLD;Królikowski Włodzimierz;170;0.03;0.62;N;M
+13;23;SLD;Janczur Andrzej Jan;86;0.02;0.31;N;M
+13;24;SLD;Czudej Arkadiusz Robert;83;0.02;0.30;N;M
+13;25;SLD;Matczuk Karolina Anna;357;0.07;1.30;N;K
+13;26;SLD;Meus Grzegorz Józef;437;0.09;1.59;N;M
+13;1;PSL;Kozak Wojciech;4663;0.92;20.66;N;M
+13;2;PSL;Piątkowska Monika Jadwiga;3778;0.75;16.74;N;K
+13;3;PSL;Domagała Adam Stanisław;2507;0.49;11.11;N;M
+13;4;PSL;Kaliski Maciej Kazimierz;804;0.16;3.56;N;M
+13;5;PSL;Kurtyka Halina Ewa;2210;0.44;9.79;N;K
+13;6;PSL;Wójcik Jerzy;824;0.16;3.65;N;M
+13;7;PSL;Bogdali Bogdan Wojciech;466;0.09;2.06;N;M
+13;8;PSL;Paszkot Marzena Iwona;161;0.03;0.71;N;K
+13;9;PSL;Dróżdż Ewa Sabina;352;0.07;1.56;N;K
+13;10;PSL;Wantuch Łukasz Mariusz;286;0.06;1.27;N;M
+13;11;PSL;Okrajek Włodzimierz Wiktor;749;0.15;3.32;N;M
+13;12;PSL;Gorajczyk Stanisław Piotr;887;0.18;3.93;N;M
+13;13;PSL;Durłak Tadeusz;578;0.11;2.56;N;M
+13;14;PSL;Zajączkowska Jolanta Czesława;140;0.03;0.62;N;K
+13;15;PSL;Jarosz Sylwia Magdalena;224;0.04;0.99;N;K
+13;16;PSL;Białaś Justyna;319;0.06;1.41;N;K
+13;17;PSL;Ćmak Piotr Ludwik;85;0.02;0.38;N;M
+13;18;PSL;Kulińska Michalina Maja;138;0.03;0.61;N;K
+13;19;PSL;Tomaszek Zbigniew Antoni;353;0.07;1.56;N;M
+13;20;PSL;Chwastek Michał Stanisław;723;0.14;3.20;N;M
+13;21;PSL;Linca Mieczysław;234;0.05;1.04;N;M
+13;22;PSL;Makowski Tomasz Ryszard;128;0.03;0.57;N;M
+13;23;PSL;Rybicka - Maszczak Maria Anna;137;0.03;0.61;N;K
+13;24;PSL;Pijanowski Jacek Marcin;95;0.02;0.42;N;M
+13;25;PSL;Kaleta Zofia;566;0.11;2.51;N;K
+13;26;PSL;Sendor Piotr Szymon;135;0.03;0.60;N;M
+13;27;PSL;Thier Marek Władysław;362;0.07;1.60;N;M
+13;28;PSL;Malinowska Maria;670;0.13;2.97;N;K
+13;1;PO;Raś Ireneusz Jacek;31455;6.21;13.99;T;M
+13;2;PO;Matusik - Lipiec Katarzyna Irena;22178;4.38;9.86;T;K
+13;3;PO;Gowin Jarosław Adam;62570;12.35;27.82;T;M
+13;4;PO;Fedorowicz Jerzy Feliks;28383;5.60;12.62;T;M
+13;5;PO;Jantos Małgorzata Krystyna;6175;1.22;2.75;N;K
+13;6;PO;Krupa Jacek Jan;5018;0.99;2.23;N;M
+13;7;PO;Gądek Lidia Stanisława;7191;1.42;3.20;T;K
+13;8;PO;Lassota Józef;10241;2.02;4.55;T;M
+13;9;PO;Samborski Adam Alfred;938;0.19;0.42;N;M
+13;10;PO;Marczułajtis - Walczak Jagna Kinga;7289;1.44;3.24;T;K
+13;11;PO;Piasny Paweł Marcin;4185;0.83;1.86;N;M
+13;12;PO;Sławiński Mateusz Jerzy;1013;0.20;0.45;N;M
+13;13;PO;Meysztowicz Jerzy Witold;1705;0.34;0.76;N;M
+13;14;PO;Nenko Jerzy Jan;548;0.11;0.24;N;M
+13;15;PO;Dąsal Bogdan Michał;620;0.12;0.28;N;M
+13;16;PO;Siudak Ewa;1798;0.35;0.80;N;K
+13;17;PO;Janawa Grażyna Genowefa;980;0.19;0.44;N;K
+13;18;PO;Wilam Agata Iwona;2002;0.40;0.89;N;K
+13;19;PO;Gibała Łukasz;18583;3.67;8.26;T;M
+13;20;PO;Bielańska Katarzyna Anna;1392;0.27;0.62;N;K
+13;21;PO;Pietrow Dorota Jadwiga;722;0.14;0.32;N;K
+13;22;PO;Jastrzębski Paweł Artur;646;0.13;0.29;N;M
+13;23;PO;Goraj Lucjan;874;0.17;0.39;N;M
+13;24;PO;Filemonowicz Wojciech Jerzy;3791;0.75;1.69;N;M
+13;25;PO;Klimczak Andrzej Marian;404;0.08;0.18;N;M
+13;26;PO;Musiał Kazimierz Józef;577;0.11;0.26;N;M
+13;27;PO;Sękowska Daria;976;0.19;0.43;N;K
+13;28;PO;Szybist Anna Gabriela;2661;0.53;1.18;N;K
+14;1;PiS;Mularczyk Arkadiusz;45801;16.43;31.91;T;M
+14;2;PiS;Naimski Piotr Aleksander;5388;1.93;3.75;T;M
+14;3;PiS;Paluch Anna;9764;3.50;6.80;T;K
+14;4;PiS;Bartuś Barbara Halina;14652;5.25;10.21;T;K
+14;5;PiS;Siarka Edward;13264;4.76;9.24;T;M
+14;6;PiS;Janczyk Wiesław Stanisław;13993;5.02;9.75;T;M
+14;7;PiS;Romanek Andrzej Stanisław;9743;3.49;6.79;T;M
+14;8;PiS;Piczura Jan;3817;1.37;2.66;N;M
+14;9;PiS;Ciągło Edward;4270;1.53;2.97;N;M
+14;10;PiS;Filipiak Ewa;3513;1.26;2.45;N;K
+14;11;PiS;Poręba Antoni Marian;2606;0.93;1.82;N;M
+14;12;PiS;Dorula Leszek;3660;1.31;2.55;N;M
+14;13;PiS;Nowak Alicja;2564;0.92;1.79;N;K
+14;14;PiS;Sułkowski Stanisław Jan;1497;0.54;1.04;N;M
+14;15;PiS;Borzęcki Michał Piotr;3006;1.08;2.09;N;M
+14;16;PiS;Kosakowska Iwona Maria;861;0.31;0.60;N;K
+14;17;PiS;Janczura Teresa;1299;0.47;0.90;N;K
+14;18;PiS;Palki Jan Piotr;908;0.33;0.63;N;M
+14;19;PiS;Baran Bonifacy;1076;0.39;0.75;N;M
+14;20;PiS;Ostrowska Helena;1861;0.67;1.30;N;K
+14;1;SLD;Sas Kazimierz;5121;1.84;43.58;N;M
+14;2;SLD;Kukla Rafał Tomasz;1931;0.69;16.43;N;M
+14;3;SLD;Kiemystowicz Bożena Józefa;478;0.17;4.07;N;K
+14;4;SLD;Knapik Jan Leopold;842;0.30;7.17;N;M
+14;5;SLD;Krzyżkowiak Łucja Maria;198;0.07;1.69;N;K
+14;6;SLD;Gabor Jan;366;0.13;3.11;N;M
+14;7;SLD;Jasnosz Michał Wilhelm;289;0.10;2.46;N;M
+14;8;SLD;Górski Stanisław;288;0.10;2.45;N;M
+14;9;SLD;Cempa-Pulit Grażyna;193;0.07;1.64;N;K
+14;10;SLD;Jaworska Katarzyna Anna;368;0.13;3.13;N;K
+14;11;SLD;Filar Janusz Wojciech;134;0.05;1.14;N;M
+14;12;SLD;Wędrychowicz Eugeniusz;150;0.05;1.28;N;M
+14;13;SLD;Fröhlich Beata Małgorzata;301;0.11;2.56;N;K
+14;14;SLD;Kaczmarek Katarzyna Ewa;201;0.07;1.71;N;K
+14;15;SLD;Niżnik Krystyna Maria;125;0.04;1.06;N;K
+14;16;SLD;Latała-Zięba Lucyna Janina;74;0.03;0.63;N;K
+14;17;SLD;Tomaszek Tadeusz;124;0.04;1.06;N;M
+14;18;SLD;Kościółek Paulina Arleta;164;0.06;1.40;N;K
+14;19;SLD;Kruk Piotr Aleksander;181;0.06;1.54;N;M
+14;20;SLD;Ujwary Edward Kazimierz;222;0.08;1.89;N;M
+14;1;PSL;Dutka Bronisław;6583;2.36;33.96;N;M
+14;2;PSL;Kaszyk Stanisław;1911;0.69;9.86;N;M
+14;3;PSL;Barnaś Stanisław;1720;0.62;8.87;N;M
+14;4;PSL;Babiarczyk Bogumiła;790;0.28;4.07;N;K
+14;5;PSL;Kolbrecka Józefa;465;0.17;2.40;N;K
+14;6;PSL;Bodziony Emil;1078;0.39;5.56;N;M
+14;7;PSL;Kądziołka Michał Bartosz;764;0.27;3.94;N;M
+14;8;PSL;Bochnia Irena Agata;491;0.18;2.53;N;K
+14;9;PSL;Chmura Mikołaj Wojciech;723;0.26;3.73;N;M
+14;10;PSL;Trzaskoś Marek;575;0.21;2.97;N;M
+14;11;PSL;Królczyk Monika Joanna;237;0.08;1.22;N;K
+14;12;PSL;Stokłosa Jolanta Stanisława;409;0.15;2.11;N;K
+14;13;PSL;Nalepka Jerzy Andrzej;884;0.32;4.56;N;M
+14;14;PSL;Baran Grzegorz;235;0.08;1.21;N;M
+14;15;PSL;Klimowski Marcin Sebastian;343;0.12;1.77;N;M
+14;16;PSL;Moskała Renata Małgorzata;189;0.07;0.97;N;K
+14;17;PSL;Kwit Jacek Adam;523;0.19;2.70;N;M
+14;18;PSL;Walendowicz Krystyna;241;0.09;1.24;N;K
+14;19;PSL;Dziedzina Franciszek Piotr;823;0.30;4.25;N;M
+14;20;PSL;Wiśniowska Elżbieta Aleksandra;403;0.14;2.08;N;K
+14;1;PO;Czerwiński Andrzej Stanisław;16723;6.00;21.49;T;M
+14;2;PO;Gut-Mostowy Andrzej Józef;15345;5.50;19.72;T;M
+14;3;PO;Małuch Małgorzata Krystyna;6843;2.45;8.79;N;K
+14;4;PO;Patalita Tadeusz;6422;2.30;8.25;N;M
+14;5;PO;Dziwisz Barbara Stanisława;3124;1.12;4.01;N;K
+14;6;PO;Zegzda Leszek Jan;4821;1.73;6.20;N;M
+14;7;PO;Jachymiak Maciej;2972;1.07;3.82;N;M
+14;8;PO;Kuk Jan Zbigniew;820;0.29;1.05;N;M
+14;9;PO;Staszel Wiesława;305;0.11;0.39;N;K
+14;10;PO;Cycoń Marian Adam;10678;3.83;13.72;T;M
+14;11;PO;Koperski Mariusz Jarosław;321;0.12;0.41;N;M
+14;12;PO;Kowalczyk Justyna Maria;873;0.31;1.12;N;K
+14;13;PO;Król-Mirek Agata Kazimiera;1471;0.53;1.89;N;K
+14;14;PO;Więcek Jan;1190;0.43;1.53;N;M
+14;15;PO;Górka Jerzy Józef;468;0.17;0.60;N;M
+14;16;PO;Janowska Kinga Anna;1660;0.60;2.13;N;K
+14;17;PO;Sienkiewicz Jan;1223;0.44;1.57;N;M
+14;18;PO;Strama Zofia;588;0.21;0.76;N;K
+14;19;PO;Niemiec Małgorzata Anna;1125;0.40;1.45;N;K
+14;20;PO;Kozioł Krzysztof Franciszek;837;0.30;1.08;N;M
+15;1;PiS;Bernacki Włodzimierz;18699;7.25;16.55;T;M
+15;2;PiS;Czesak Edward Stanisław;18787;7.28;16.63;T;M
+15;3;PiS;Marianowska Barbara;5541;2.15;4.90;N;K
+15;4;PiS;Rojek Józef;15978;6.19;14.14;T;M
+15;5;PiS;Wojtkiewicz Michał Jan;9403;3.65;8.32;T;M
+15;6;PiS;Rusecka Urszula Beata;7787;3.02;6.89;N;K
+15;7;PiS;Kosturkiewicz Bogdan Tomasz;4220;1.64;3.74;N;M
+15;8;PiS;Kądzielawa Robert Jerzy;8524;3.30;7.54;N;M
+15;9;PiS;Połoska Teresa Alicja;2144;0.83;1.90;N;K
+15;10;PiS;Skruch Wojciech;2132;0.83;1.89;N;M
+15;11;PiS;Iwaniec Renata Maria;1045;0.41;0.92;N;K
+15;12;PiS;Czapiewski Bogdan Jan;991;0.38;0.88;N;M
+15;13;PiS;Koprowska Barbara Maria;1268;0.49;1.12;N;K
+15;14;PiS;Rybka Robert Zdzisław;828;0.32;0.73;N;M
+15;15;PiS;Wójtowicz-Woda Justyna Marta;1788;0.69;1.58;N;K
+15;16;PiS;Stefańczyk Izabela Małgorzata;570;0.22;0.50;N;K
+15;17;PiS;Ziobro Jan Paweł;9347;3.62;8.27;T;M
+15;18;PiS;Łucarz Roman;3930;1.52;3.48;N;M
+15;1;SLD;Kwaśny Jakub Michał;7305;2.83;52.69;N;M
+15;2;SLD;Tworzydło Iwona Teresa;1052;0.41;7.59;N;K
+15;3;SLD;Banek Kazimierz Bogusław;323;0.13;2.33;N;M
+15;4;SLD;Powroźnik Magdalena Anna;469;0.18;3.38;N;K
+15;5;SLD;Woźniak Jerzy Andrzej;569;0.22;4.10;N;M
+15;6;SLD;Przybyło Maria;417;0.16;3.01;N;K
+15;7;SLD;Andrzejczyk Kazimierz Jan;178;0.07;1.28;N;M
+15;8;SLD;Kubala Jan;402;0.16;2.90;N;M
+15;9;SLD;Czarnecki Stefan;366;0.14;2.64;N;M
+15;10;SLD;Konieczny Eugeniusz Władysław;477;0.18;3.44;N;M
+15;11;SLD;Sztorc Andrzej Stefan syn Józefa;684;0.27;4.93;N;M
+15;12;SLD;Nowak Grażyna Helena;228;0.09;1.64;N;K
+15;13;SLD;Bazia Robert Janusz;108;0.04;0.78;N;M
+15;14;SLD;Rokita Sylwia Anna;245;0.09;1.77;N;K
+15;15;SLD;Olchawa Krzysztof;195;0.08;1.41;N;M
+15;16;SLD;Nowicka Anna Maria;239;0.09;1.72;N;K
+15;17;SLD;Mizera Irmina Anna;133;0.05;0.96;N;K
+15;18;SLD;Początek Tomasz Piotr;473;0.18;3.41;N;M
+15;1;PSL;Sztorc Andrzej Stefan syn Stefana;7087;2.75;27.43;T;M
+15;2;PSL;Sorys Stanisław Andrzej;2346;0.91;9.08;N;M
+15;3;PSL;Gaweł Marcin Stanisław;3051;1.18;11.81;N;M
+15;4;PSL;Gdowska Maria Magdalena;1314;0.51;5.09;N;K
+15;5;PSL;Gacek Barbara;1867;0.72;7.23;N;K
+15;6;PSL;Kozioł Tadeusz;1668;0.65;6.46;N;M
+15;7;PSL;Kamiński Bogusław;1071;0.42;4.15;N;M
+15;8;PSL;Krzyszkowska-Pytel Magdalena Katarzyna;376;0.15;1.46;N;K
+15;9;PSL;Dąblewska Małgorzata Maria;574;0.22;2.22;N;K
+15;10;PSL;Lupa Marek Janusz;1168;0.45;4.52;N;M
+15;11;PSL;Piotrowski Grzegorz Bartłomiej;696;0.27;2.69;N;M
+15;12;PSL;Mirosławski Zbigniew;201;0.08;0.78;N;M
+15;13;PSL;Kornaś Wiesława;261;0.10;1.01;N;K
+15;14;PSL;Tadel Wiesław Wojciech;168;0.07;0.65;N;M
+15;15;PSL;Sumara Jadwiga;571;0.22;2.21;N;K
+15;16;PSL;Sołkowski Marian Józef;439;0.17;1.70;N;M
+15;17;PSL;Marczyk Monika Kinga;439;0.17;1.70;N;K
+15;18;PSL;Kwaśniak Adam Jan;2536;0.98;9.82;N;M
+15;1;PO;Grad Aleksander;23671;9.18;30.87;T;M
+15;2;PO;Augustyn Urszula Danuta;9724;3.77;12.68;T;K
+15;3;PO;Musiał Jan Wiesław;5974;2.32;7.79;N;M
+15;4;PO;Korta Adam Janusz;3719;1.44;4.85;N;M
+15;5;PO;Achinger Elżbieta Jadwiga;9273;3.59;12.09;N;K
+15;6;PO;Banach Mirosław Władysław;1806;0.70;2.35;N;M
+15;7;PO;Wardzała Robert Marian;10437;4.05;13.61;T;M
+15;8;PO;Minorczyk Marek;763;0.30;0.99;N;M
+15;9;PO;Kalarus-Kwaśniewska Magdalena Agnieszka;825;0.32;1.08;N;K
+15;10;PO;Karasiewicz Bernard Henryk;1045;0.41;1.36;N;M
+15;11;PO;Cierniak-Lambert Ewa Irena;1122;0.43;1.46;N;K
+15;12;PO;Sienkiewicz Grzegorz Krzysztof;499;0.19;0.65;N;M
+15;13;PO;Kusior Jadwiga;1250;0.48;1.63;N;K
+15;14;PO;Jelonek Julia;1037;0.40;1.35;N;K
+15;15;PO;Mróz Agata;2053;0.80;2.68;N;K
+15;16;PO;Sroga Paweł Andrzej;587;0.23;0.77;N;M
+15;17;PO;Szymańska Krystyna;1415;0.55;1.85;N;K
+15;18;PO;Wójcik Jan;1488;0.58;1.94;N;M
+16;1;PiS;Jasiński Wojciech Stefan;26125;9.45;28.00;T;M
+16;2;PiS;Opioła Marek;9545;3.45;10.23;T;M
+16;3;PiS;Wąsik Maciej Roman;6583;2.38;7.06;N;M
+16;4;PiS;Kołakowski Robert Jerzy;9314;3.37;9.98;T;M
+16;5;PiS;Pagórek Marian Adam;4007;1.45;4.29;N;M
+16;6;PiS;Klejnowska Ilona;5875;2.12;6.30;N;K
+16;7;PiS;Łubińska Ewa;2537;0.92;2.72;N;K
+16;8;PiS;Małecki Maciej;9757;3.53;10.46;T;M
+16;9;PiS;Chodubski Tomasz Robert;2669;0.97;2.86;N;M
+16;10;PiS;Osowski Tomasz;2646;0.96;2.84;N;M
+16;11;PiS;Purcelewska Małgorzata;916;0.33;0.98;N;K
+16;12;PiS;Cześnik Andrzej Sławomir;1657;0.60;1.78;N;M
+16;13;PiS;Kornatowska Barbara;1407;0.51;1.51;N;K
+16;14;PiS;Urmańska Maria Zofia;442;0.16;0.47;N;K
+16;15;PiS;Grabowska Małgorzata;1953;0.71;2.09;N;K
+16;16;PiS;Justat Wiesława;497;0.18;0.53;N;K
+16;17;PiS;Migda Piotr Czesław;854;0.31;0.92;N;M
+16;18;PiS;Gajewska Maria Bożena;1101;0.40;1.18;N;K
+16;19;PiS;Zając Krystyna;1945;0.70;2.08;N;K
+16;20;PiS;Kamiński Henryk;3477;1.26;3.73;N;M
+16;1;SLD;Gawkowski Krzysztof Kamil;5503;1.99;26.46;N;M
+16;2;SLD;Iwaniak Arkadiusz;2680;0.97;12.89;N;M
+16;3;SLD;Królewiecka Edyta Joanna;1474;0.53;7.09;N;K
+16;4;SLD;Budzich Marek;2144;0.78;10.31;N;M
+16;5;SLD;Kiwit Marek;1493;0.54;7.18;N;M
+16;6;SLD;Olendrzyńska Elżbieta;949;0.34;4.56;N;K
+16;7;SLD;Popiołek Jolanta;1767;0.64;8.50;N;K
+16;8;SLD;Góralczyk Arkadiusz;470;0.17;2.26;N;M
+16;9;SLD;Drewa Ryszard Józef;136;0.05;0.65;N;M
+16;10;SLD;Michalska Jadwiga Helena;554;0.20;2.66;N;K
+16;11;SLD;Sadowski Tomasz Ireneusz;501;0.18;2.41;N;M
+16;12;SLD;Gruchot Maria;257;0.09;1.24;N;K
+16;13;SLD;Kozłowski Jacek;483;0.17;2.32;N;M
+16;14;SLD;Maćkowska Joanna Stanisława;279;0.10;1.34;N;K
+16;15;SLD;Przedlacki Andrzej;298;0.11;1.43;N;M
+16;16;SLD;Żuchowska Ludwika Apolonia;154;0.06;0.74;N;K
+16;17;SLD;Orlikowska Justyna Magdalena;248;0.09;1.19;N;K
+16;18;SLD;Nawrocka Małgorzata Helena;290;0.10;1.39;N;K
+16;19;SLD;Malinowska Teresa;1118;0.40;5.38;N;K
+16;1;PSL;Pawlak Waldemar;24491;8.86;47.31;T;M
+16;2;PSL;Sopliński Aleksander;3074;1.11;5.94;N;M
+16;3;PSL;Zgorzelski Piotr;4323;1.56;8.35;T;M
+16;4;PSL;Krawczyk Wiesława;2665;0.96;5.15;N;K
+16;5;PSL;Szymanik Elżbieta;1909;0.69;3.69;N;K
+16;6;PSL;Wojnarowski Włodzimierz Adam;3278;1.19;6.33;N;M
+16;7;PSL;Opolska Grażyna Anna;1377;0.50;2.66;N;K
+16;8;PSL;Siwiec Krystyna Barbara;1294;0.47;2.50;N;K
+16;9;PSL;Stolpa Andrzej;677;0.24;1.31;N;M
+16;10;PSL;Orliński Mirosław Adam;3085;1.12;5.96;N;M
+16;11;PSL;Kwiatkowski Stanisław;768;0.28;1.48;N;M
+16;12;PSL;Kłosowski Józef Grzegorz;283;0.10;0.55;N;M
+16;13;PSL;Kęsicka Lucyna Danuta;276;0.10;0.53;N;K
+16;14;PSL;Jabłoński Bernard;1006;0.36;1.94;N;M
+16;15;PSL;Góralska Katarzyna;297;0.11;0.57;N;K
+16;16;PSL;Penczonek Krystyna Zofia;277;0.10;0.54;N;K
+16;17;PSL;Kominek Tomasz;533;0.19;1.03;N;M
+16;18;PSL;Durczak Jadwiga Ewa;219;0.08;0.42;N;K
+16;19;PSL;Bieńkowska Elżbieta;387;0.14;0.75;N;K
+16;20;PSL;Świerzyński Sławomir Arkadiusz;1547;0.56;2.99;N;M
+16;1;PO;Pitera Julia Teresa;29095;10.52;37.01;T;K
+16;2;PO;Koźlakiewicz Mirosław;11000;3.98;13.99;T;M
+16;3;PO;Rusinowska Beata Małgorzata;8773;3.17;11.16;N;K
+16;4;PO;Gapińska Elżbieta Teresa;10794;3.90;13.73;T;K
+16;5;PO;Kamasa Andrzej Juliusz;2503;0.91;3.18;N;M
+16;6;PO;Młodawska Katarzyna;1648;0.60;2.10;N;K
+16;7;PO;Wetmański Adam Piotr;1101;0.40;1.40;N;M
+16;8;PO;Pesta Piotr;2042;0.74;2.60;N;M
+16;9;PO;Kwiatkowski Jacek;1045;0.38;1.33;N;M
+16;10;PO;Wiland Małgorzata;512;0.19;0.65;N;K
+16;11;PO;Bieńkowski Andrzej;1625;0.59;2.07;N;M
+16;12;PO;Krzewicki Mateusz;1534;0.55;1.95;N;M
+16;13;PO;Zimerman Margota Anna;1483;0.54;1.89;N;K
+16;14;PO;Grochowska Małgorzata;832;0.30;1.06;N;K
+16;15;PO;Grocka Joanna;566;0.20;0.72;N;K
+16;16;PO;Lewicki Grzegorz;761;0.28;0.97;N;M
+16;17;PO;Kajkowska Agnieszka;1175;0.42;1.49;N;K
+16;18;PO;Dorobek Jarosław;2134;0.77;2.71;N;M
+17;1;PiS;Suski Marek Witold;17251;6.67;16.62;T;M
+17;2;PiS;Kuźmiuk Zbigniew Krzysztof;29223;11.30;28.15;T;M
+17;3;PiS;Bożek Martin;6532;2.53;6.29;N;M
+17;4;PiS;Wróbel Marzena Dorota;11738;4.54;11.31;T;K
+17;5;PiS;Bąk Dariusz;10217;3.95;9.84;T;M
+17;6;PiS;Sońta Krzysztof Jan;9436;3.65;9.09;N;M
+17;7;PiS;Górska Agnieszka Beata;3296;1.27;3.18;N;K
+17;8;PiS;Rejczak Jan;3605;1.39;3.47;N;M
+17;9;PiS;Bartula Ewa Elżbieta;911;0.35;0.88;N;K
+17;10;PiS;Półbratek Małgorzata Danuta;1072;0.41;1.03;N;K
+17;11;PiS;Kwiecień Anna;2648;1.02;2.55;N;K
+17;12;PiS;Borowska Barbara Jadwiga;992;0.38;0.96;N;K
+17;13;PiS;Dolega Barbara Jolanta;724;0.28;0.70;N;K
+17;14;PiS;Fogiel Radosław Aleksander;826;0.32;0.80;N;M
+17;15;PiS;Tyka-Pawlikowska Bożena Zofia;620;0.24;0.60;N;K
+17;16;PiS;Wolszczak Anna;1478;0.57;1.42;N;K
+17;17;PiS;Gawryś Grzegorz Michał;723;0.28;0.70;N;M
+17;18;PiS;Piwoński Dariusz Tomasz;2506;0.97;2.41;N;M
+17;1;SLD;Wikiński Marek Michał;8312;3.22;41.92;N;M
+17;2;SLD;Kaczmarski Waldemar Antoni;1492;0.58;7.52;N;M
+17;3;SLD;Sokołowska Jolanta Monika;1341;0.52;6.76;N;K
+17;4;SLD;Kowaleczko Romuald Zdzisław;1959;0.76;9.88;N;M
+17;5;SLD;Ratuszyńska Marta;796;0.31;4.01;N;K
+17;6;SLD;Pszczoła Jan;983;0.38;4.96;N;M
+17;7;SLD;Hebda Roman;200;0.08;1.01;N;M
+17;8;SLD;Sitarek Jolanta;728;0.28;3.67;N;K
+17;9;SLD;Zając Mariola Zenona;482;0.19;2.43;N;K
+17;10;SLD;Niedzielska Violetta Małgorzata;460;0.18;2.32;N;K
+17;11;SLD;Dziedzic Jakub Mateusz;141;0.05;0.71;N;M
+17;12;SLD;Bąk Rajmund Paweł;397;0.15;2.00;N;M
+17;13;SLD;Włodarczyk Adam Wojciech;697;0.27;3.52;N;M
+17;14;SLD;Węgrzycka Urszula;283;0.11;1.43;N;K
+17;15;SLD;Poznańska-Rosak Daria Iwona;300;0.12;1.51;N;K
+17;16;SLD;Kaim Jacek;262;0.10;1.32;N;M
+17;17;SLD;Rusiecki Stanisław;165;0.06;0.83;N;M
+17;18;SLD;Pronobis Iwona Joanna;830;0.32;4.19;N;K
+17;1;PSL;Pacholczak Bożenna Teresa;4206;1.63;11.53;N;K
+17;2;PSL;Maliszewski Mirosław Wojciech;9815;3.80;26.90;T;M
+17;3;PSL;Papis Piotr;6551;2.53;17.95;N;M
+17;4;PSL;Jaworska Bogusława Janina;2353;0.91;6.45;N;K
+17;5;PSL;Ferensztajn Bogumił;2355;0.91;6.45;N;M
+17;6;PSL;Gołąbek Zbigniew;3658;1.41;10.03;N;M
+17;7;PSL;Piątek Dariusz;1714;0.66;4.70;N;M
+17;8;PSL;Piętowski Tadeusz;668;0.26;1.83;N;M
+17;9;PSL;Bakuła Józef;593;0.23;1.63;N;M
+17;10;PSL;Jaroszek-Nowak Ilona Dorota;332;0.13;0.91;N;K
+17;11;PSL;Ślifirczyk Mirosław;1146;0.44;3.14;N;M
+17;12;PSL;Madej Sławomir;270;0.10;0.74;N;M
+17;13;PSL;Król Hanna;468;0.18;1.28;N;K
+17;14;PSL;Gabler Ewa;389;0.15;1.07;N;K
+17;15;PSL;Marchewka Kazimierz;651;0.25;1.78;N;M
+17;16;PSL;Szczerbicka Jadwiga;292;0.11;0.80;N;K
+17;17;PSL;Pawelec Walentyna;286;0.11;0.78;N;K
+17;18;PSL;Węgrzecka Maria Agnieszka;741;0.29;2.03;N;K
+17;1;PO;Kopacz Ewa Bożena;41554;16.07;61.70;T;K
+17;2;PO;Witkowski Radosław;7285;2.82;10.82;T;M
+17;3;PO;Czechyra Czesław Jan;4347;1.68;6.45;T;M
+17;4;PO;Woźniak Małgorzata Anna;2017;0.78;2.99;N;K
+17;5;PO;Wędzonka Wiesław;1656;0.64;2.46;N;M
+17;6;PO;Pogorzelski Robert;1342;0.52;1.99;N;M
+17;7;PO;Belowski Zbigniew;1801;0.70;2.67;N;M
+17;8;PO;Pierzchalska Maria Halina;980;0.38;1.46;N;K
+17;9;PO;Szymczyk Mariola Izabela;682;0.26;1.01;N;K
+17;10;PO;Gajewski Sławomir Witold;885;0.34;1.31;N;M
+17;11;PO;Mastalerek Marek Piotr;279;0.11;0.41;N;M
+17;12;PO;Stępień Mateusz Zbigniew;347;0.13;0.52;N;M
+17;13;PO;Gruszczyński Paweł Leonard;514;0.20;0.76;N;M
+17;14;PO;Pastuszka-Chrobotowicz Katarzyna;1066;0.41;1.58;N;K
+17;15;PO;Szymela Teresa Krystyna;298;0.12;0.44;N;K
+17;16;PO;Strąk Mariusz;293;0.11;0.44;N;M
+17;17;PO;Jamróz Zbigniew Janusz;358;0.14;0.53;N;M
+17;18;PO;Białkowska Anna Maria;1645;0.64;2.44;N;K
+18;1;PiS;Pawłowicz Krystyna;20681;6.04;14.78;T;K
+18;2;PiS;Tchórzewski Krzysztof Józef;22787;6.66;16.29;T;M
+18;3;PiS;Czartoryski Arkadiusz;17516;5.12;12.52;T;M
+18;4;PiS;Kowalczyk Henryk;13713;4.01;9.80;T;M
+18;5;PiS;Wargocka Teresa Anna;7743;2.26;5.53;N;K
+18;6;PiS;Kowalski Bogusław;5196;1.52;3.71;N;M
+18;7;PiS;Koc Maria Zofia;6615;1.93;4.73;N;K
+18;8;PiS;Woźniak-Sionek Elżbieta;2538;0.74;1.81;N;K
+18;9;PiS;Wyszyńska Iwona Bogusława;2446;0.71;1.75;N;K
+18;10;PiS;Woźniak Grzegorz Adam;8550;2.50;6.11;T;M
+18;11;PiS;Chrupek Zbigniew;3302;0.96;2.36;N;M
+18;12;PiS;Kozłowski Henryk;1242;0.36;0.89;N;M
+18;13;PiS;Kamiński Stanisław Sylwester;4548;1.33;3.25;N;M
+18;14;PiS;Miroński Szczepan;1713;0.50;1.22;N;M
+18;15;PiS;Milewski Daniel George;7660;2.24;5.47;N;M
+18;16;PiS;Kozos Teresa;670;0.20;0.48;N;K
+18;17;PiS;Drewnowska Eliza;1260;0.37;0.90;N;K
+18;18;PiS;Skup Jadwiga;2456;0.72;1.76;N;K
+18;19;PiS;Warpas Adam;1579;0.46;1.13;N;M
+18;20;PiS;Górniaczyk Marek;1291;0.38;0.92;N;M
+18;21;PiS;Bogucki Łukasz Piotr;2610;0.76;1.87;N;M
+18;22;PiS;Stańczewska Bogusława Teresa;839;0.25;0.60;N;K
+18;23;PiS;Drężek Krystyna;933;0.27;0.67;N;K
+18;24;PiS;Kurkus Bartłomiej;2038;0.60;1.46;N;M
+18;1;SLD;Prządka Stanisława Alicja;8717;2.55;35.70;T;K
+18;2;SLD;Nowotka Marcin;1649;0.48;6.75;N;M
+18;3;SLD;Rybski Stanisław;1395;0.41;5.71;N;M
+18;4;SLD;Godlewska Małgorzata;1138;0.33;4.66;N;K
+18;5;SLD;Drabio Maciej;579;0.17;2.37;N;M
+18;6;SLD;Szymaniuk Katarzyna;393;0.11;1.61;N;K
+18;7;SLD;Garbarczyk Justyna;1905;0.56;7.80;N;K
+18;8;SLD;Sadoch Jacek;219;0.06;0.90;N;M
+18;9;SLD;Świeżewski Jacek Medard;88;0.03;0.36;N;M
+18;10;SLD;Lewandowski Mirosław;482;0.14;1.97;N;M
+18;11;SLD;Dumała Joanna;330;0.10;1.35;N;K
+18;12;SLD;Domagała Przemysław;144;0.04;0.59;N;M
+18;13;SLD;Branicki Rafał;181;0.05;0.74;N;M
+18;14;SLD;Banaszewska Dorota;291;0.09;1.19;N;K
+18;15;SLD;Rypina Wiesław Jan;96;0.03;0.39;N;M
+18;16;SLD;Gugała Teresa Halina;159;0.05;0.65;N;K
+18;17;SLD;Boruc Mirosław;288;0.08;1.18;N;M
+18;18;SLD;Lipka Emilia;327;0.10;1.34;N;K
+18;19;SLD;Dębski Jakub;174;0.05;0.71;N;M
+18;20;SLD;Kuczyńska Marta;513;0.15;2.10;N;K
+18;21;SLD;Nowogórski Karol Jerzy;122;0.04;0.50;N;M
+18;22;SLD;Kołodziejczyk Tomasz;442;0.13;1.81;N;M
+18;23;SLD;Lipska Mieczysława Janina;193;0.06;0.79;N;K
+18;24;SLD;Gajowniczek Andrzej;4593;1.34;18.81;N;M
+18;1;PSL;Sawicki Marek Wacław;23901;6.98;39.09;T;M
+18;2;PSL;Borkowski Krzysztof Wawrzyniec;6868;2.01;11.23;T;M
+18;3;PSL;Nalewajk Tadeusz;6605;1.93;10.80;N;M
+18;4;PSL;Janusz Danuta;2821;0.82;4.61;N;K
+18;5;PSL;Domżała Cecylia;1912;0.56;3.13;N;K
+18;6;PSL;Tarczyński Antoni Jan;2887;0.84;4.72;N;M
+18;7;PSL;Bałdyga Krzysztof Konstanty;1357;0.40;2.22;N;M
+18;8;PSL;Wielogórski Zygmunt Jakub;1039;0.30;1.70;N;M
+18;9;PSL;Piesio Jerzy;1269;0.37;2.08;N;M
+18;10;PSL;Pągowski Bogdan Mirosław;1248;0.36;2.04;N;M
+18;11;PSL;Zawistowski Rajmund;878;0.26;1.44;N;M
+18;12;PSL;Szpakowski Leszek Roman;289;0.08;0.47;N;M
+18;13;PSL;Mynyk Anna Jadwiga;412;0.12;0.67;N;K
+18;14;PSL;Waszczuk Marian Jan;368;0.11;0.60;N;M
+18;15;PSL;Lipka Tadeusz;850;0.25;1.39;N;M
+18;16;PSL;Nalewka Ewa Zofia;388;0.11;0.63;N;K
+18;17;PSL;Kamola Joanna Beata;211;0.06;0.35;N;K
+18;18;PSL;Pomacho Bożena;1103;0.32;1.80;N;K
+18;19;PSL;Zyśk Małgorzata;577;0.17;0.94;N;K
+18;20;PSL;Łuka Lidia;314;0.09;0.51;N;K
+18;21;PSL;Orowiecka Teresa;987;0.29;1.61;N;K
+18;22;PSL;Kozera Mariusz;349;0.10;0.57;N;M
+18;23;PSL;Dzięcioł Marian;1436;0.42;2.35;N;M
+18;24;PSL;Augustyniak Mirosław Jan;3067;0.90;5.02;N;M
+18;1;PO;Mroczek Czesław;22985;6.71;29.78;T;M
+18;2;PO;Kozaczyński Jacek;6804;1.99;8.82;T;M
+18;3;PO;Okularczyk Stanisława Anna;4255;1.24;5.51;N;K
+18;4;PO;Kania Andrzej;5212;1.52;6.75;T;M
+18;5;PO;Lanc Elżbieta;4307;1.26;5.58;N;K
+18;6;PO;Kamiński Zbigniew;5069;1.48;6.57;N;M
+18;7;PO;Grenda Jarosław;1818;0.53;2.36;N;M
+18;8;PO;Gora Stefan Marian;3827;1.12;4.96;N;M
+18;9;PO;Kikolski Witold Stefan;1891;0.55;2.45;N;M
+18;10;PO;Daniluk Sybilla Stanisława;686;0.20;0.89;N;K
+18;11;PO;Barański Rafał Paweł;1006;0.29;1.30;N;M
+18;12;PO;Skarżyński Łukasz;1124;0.33;1.46;N;M
+18;13;PO;Kobyliński Grzegorz Stefan;1504;0.44;1.95;N;M
+18;14;PO;Rosa Anna Małgorzata;3875;1.13;5.02;N;K
+18;15;PO;Zbrzeźniak Karol Stanisław;252;0.07;0.33;N;M
+18;16;PO;Osipiuk Sylwia Halina;906;0.26;1.17;N;K
+18;17;PO;Wysocka-Kuśmierska Ewa;839;0.25;1.09;N;K
+18;18;PO;Orzeł Krzysztof;832;0.24;1.08;N;M
+18;19;PO;Pakieła Aneta Dorota;2069;0.60;2.68;N;K
+18;20;PO;Przeździecka Barbara;839;0.25;1.09;N;K
+18;21;PO;Pyra Elżbieta;982;0.29;1.27;N;K
+18;22;PO;Zagajewska-Łuczak Aneta;937;0.27;1.21;N;K
+18;23;PO;Popielarz Mariusz Piotr;5162;1.51;6.69;N;M
+19;1;PiS;Kaczyński Jarosław Aleksander;202297;19.88;72.88;T;M
+19;2;PiS;Kamiński Mariusz;17535;1.72;6.32;T;M
+19;3;PiS;Gosiewska Małgorzata Maria;8129;0.80;2.93;T;K
+19;4;PiS;Karski Karol Adam;2736;0.27;0.99;N;M
+19;5;PiS;Dworczyk Michał Paweł;4398;0.43;1.58;N;M
+19;6;PiS;Górski Artur Cezary;4762;0.47;1.72;T;M
+19;7;PiS;Wipler Przemysław Janusz;4615;0.45;1.66;T;M
+19;8;PiS;Kołodziejski Witold Czesław;468;0.05;0.17;N;M
+19;9;PiS;Tomaszewska Ewa;2924;0.29;1.05;N;K
+19;10;PiS;Müller Piotr Józef;1365;0.13;0.49;N;M
+19;11;PiS;Melak Andrzej Józef;3231;0.32;1.16;N;M
+19;12;PiS;Raczyńska-Weinsberg Małgorzata Helena;770;0.08;0.28;N;K
+19;13;PiS;Kasprzyk Jan Józef;928;0.09;0.33;N;M
+19;14;PiS;Kaczmarska Agnieszka;1253;0.12;0.45;N;K
+19;15;PiS;Gajadhur Alvin;564;0.06;0.20;N;M
+19;16;PiS;Lisiecki Paweł Jacek;2486;0.24;0.90;N;M
+19;17;PiS;Kondrat Michał Stanisław;2746;0.27;0.99;N;M
+19;18;PiS;Gręziak Anna Maria;670;0.07;0.24;N;K
+19;19;PiS;Niedziela Janusz;360;0.04;0.13;N;M
+19;20;PiS;Zalewski Krzysztof Andrzej;439;0.04;0.16;N;M
+19;21;PiS;Jurkiewicz Cezary Andrzej;2286;0.22;0.82;N;M
+19;22;PiS;Mierzejewska Hanna Elżbieta;343;0.03;0.12;N;K
+19;23;PiS;Maciejowski Maciej Juliusz;166;0.02;0.06;N;M
+19;24;PiS;Cierpisz Zbigniew Adam;249;0.02;0.09;N;M
+19;25;PiS;Cackowski Marek Jan;150;0.01;0.05;N;M
+19;26;PiS;Terlecka Mirosława Hanna;392;0.04;0.14;N;K
+19;27;PiS;Komorek Irena Teresa;280;0.03;0.10;N;K
+19;28;PiS;Wasilewski Witold Ludwik;276;0.03;0.10;N;M
+19;29;PiS;Rylska Barbara;578;0.06;0.21;N;K
+19;30;PiS;Polak Katarzyna Maria;617;0.06;0.22;N;K
+19;31;PiS;Wróbel Sławomir Rafał;426;0.04;0.15;N;M
+19;32;PiS;Murdoch Anna Elżbieta;135;0.01;0.05;N;K
+19;33;PiS;Rewiński Jonasz Maksymilian;570;0.06;0.21;N;M
+19;34;PiS;Jędrychowska Anna;257;0.03;0.09;N;K
+19;35;PiS;Wojdalski Janusz Andrzej;410;0.04;0.15;N;M
+19;36;PiS;Sulińska Elżbieta Krystyna;176;0.02;0.06;N;K
+19;37;PiS;Terlecki Paweł Andrzej;290;0.03;0.10;N;M
+19;38;PiS;Słomińska Małgorzata Maria;341;0.03;0.12;N;K
+19;39;PiS;Augustynowicz-Figat Barbara;675;0.07;0.24;N;K
+19;40;PiS;Kwiatkowski Adam Mariusz;6284;0.62;2.26;T;M
+19;1;SLD;Kalisz Ryszard Roman;53451;5.25;68.51;T;M
+19;2;SLD;Balicki Marek Zbigniew;9175;0.90;11.76;N;M
+19;3;SLD;Piechna-Więckiewicz Paulina Krystyna;1805;0.18;2.31;N;K
+19;4;SLD;Legierski Krystian Łukasz;1862;0.18;2.39;N;M
+19;5;SLD;Tysiąc Alicja Agnieszka;1286;0.13;1.65;N;K
+19;6;SLD;Grzybek Agnieszka Magdalena;1161;0.11;1.49;N;K
+19;7;SLD;Pstrokoński Andrzej Stefan;84;0.01;0.11;N;M
+19;8;SLD;Procki Marek;243;0.02;0.31;N;M
+19;9;SLD;Tondera Maria Barbara;404;0.04;0.52;N;K
+19;10;SLD;Marszałek Waldemar Antoni;476;0.05;0.61;N;M
+19;11;SLD;Grochala Dorota Lidia;325;0.03;0.42;N;K
+19;12;SLD;Gęsicki Janusz Tadeusz;156;0.02;0.20;N;M
+19;13;SLD;Wiśniewska Elżbieta Magdalena;304;0.03;0.39;N;K
+19;14;SLD;Kraśko Tadeusz;164;0.02;0.21;N;M
+19;15;SLD;Głowacz Daniel Franciszek;153;0.02;0.20;N;M
+19;16;SLD;Kulczycka-Gąsiorek Elżbieta Jadwiga;131;0.01;0.17;N;K
+19;17;SLD;Czerska Bogumiła Małgorzata;132;0.01;0.17;N;K
+19;18;SLD;Oprządek Mariusz;157;0.02;0.20;N;M
+19;19;SLD;Mardofel Grażyna Bogumiła;66;0.01;0.08;N;K
+19;20;SLD;Szostakiewicz Stanisław Wincenty;164;0.02;0.21;N;M
+19;21;SLD;Rytel Michał Mirosław;205;0.02;0.26;N;M
+19;22;SLD;Szlendak Judyta;118;0.01;0.15;N;K
+19;23;SLD;Błaszczak Marzena;201;0.02;0.26;N;K
+19;24;SLD;Kowalski Daniel Marek;225;0.02;0.29;N;M
+19;25;SLD;Sadowski Adam Michał;103;0.01;0.13;N;M
+19;26;SLD;Jankowska Alicja Janina;255;0.03;0.33;N;K
+19;27;SLD;Gajewski Sebastian;89;0.01;0.11;N;M
+19;28;SLD;Jarosz Joanna Patrycja;143;0.01;0.18;N;K
+19;29;SLD;Kamińska Kamila;266;0.03;0.34;N;K
+19;30;SLD;Klaudziński Jacek Marian;114;0.01;0.15;N;M
+19;31;SLD;Baj Bogdan;50;0.00;0.06;N;M
+19;32;SLD;Oblizajek Michał Wojciech;58;0.01;0.07;N;M
+19;33;SLD;Lazar Małgorzata Ewa;134;0.01;0.17;N;K
+19;34;SLD;Morawiec Maciej Józef;31;0.00;0.04;N;M
+19;35;SLD;Hanusz Piotr Jerzy;24;0.00;0.03;N;M
+19;36;SLD;Kardasz Ewa;177;0.02;0.23;N;K
+19;37;SLD;Pytlak Henryk Józef;45;0.00;0.06;N;M
+19;38;SLD;Wróblewski Giedymin;76;0.01;0.10;N;M
+19;39;SLD;Ślepowrońska Małgorzata;255;0.03;0.33;N;K
+19;40;SLD;Gadzinowski Piotr;3752;0.37;4.81;N;M
+19;1;PSL;Kozakiewicz Władysław;5792;0.57;32.62;N;M
+19;2;PSL;Skóra Sylwester;591;0.06;3.33;N;M
+19;3;PSL;Węgorzewska-Whiskerd Alicja Dorota;2239;0.22;12.61;N;K
+19;4;PSL;Sokołowska Jowita;617;0.06;3.48;N;K
+19;5;PSL;Jedlewska Maria Małgorzata;415;0.04;2.34;N;K
+19;6;PSL;Jaśniak Włodzimierz Andrzej;109;0.01;0.61;N;M
+19;7;PSL;Rozbicki Andrzej;244;0.02;1.37;N;M
+19;8;PSL;Górska Urszula Dorota;374;0.04;2.11;N;K
+19;9;PSL;Gryzel Bolesław;113;0.01;0.64;N;M
+19;10;PSL;Bobowski Andrzej;145;0.01;0.82;N;M
+19;11;PSL;Wideł Sebastian Bartłomiej;84;0.01;0.47;N;M
+19;12;PSL;Kalinowska-Bouvy Agata Dorota;217;0.02;1.22;N;K
+19;13;PSL;Kuryluk Krystyna;190;0.02;1.07;N;K
+19;14;PSL;Kaczyński Grzegorz Jerzy;197;0.02;1.11;N;M
+19;15;PSL;Głażewski Wojciech;190;0.02;1.07;N;M
+19;16;PSL;Rakiel-Czarnecka Walentyna;115;0.01;0.65;N;K
+19;17;PSL;Rypińska-Olsson Maria Jolanta;79;0.01;0.44;N;K
+19;18;PSL;Stępniewski Andrzej Adam;100;0.01;0.56;N;M
+19;19;PSL;Dyduch Janusz;205;0.02;1.15;N;M
+19;20;PSL;Wójcik Stanisław Jakub;244;0.02;1.37;N;M
+19;21;PSL;Strąk Michał Stanisław;448;0.04;2.52;N;M
+19;22;PSL;Wyszyńska Teresa Maria;305;0.03;1.72;N;K
+19;23;PSL;Bogiel Teresa Maria;140;0.01;0.79;N;K
+19;24;PSL;Janusz Agnieszka;167;0.02;0.94;N;K
+19;25;PSL;Waźbiński Tomasz;54;0.01;0.30;N;M
+19;26;PSL;Rutkowska Mirosława;191;0.02;1.08;N;K
+19;27;PSL;Ossowska Małgorzata;168;0.02;0.95;N;K
+19;28;PSL;Nasiadka Ilona;175;0.02;0.99;N;K
+19;29;PSL;Wasilewska Lucyna Gertruda;160;0.02;0.90;N;K
+19;30;PSL;Dziak Hanna Elżbieta;108;0.01;0.61;N;K
+19;31;PSL;Matłacki Robert Adam;71;0.01;0.40;N;M
+19;32;PSL;Garstka Tatiana Joanna;85;0.01;0.48;N;K
+19;33;PSL;Ornoch Marek Jacek;49;0.00;0.28;N;M
+19;34;PSL;Pałasz Ewa Agata;184;0.02;1.04;N;K
+19;35;PSL;Farkowska Agata Maria;106;0.01;0.60;N;K
+19;36;PSL;Chołast Sylwester Adam;91;0.01;0.51;N;M
+19;37;PSL;Grudowska Agata Zofia;59;0.01;0.33;N;K
+19;38;PSL;Kołodziejski Wiesław Stanisław;132;0.01;0.74;N;M
+19;39;PSL;Młynarczyk Agata;426;0.04;2.40;N;K
+19;40;PSL;Struzik Adam Krzysztof;2376;0.23;13.38;N;M
+19;1;PO;Tusk Donald Franciszek;374920;36.84;75.19;T;M
+19;2;PO;Kidawa-Błońska Małgorzata Maria;45027;4.42;9.03;T;K
+19;3;PO;Vincent-Rostowski Jan Antony;10743;1.06;2.15;T;M
+19;4;PO;Fabisiak Joanna;6739;0.66;1.35;T;K
+19;5;PO;Kierwiński Marcin Piotr;3580;0.35;0.72;T;M
+19;6;PO;Czuma Andrzej Bobola;2433;0.24;0.49;N;M
+19;7;PO;Krajewska Ligia;3590;0.35;0.72;T;K
+19;8;PO;Święcicki Marcin;6246;0.61;1.25;T;M
+19;9;PO;Jaworski Lech Włodzimierz;1527;0.15;0.31;N;M
+19;10;PO;Kosecki Roman Jacek;4603;0.45;0.92;T;M
+19;11;PO;Lech Paweł Piotr;2276;0.22;0.46;N;M
+19;12;PO;Dolczewski Dariusz Dominik;1737;0.17;0.35;N;M
+19;13;PO;Ross Tadeusz Edward;2373;0.23;0.48;N;M
+19;14;PO;Dąbrowska Alicja;4622;0.45;0.93;T;K
+19;15;PO;Szczerba Michał Roch;4137;0.41;0.83;T;M
+19;16;PO;Czeszejko-Sochacka Ewa Jadwiga;2466;0.24;0.49;N;K
+19;17;PO;Skolimowski Krzysztof Piotr;874;0.09;0.18;N;M
+19;18;PO;Przybyszewska-Kujawa Beata Joanna;1051;0.10;0.21;N;K
+19;19;PO;Wróbel Robert Dariusz;1011;0.10;0.20;N;M
+19;20;PO;Lerczak Magdalena;1780;0.17;0.36;N;K
+19;21;PO;Gołota Łukasz;1327;0.13;0.27;N;M
+19;22;PO;Malesa Wojciech Marian;935;0.09;0.19;N;M
+19;23;PO;Rabczon Mariola;912;0.09;0.18;N;K
+19;24;PO;Kropacz Jerzy Tadeusz;533;0.05;0.11;N;M
+19;25;PO;Krakowski Roman Wojciech;421;0.04;0.08;N;M
+19;26;PO;Kołos-Jagiełło Jolanta Sabina;937;0.09;0.19;N;K
+19;27;PO;Malina Andrzej Janusz;343;0.03;0.07;N;M
+19;28;PO;Więzowska Kinga Agata;726;0.07;0.15;N;K
+19;29;PO;Janiszewski Mieczysław;460;0.05;0.09;N;M
+19;30;PO;Waligóra Joanna Alicja;1054;0.10;0.21;N;K
+19;31;PO;Banasiak Teresa Renata;678;0.07;0.14;N;K
+19;32;PO;Filiński Jarosław Henryk;170;0.02;0.03;N;M
+19;33;PO;Miastowska-Gierek Małgorzata;281;0.03;0.06;N;K
+19;34;PO;Piasecki Piotr Michał;389;0.04;0.08;N;M
+19;35;PO;Sadowska Wanda Teresa;662;0.07;0.13;N;K
+19;36;PO;Rzepczyński Juliusz Zbigniew;178;0.02;0.04;N;M
+19;37;PO;Szymańska-Słok Eliza Maria;626;0.06;0.13;N;K
+19;38;PO;Kossak Anna Maria;2089;0.21;0.42;N;K
+19;39;PO;Berłowska Halina Teresa;1068;0.10;0.21;N;K
+19;40;PO;Jastrzębski Leszek Andrzej;3075;0.30;0.62;T;M
+20;1;PiS;Błaszczak Mariusz;44319;9.85;30.38;T;M
+20;2;PiS;Dorn Ludwik Stanisław;18683;4.15;12.81;T;M
+20;3;PiS;Pietrzak - Merta Magdalena Brygida;5679;1.26;3.89;N;K
+20;4;PiS;Szyszko Jan Feliks;13636;3.03;9.35;T;M
+20;5;PiS;Sasin Jacek Robert;29134;6.48;19.97;T;M
+20;6;PiS;Sikora Anna Ewa;7979;1.77;5.47;N;K
+20;7;PiS;Lubiak Katarzyna;2037;0.45;1.40;N;K
+20;8;PiS;Ołdakowski Wojciech Jerzy;2034;0.45;1.39;N;M
+20;9;PiS;Matusiak Sylwia;1437;0.32;0.98;N;K
+20;10;PiS;Żyła Edyta Julia;1943;0.43;1.33;N;K
+20;11;PiS;Arciszewski Grzegorz;2060;0.46;1.41;N;M
+20;12;PiS;Sipiera Zdzisław Tadeusz;844;0.19;0.58;N;M
+20;13;PiS;Piechota Krzysztof;1485;0.33;1.02;N;M
+20;14;PiS;Podgórska-Paciorek Małgorzata;947;0.21;0.65;N;K
+20;15;PiS;Iwicki Piotr;2024;0.45;1.39;N;M
+20;16;PiS;Kozak Sebastian Jakub;791;0.18;0.54;N;M
+20;17;PiS;Zadrożny Hubert Witold;859;0.19;0.59;N;M
+20;18;PiS;Wiąckowska Iwona Jolanta;828;0.18;0.57;N;K
+20;19;PiS;Szlaga Lech Jerzy;438;0.10;0.30;N;M
+20;20;PiS;Rode Barbara;544;0.12;0.37;N;K
+20;21;PiS;Zarzeczna Bożena;1357;0.30;0.93;N;K
+20;22;PiS;Napiórkowski Jarosław;1578;0.35;1.08;N;M
+20;23;PiS;Zalewski Paweł Czesław;1326;0.29;0.91;N;M
+20;24;PiS;Czerwińska Anita;3931;0.87;2.69;N;K
+20;1;SLD;Piekarska Katarzyna Maria;13944;3.10;58.74;N;K
+20;2;SLD;Papuga Marek Zdzisław;1408;0.31;5.93;N;M
+20;3;SLD;Rud Katarzyna Tamara;504;0.11;2.12;N;K
+20;4;SLD;Izydorczyk Katarzyna;383;0.09;1.61;N;K
+20;5;SLD;Staniewski Tadeusz Henryk;186;0.04;0.78;N;M
+20;6;SLD;Doroszkiewicz Konrad Tomasz;285;0.06;1.20;N;M
+20;7;SLD;Szymański Grzegorz Jan;949;0.21;4.00;N;M
+20;8;SLD;Oleksiak Paweł;742;0.16;3.13;N;M
+20;9;SLD;Walczyński Franciszek Adam;594;0.13;2.50;N;M
+20;10;SLD;Klucz Jerzy Krzysztof;236;0.05;0.99;N;M
+20;11;SLD;Zarębska Małgorzata Zofia;496;0.11;2.09;N;K
+20;12;SLD;Kościelniak Sławomir Marek;134;0.03;0.56;N;M
+20;13;SLD;Majewski Włodzimierz Andrzej;218;0.05;0.92;N;M
+20;14;SLD;Kulesza Lech Stanisław;418;0.09;1.76;N;M
+20;15;SLD;Waliszewski Marcin Sebastian;134;0.03;0.56;N;M
+20;16;SLD;Niczyporuk Mariola Iwona;170;0.04;0.72;N;K
+20;17;SLD;Wróblewska Elżbieta Krystyna;373;0.08;1.57;N;K
+20;18;SLD;Jeziorska Beata Monika;347;0.08;1.46;N;K
+20;19;SLD;Zieliński Robert Zygmunt;237;0.05;1.00;N;M
+20;20;SLD;Dalkowska Barbara Ewa;277;0.06;1.17;N;K
+20;21;SLD;Rutkowska Lucyna Wanda;503;0.11;2.12;N;K
+20;22;SLD;Szczepański Łukasz Jerzy;216;0.05;0.91;N;M
+20;23;SLD;Ocipka Janusz Kazimierz;985;0.22;4.15;N;M
+20;1;PSL;Piechociński Janusz;11638;2.59;36.30;T;M
+20;2;PSL;Nastula Paweł Marcin;3516;0.78;10.97;N;M
+20;3;PSL;Żelazowska Bożena Jadwiga;2328;0.52;7.26;N;K
+20;4;PSL;Smak Danuta;650;0.14;2.03;N;K
+20;5;PSL;Roszkiewicz Waldemar Cezary;734;0.16;2.29;N;M
+20;6;PSL;Małolepszy Karol Andrzej;518;0.12;1.62;N;M
+20;7;PSL;Kalicińska-Goczał Katarzyna Dominika;269;0.06;0.84;N;K
+20;8;PSL;Wojtowicz Jarosław;465;0.10;1.45;N;M
+20;9;PSL;Galiński Piotr Stanisław;753;0.17;2.35;N;M
+20;10;PSL;Kalinowski Jacek Modest;408;0.09;1.27;N;M
+20;11;PSL;Mucha Bernard Dariusz;1485;0.33;4.63;N;M
+20;12;PSL;Bartnicka Aneta Renata;990;0.22;3.09;N;K
+20;13;PSL;Fortuński Wojciech Stanisław;805;0.18;2.51;N;M
+20;14;PSL;Bodzak Małgorzata Jadwiga;506;0.11;1.58;N;K
+20;15;PSL;Kopeć Andrzej;894;0.20;2.79;N;M
+20;16;PSL;Bala Agnieszka Joanna;274;0.06;0.85;N;K
+20;17;PSL;Gajewska Anna Katarzyna;525;0.12;1.64;N;K
+20;18;PSL;Rokicki Tadeusz;265;0.06;0.83;N;M
+20;19;PSL;Kiljan Andrzej;535;0.12;1.67;N;M
+20;20;PSL;Kokoszka Dariusz Stanisław;1101;0.24;3.43;N;M
+20;21;PSL;Pakuła Bożena;1535;0.34;4.79;N;K
+20;22;PSL;Smolaga Krzysztof Paweł;245;0.05;0.76;N;M
+20;23;PSL;Reluga Zbigniew;709;0.16;2.21;N;M
+20;24;PSL;Ryś-Ferens Erwina Lilia;916;0.20;2.86;N;K
+20;1;PO;Halicki Andrzej Witold;40002;8.89;21.96;T;M
+20;2;PO;Rosati Dariusz Kajetan;59562;13.24;32.70;T;M
+20;3;PO;Zakrzewska Jadwiga Teresa;11383;2.53;6.25;T;K
+20;4;PO;Olechowska Alicja Danuta;10884;2.42;5.98;T;K
+20;5;PO;Smirnow Andrzej;7043;1.57;3.87;N;M
+20;6;PO;Szweycer Michał Stanisław;2093;0.47;1.15;N;M
+20;7;PO;Czaplicka Barbara;8340;1.85;4.58;T;K
+20;8;PO;Durka Zenon;7988;1.78;4.39;T;M
+20;9;PO;Kozłowski Jarosław Zygmunt;2716;0.60;1.49;N;M
+20;10;PO;Wierzbicka Olga;2721;0.60;1.49;N;K
+20;11;PO;Sulich Igor Sebastian;4561;1.01;2.50;N;M
+20;12;PO;Waś Emilia Agata;1964;0.44;1.08;N;K
+20;13;PO;Kiendzierska Izabella;1198;0.27;0.66;N;K
+20;14;PO;Pszczółkowski Wiesław;3225;0.72;1.77;N;M
+20;15;PO;Obzejta-Żbikowska Dorota Tomira;771;0.17;0.42;N;K
+20;16;PO;Bidwell-Porębska Krystyna Joanna;351;0.08;0.19;N;K
+20;17;PO;Klocek Sławomir Jan;1694;0.38;0.93;N;M
+20;18;PO;Obłąkowska-Kubiak Katarzyna Agnieszka;2979;0.66;1.64;N;K
+20;19;PO;Roszkowska Agnieszka Dorota;2439;0.54;1.34;N;K
+20;20;PO;Bartnik Ewa Urszula;2163;0.48;1.19;N;K
+20;21;PO;Mizerski Andrzej;4329;0.96;2.38;N;M
+20;22;PO;Klimont-Bodzińska Aleksandra Maria;1704;0.38;0.94;N;K
+20;23;PO;Cukrowski Paweł;2013;0.45;1.11;N;M
+21;1;PiS;Żyżyński Jerzy;9872;3.09;15.02;T;M
+21;2;PiS;Kłosowski Sławomir;14165;4.43;21.55;T;M
+21;3;PiS;Ceglecka-Zielonka Teresa Zuzanna;5577;1.74;8.48;N;K
+21;4;PiS;Chabraszewski Jan;1202;0.38;1.83;N;M
+21;5;PiS;Porowska Violetta Teresa;2473;0.77;3.76;N;K
+21;6;PiS;Byczkowski Dariusz Paweł;4074;1.27;6.20;N;M
+21;7;PiS;Tyma Zenon Andrzej;2437;0.76;3.71;N;M
+21;8;PiS;Jaki Patryk Tomasz;8911;2.79;13.56;T;M
+21;9;PiS;Zakrzewska Agnieszka;1325;0.41;2.02;N;K
+21;10;PiS;Smagoń Janusz Marek;1390;0.43;2.11;N;M
+21;11;PiS;Pokorska-Młodzińska Olga;1064;0.33;1.62;N;K
+21;12;PiS;Wrębiak Jerzy Piotr;1813;0.57;2.76;N;M
+21;13;PiS;Czochara Katarzyna Beata;1292;0.40;1.97;N;K
+21;14;PiS;Bortnik Wacław;674;0.21;1.03;N;M
+21;15;PiS;Zug Henryk Józef;435;0.14;0.66;N;M
+21;16;PiS;Gibas Teresa Jadwiga;558;0.17;0.85;N;K
+21;17;PiS;Hubicki Grzegorz Józef;268;0.08;0.41;N;M
+21;18;PiS;Wróbel Teresa;1374;0.43;2.09;N;K
+21;19;PiS;Osijewska Zofia Cecylia;378;0.12;0.58;N;K
+21;20;PiS;Morawski Bartłomiej Tomasz;620;0.19;0.94;N;M
+21;21;PiS;Kubis Katarzyna;1304;0.41;1.98;N;K
+21;22;PiS;Hajduga Jerzy Marek;430;0.13;0.65;N;M
+21;23;PiS;Dziaduś Przemysław Piotr;2797;0.87;4.25;N;M
+21;24;PiS;Naszkiewicz Jerzy Kazimierz;1306;0.41;1.99;N;M
+21;1;SLD;Garbowski Tomasz Robert;6828;2.14;27.62;T;M
+21;2;SLD;Mazur Andrzej Michał;2731;0.85;11.05;N;M
+21;3;SLD;Klepacz Apolonia Weronika;2642;0.83;10.69;N;K
+21;4;SLD;Nowak Kryspin;1203;0.38;4.87;N;M
+21;5;SLD;Rutkowska Elżbieta Jadwiga;1243;0.39;5.03;N;K
+21;6;SLD;Woźniak Piotr Jan;2103;0.66;8.51;N;M
+21;7;SLD;Rurynkiewicz Ewa;549;0.17;2.22;N;K
+21;8;SLD;Bilik Lucjusz Wiktor;562;0.18;2.27;N;M
+21;9;SLD;Wilk Krystyna Czesława;564;0.18;2.28;N;K
+21;10;SLD;Bażyński Jan Hilary;323;0.10;1.31;N;M
+21;11;SLD;Pawliszyn Danuta;424;0.13;1.72;N;K
+21;12;SLD;Bukowiński Józef Stanisław;418;0.13;1.69;N;M
+21;13;SLD;Janik Janina;1170;0.37;4.73;N;K
+21;14;SLD;Gradzik Sławomir Piotr;394;0.12;1.59;N;M
+21;15;SLD;Capała-Pietrzak Lidia Kazimiera;106;0.03;0.43;N;K
+21;16;SLD;Sokołowski Roman;322;0.10;1.30;N;M
+21;17;SLD;Mełech Małgorzata;135;0.04;0.55;N;K
+21;18;SLD;Pawlicki Jacek Maciej;491;0.15;1.99;N;M
+21;19;SLD;Dąbrowska Renata Dorota;319;0.10;1.29;N;K
+21;20;SLD;Martyna Zdzisław;317;0.10;1.28;N;M
+21;21;SLD;Saczko-Bomba Barbara Urszula;292;0.09;1.18;N;K
+21;22;SLD;Wyczałkowski Bogdan Andrzej;406;0.13;1.64;N;M
+21;23;SLD;Śliwak Magda Maria;348;0.11;1.41;N;K
+21;24;SLD;Mankiewicz Grzegorz Bogdan;833;0.26;3.37;N;M
+21;1;PSL;Rakoczy Stanisław;4787;1.50;25.44;N;M
+21;2;PSL;Karol Teresa Maria;1431;0.45;7.61;N;K
+21;3;PSL;Kuchczyński Krzysztof Andrzej;1400;0.44;7.44;N;M
+21;4;PSL;Konopka Antoni Jacek;1401;0.44;7.45;N;M
+21;5;PSL;Jażdż-Zaleska Renata Maria;934;0.29;4.96;N;K
+21;6;PSL;Polak Antoni Józef;1002;0.31;5.33;N;M
+21;7;PSL;Sawicki Grzegorz Adam;596;0.19;3.17;N;M
+21;8;PSL;Butra Andrzej Zbigniew;639;0.20;3.40;N;M
+21;9;PSL;Pulit Andrzej;1411;0.44;7.50;N;M
+21;10;PSL;Pyziak Kazimierz;504;0.16;2.68;N;M
+21;11;PSL;Krzesiński Jan;341;0.11;1.81;N;M
+21;12;PSL;Zając Barbara;718;0.22;3.82;N;K
+21;13;PSL;Jastrzembski Antoni Piotr;581;0.18;3.09;N;M
+21;14;PSL;Prorok Genowefa Katarzyna;165;0.05;0.88;N;K
+21;15;PSL;Baran Alina Maria;293;0.09;1.56;N;K
+21;16;PSL;Kik-Szewczyk Izabela Maria;200;0.06;1.06;N;K
+21;17;PSL;Koncewicz Dorota;386;0.12;2.05;N;K
+21;18;PSL;Salamon Jan Zbigniew;431;0.13;2.29;N;M
+21;19;PSL;Martwicka Krystyna Katarzyna;114;0.04;0.61;N;K
+21;20;PSL;Szachowicz Mariola Magdalena;132;0.04;0.70;N;K
+21;21;PSL;Hankus Mirosław;277;0.09;1.47;N;M
+21;22;PSL;Kukuczka Piotr Paweł;168;0.05;0.89;N;M
+21;23;PSL;Grüner Ryszard;414;0.13;2.20;N;M
+21;24;PSL;Kowalczyk Jarosław Paweł;491;0.15;2.61;N;M
+21;1;PO;Korzeniowski Leszek Sylwester;30454;9.53;21.65;T;M
+21;2;PO;Okrągły Janina Władysława;11418;3.57;8.12;T;K
+21;3;PO;Jarmuziewicz Tadeusz;14022;4.39;9.97;T;M
+21;4;PO;Buła Andrzej;9167;2.87;6.52;T;M
+21;5;PO;Płoszaj Leonarda;5184;1.62;3.69;N;K
+21;6;PO;Kolenda-Łabuś Brygida;10411;3.26;7.40;T;K
+21;7;PO;Krupa Adam;8323;2.60;5.92;N;M
+21;8;PO;Miller Rajmund Tadeusz;8901;2.78;6.33;T;M
+21;9;PO;Gwozdecki Krzysztof;2119;0.66;1.51;N;M
+21;10;PO;Tusk Łukasz Maciej;8620;2.70;6.13;N;M
+21;11;PO;Sonik Maciej Ryszard;3056;0.96;2.17;N;M
+21;12;PO;Bytomski Ireneusz Lesław;1385;0.43;0.98;N;M
+21;13;PO;Kwiatkowska Ewa Barbara;3110;0.97;2.21;N;K
+21;14;PO;Czaja-Kozioł Janina Elżbieta;1180;0.37;0.84;N;K
+21;15;PO;Sidor Krystyna;2040;0.64;1.45;N;K
+21;16;PO;Rudy Dragomir Antoni;1051;0.33;0.75;N;M
+21;17;PO;Stachowski Mariusz Kazimierz;2232;0.70;1.59;N;M
+21;18;PO;Kawecka Jolanta;3882;1.21;2.76;N;K
+21;19;PO;Smagała Dariusz Janusz;1170;0.37;0.83;N;M
+21;20;PO;Matyjaszek Magdalena Maria;1766;0.55;1.26;N;K
+21;21;PO;Wojczyszyn Janusz Paweł;2154;0.67;1.53;N;M
+21;22;PO;Kimak Barbara;1098;0.34;0.78;N;K
+21;23;PO;Bień Elżbieta Maria;3743;1.17;2.66;N;K
+21;24;PO;Kopeć Andrzej Robert;4155;1.30;2.95;N;M
+22;1;PiS;Kuchciński Marek Tadeusz;23128;7.76;17.35;T;M
+22;2;PiS;Paruch Waldemar;1019;0.34;0.76;N;M
+22;3;PiS;Babinetz Piotr Mieczysław;7239;2.43;5.43;T;M
+22;4;PiS;Piotrowicz Stanisław;12325;4.14;9.24;T;M
+22;5;PiS;Schmidt Anna Katarzyna;4037;1.35;3.03;N;K
+22;6;PiS;Sudoł Ewa Grażyna;2508;0.84;1.88;N;K
+22;7;PiS;Ziobro Kazimierz Bronisław;8234;2.76;6.18;T;M
+22;8;PiS;Rzońca Bogdan Józef;15623;5.24;11.72;T;M
+22;9;PiS;Chilik Dorota;3650;1.22;2.74;N;K
+22;10;PiS;Ćwierz Andrzej Bogusław;5799;1.95;4.35;N;M
+22;11;PiS;Bajda Stanisław;3808;1.28;2.86;N;M
+22;12;PiS;Kurowska Maria Stanisława;6978;2.34;5.23;N;K
+22;13;PiS;Śnieżek Adam Walenty;6869;2.30;5.15;N;M
+22;14;PiS;Golba Mieczysław Józef;12332;4.14;9.25;T;M
+22;15;PiS;Bury Jan;5911;1.98;4.43;N;M
+22;16;PiS;Nabywaniec Tadeusz;3186;1.07;2.39;N;M
+22;17;PiS;Misiołek Marta;1155;0.39;0.87;N;K
+22;18;PiS;Kołcz Beata;816;0.27;0.61;N;K
+22;19;PiS;Krawiec Daniel Stanisław;3615;1.21;2.71;N;M
+22;20;PiS;Ekiert Aleksandra;520;0.17;0.39;N;K
+22;21;PiS;Krajewska Barbara Jadwiga;1599;0.54;1.20;N;K
+22;22;PiS;Gmyrek Zygmunt Adam;2969;1.00;2.23;N;M
+22;1;SLD;Domaradzki Wojciech Grzegorz;5899;1.98;32.05;N;M
+22;2;SLD;Sokołowska Anna Katarzyna;2194;0.74;11.92;N;K
+22;3;SLD;Przetacznik Janusz Bronisław;2367;0.79;12.86;N;M
+22;4;SLD;Rowiński Waldemar;881;0.30;4.79;N;M
+22;5;SLD;Oklejewicz Jan Leon;1556;0.52;8.45;N;M
+22;6;SLD;Szałajko Stanisław Michał;633;0.21;3.44;N;M
+22;7;SLD;Zając Jerzy Andrzej;1004;0.34;5.45;N;M
+22;8;SLD;Jachym Małgorzata;282;0.09;1.53;N;K
+22;9;SLD;Janiczek Zbigniew Janusz;123;0.04;0.67;N;M
+22;10;SLD;Kubrak Ewa;361;0.12;1.96;N;K
+22;11;SLD;Małachowska Magdalena Anna;414;0.14;2.25;N;K
+22;12;SLD;Posadzki Wacław Marian;272;0.09;1.48;N;M
+22;13;SLD;Ostafijczuk Roman Tadeusz;219;0.07;1.19;N;M
+22;14;SLD;Śliwiak Bożena Bogumiła;151;0.05;0.82;N;K
+22;15;SLD;Puka Regina;141;0.05;0.77;N;K
+22;16;SLD;Gilowski Stanisław Jan;235;0.08;1.28;N;M
+22;17;SLD;Piskorek Beata Ewa;155;0.05;0.84;N;K
+22;18;SLD;Korzeniowski Jacek;380;0.13;2.06;N;M
+22;19;SLD;Zegartowska Krystyna Janina;136;0.05;0.74;N;K
+22;20;SLD;Gomułka Wojciech Jan;284;0.10;1.54;N;M
+22;21;SLD;Kosiorowski Piotr Paweł;444;0.15;2.41;N;M
+22;22;SLD;Firak Witold Edwin;276;0.09;1.50;N;M
+22;1;PSL;Kasprzak Mieczysław;6854;2.30;18.18;T;M
+22;2;PSL;Pers Grzegorz Stanisław;4867;1.63;12.91;N;M
+22;3;PSL;Wosik Alicja Barbara;3332;1.12;8.84;N;K
+22;4;PSL;Kiszka Zbigniew Wojciech;3581;1.20;9.50;N;M
+22;5;PSL;Jankiewicz Barbara Ewa;874;0.29;2.32;N;K
+22;6;PSL;Zadworny Zdzisław;4120;1.38;10.93;N;M
+22;7;PSL;Owsiany Marek;2167;0.73;5.75;N;M
+22;8;PSL;Pączek Jan Antoni;2000;0.67;5.30;N;M
+22;9;PSL;Michalik Anna;588;0.20;1.56;N;K
+22;10;PSL;Pankiewicz Stanisław Leon;1492;0.50;3.96;N;M
+22;11;PSL;Komornicki Piotr;596;0.20;1.58;N;M
+22;12;PSL;Bukowczyk Joanna Alina;442;0.15;1.17;N;K
+22;13;PSL;Biedroń Albina;532;0.18;1.41;N;K
+22;14;PSL;Wanielista Dariusz Michał;1307;0.44;3.47;N;M
+22;15;PSL;Grzegorczyk Wanda Danuta;159;0.05;0.42;N;K
+22;16;PSL;Pelczar Władysław;928;0.31;2.46;N;M
+22;17;PSL;Kroker Tadeusz Józef;88;0.03;0.23;N;M
+22;18;PSL;Romowicz Bartosz;257;0.09;0.68;N;M
+22;19;PSL;Możdżeń Zbigniew Józef;91;0.03;0.24;N;M
+22;20;PSL;Chorążak-Tabisz Marta Małgorzata;269;0.09;0.71;N;K
+22;21;PSL;Zając Alicja Zofia;2280;0.77;6.05;N;K
+22;22;PSL;Salacha Małgorzata;878;0.29;2.33;N;K
+22;1;PO;Chomycz Małgorzata Maria;16829;5.65;22.32;T;K
+22;2;PO;Kulesza Tomasz Jerzy;6976;2.34;9.25;N;M
+22;3;PO;Rząsa Marek Zdzisław;9204;3.09;12.21;T;M
+22;4;PO;Tomański Piotr;9621;3.23;12.76;T;M
+22;5;PO;Szczepańska Renata Marta;3896;1.31;5.17;N;K
+22;6;PO;Borcz Jerzy;5782;1.94;7.67;N;M
+22;7;PO;Miklicz Sławomir;4276;1.43;5.67;N;M
+22;8;PO;Kmiecik Adam Jan;3562;1.20;4.72;N;M
+22;9;PO;Augustynowicz-Sobota Renata Ewa;547;0.18;0.73;N;K
+22;10;PO;Sułuja Henryk Ignacy;2252;0.76;2.99;N;M
+22;11;PO;Lipińska Ewa Jadwiga;1368;0.46;1.81;N;K
+22;12;PO;Opoń Arkadiusz Paweł;1252;0.42;1.66;N;M
+22;13;PO;Szpyt Krzysztof Antoni;808;0.27;1.07;N;M
+22;14;PO;Rzońca Sebastian Krzysztof;933;0.31;1.24;N;M
+22;15;PO;Zając Andrzej Stanisław;1168;0.39;1.55;N;M
+22;16;PO;Harasimowicz-Gąska Katarzyna Anna;561;0.19;0.74;N;K
+22;17;PO;Piwowar Daniel Łukasz;506;0.17;0.67;N;M
+22;18;PO;Konieczna Dorota;880;0.30;1.17;N;K
+22;19;PO;Siwak Monika;358;0.12;0.47;N;K
+22;20;PO;Piątkowska Agnieszka Anna;568;0.19;0.75;N;K
+22;21;PO;Łącka Barbara Katarzyna;765;0.26;1.01;N;K
+22;22;PO;Kłak Krzysztof Józef;3291;1.10;4.36;N;M
+23;1;PiS;Hrynkiewicz Józefa;17039;3.73;7.76;T;K
+23;2;PiS;Ożóg Stanisław;37160;8.13;16.92;T;M
+23;3;PiS;Moskal Kazimierz Marian;14234;3.11;6.48;T;M
+23;4;PiS;Szlachta Andrzej;13717;3.00;6.25;T;M
+23;5;PiS;Pupa Zdzisław Stanisław;10968;2.40;4.99;N;M
+23;6;PiS;Wróblewska Krystyna Małgorzata;7402;1.62;3.37;N;K
+23;7;PiS;Popiołek Krzysztof Andrzej;12755;2.79;5.81;T;M
+23;8;PiS;Błądek Antoni;9631;2.11;4.39;N;M
+23;9;PiS;Gołojuch Kazimierz Edward;12311;2.69;5.61;T;M
+23;10;PiS;Chmielowiec Zbigniew Michał;16038;3.51;7.30;T;M
+23;11;PiS;Draus Ewa Maria;4296;0.94;1.96;N;K
+23;12;PiS;Warzecha Jan Marek;12588;2.75;5.73;T;M
+23;13;PiS;Pakuła-Sacharczuk Anna Zofia;1127;0.25;0.51;N;K
+23;14;PiS;Tołpa Mieczysław;5471;1.20;2.49;N;M
+23;15;PiS;Rudnicki Roland Antoni;4212;0.92;1.92;N;M
+23;16;PiS;Napieracz Maria;3725;0.81;1.70;N;K
+23;17;PiS;Sarna Zdzisław Władysław;2558;0.56;1.16;N;M
+23;18;PiS;Kazana Renata Ewa;2249;0.49;1.02;N;K
+23;19;PiS;Błądek Lidia;5401;1.18;2.46;N;K
+23;20;PiS;Łabęcka Alicja Maria;1128;0.25;0.51;N;K
+23;21;PiS;Falandys Jan;2009;0.44;0.91;N;M
+23;22;PiS;Rojek-Kałek Monika Ewa;677;0.15;0.31;N;K
+23;23;PiS;Fudali Dariusz Jacek;907;0.20;0.41;N;M
+23;24;PiS;Samołyk Genowefa;1048;0.23;0.48;N;K
+23;25;PiS;Sulich Edward Józef;641;0.14;0.29;N;M
+23;26;PiS;Sroka Józef;2752;0.60;1.25;N;M
+23;27;PiS;Rupar Joanna;885;0.19;0.40;N;K
+23;28;PiS;Wolicki Paweł Grzegorz;2426;0.53;1.10;N;M
+23;29;PiS;Kotula Jacek Adam;6401;1.40;2.91;N;M
+23;30;PiS;Cypryś Jerzy;7873;1.72;3.58;N;M
+23;1;SLD;Kamiński Tomasz Artur;8410;1.84;32.79;T;M
+23;2;SLD;Grobel-Proszowska Joanna Irena;2197;0.48;8.57;N;K
+23;3;SLD;Niewczas Marta Agata;3510;0.77;13.68;N;K
+23;4;SLD;Smaczny Józef;1897;0.41;7.40;N;M
+23;5;SLD;Ozimek Julian;1407;0.31;5.49;N;M
+23;6;SLD;Skawiński Stanisław Andrzej;899;0.20;3.51;N;M
+23;7;SLD;Kuraś Przemysław Piotr;410;0.09;1.60;N;M
+23;8;SLD;Wołoszyński Leszek;225;0.05;0.88;N;M
+23;9;SLD;Trawka Wiesława;331;0.07;1.29;N;K
+23;10;SLD;Tofilski Andrzej Antoni;591;0.13;2.30;N;M
+23;11;SLD;Czaja Halina;320;0.07;1.25;N;K
+23;12;SLD;Czajka Anna Magdalena;196;0.04;0.76;N;K
+23;13;SLD;Biesiadecki Jerzy Jan;374;0.08;1.46;N;M
+23;14;SLD;Skrzypek Greta Małgorzata;194;0.04;0.76;N;K
+23;15;SLD;Homa Adam Grzegorz;242;0.05;0.94;N;M
+23;16;SLD;Walas Zbigniew Stanisław;181;0.04;0.71;N;M
+23;17;SLD;Sasiela-Błażejczak Halina Małgorzata;147;0.03;0.57;N;K
+23;18;SLD;Łączny Ryszard;124;0.03;0.48;N;M
+23;19;SLD;Litwicka-Chmura Lucyna Barbara;294;0.06;1.15;N;K
+23;20;SLD;Zdzymira Agnieszka Barbara;96;0.02;0.37;N;K
+23;21;SLD;Dzierżak Antoni;214;0.05;0.83;N;M
+23;22;SLD;Dabwan Abdul Raqeeb;343;0.08;1.34;N;M
+23;23;SLD;Kopacz Andrzej Janusz;288;0.06;1.12;N;M
+23;24;SLD;Inglot Anna Ewelina;229;0.05;0.89;N;K
+23;25;SLD;Stopa Kazimiera;202;0.04;0.79;N;K
+23;26;SLD;Gola Zbigniew Andrzej;994;0.22;3.88;N;M
+23;27;SLD;Radziewicz Małgorzata Alina;199;0.04;0.78;N;K
+23;28;SLD;Wojnowska Małgorzata Anna;344;0.08;1.34;N;K
+23;29;SLD;Herba Krystian Tomasz;377;0.08;1.47;N;M
+23;30;SLD;Tuderek Grzegorz Konstanty;414;0.09;1.61;N;M
+23;1;PSL;Bury Jan;15649;3.42;32.72;T;M
+23;2;PSL;Rygiel Wiesław Andrzej;5874;1.28;12.28;N;M
+23;3;PSL;Reguła Andrzej Zygmunt;4407;0.96;9.21;N;M
+23;4;PSL;Kluz-Zawadzka Jolanta Małgorzata;1174;0.26;2.45;N;K
+23;5;PSL;Chrabąszcz Andrzej;4064;0.89;8.50;N;M
+23;6;PSL;Zaborowski Franciszek;973;0.21;2.03;N;M
+23;7;PSL;Słupek Edward Józef;1686;0.37;3.52;N;M
+23;8;PSL;Skiba Agata Magdalena;652;0.14;1.36;N;K
+23;9;PSL;Opaliński Marek;728;0.16;1.52;N;M
+23;10;PSL;Gnatek Robert Andrzej;836;0.18;1.75;N;M
+23;11;PSL;Hermaniuk Jan Leszek;290;0.06;0.61;N;M
+23;12;PSL;Nawrocki Janusz Andrzej;1516;0.33;3.17;N;M
+23;13;PSL;Gołębiowska Ewa Marianna;1752;0.38;3.66;N;K
+23;14;PSL;Misiewska Beata Teresa;256;0.06;0.54;N;K
+23;15;PSL;Nabrzeski Sebastian;705;0.15;1.47;N;M
+23;16;PSL;Wróbel Elżbieta Stanisława;1033;0.23;2.16;N;K
+23;17;PSL;Gaweł Renata Józefa;340;0.07;0.71;N;K
+23;18;PSL;Kramarz Tadeusz Kazimierz;586;0.13;1.23;N;M
+23;19;PSL;Bator Jerzy Stanisław;755;0.17;1.58;N;M
+23;20;PSL;Leja Małgorzata;429;0.09;0.90;N;K
+23;21;PSL;Mączka Maria;533;0.12;1.11;N;K
+23;22;PSL;Jołda Teresa Halina;227;0.05;0.47;N;K
+23;23;PSL;Jemioło Maciej Krzysztof;410;0.09;0.86;N;M
+23;24;PSL;Rękas Sławomir Józef;139;0.03;0.29;N;M
+23;25;PSL;Balawejder Maria Teresa;210;0.05;0.44;N;K
+23;26;PSL;Janda Marek Jacek;473;0.10;0.99;N;M
+23;27;PSL;Ligas Tadeusz;470;0.10;0.98;N;M
+23;28;PSL;Sokołowska Justyna Mirosława;200;0.04;0.42;N;K
+23;29;PSL;Piecuch Agnieszka;245;0.05;0.51;N;K
+23;30;PSL;Gospodarczyk Tadeusz Marian;1220;0.27;2.55;N;M
+23;1;PO;Rynasiewicz Zbigniew Franciszek;27510;6.02;24.59;T;M
+23;2;PO;Skowrońska Krystyna;25174;5.50;22.50;T;K
+23;3;PO;Butryn Renata Celina;8941;1.96;7.99;T;K
+23;4;PO;Poręba Marek Zbigniew;4271;0.93;3.82;N;M
+23;5;PO;Pluta Mirosław Stanisław;12812;2.80;11.45;T;M
+23;6;PO;Stępień Danuta Waleria;2963;0.65;2.65;N;K
+23;7;PO;Ożóg Krzysztof;3109;0.68;2.78;N;M
+23;8;PO;Nowak Marcin Mieczysław;2647;0.58;2.37;N;M
+23;9;PO;Gwizdak Stanisław Jan;1260;0.28;1.13;N;M
+23;10;PO;Czwal Sławomir Mariusz;1669;0.36;1.49;N;M
+23;11;PO;Cynkar Sławomir Tadeusz;1976;0.43;1.77;N;M
+23;12;PO;Deręgowski Marcin;965;0.21;0.86;N;M
+23;13;PO;Miąso Krzysztof Piotr;1002;0.22;0.90;N;M
+23;14;PO;Gdula Krystyna;696;0.15;0.62;N;K
+23;15;PO;Żurek Agnieszka;1772;0.39;1.58;N;K
+23;16;PO;Barnaś Mariusz Andrzej;455;0.10;0.41;N;M
+23;17;PO;Adamus Stanisław Dariusz;192;0.04;0.17;N;M
+23;18;PO;Kropornicki Janusz;698;0.15;0.62;N;M
+23;19;PO;Czekierda-Stamenkovic Jolanta Lucyna;340;0.07;0.30;N;K
+23;20;PO;Ziarnik Jan;913;0.20;0.82;N;M
+23;21;PO;Fila Robert;1853;0.41;1.66;N;M
+23;22;PO;Błotko Violetta Maria;448;0.10;0.40;N;K
+23;23;PO;Szewczyk Mariusz Krzysztof;3251;0.71;2.91;N;M
+23;24;PO;Buczko Marzena Maria;258;0.06;0.23;N;K
+23;25;PO;Kawik Józef Jan;212;0.05;0.19;N;M
+23;26;PO;Nowicka Halina Zofia;849;0.19;0.76;N;K
+23;27;PO;Łęgowiecka-Bajda Maria Zuzanna;303;0.07;0.27;N;K
+23;28;PO;Kardyś Paweł Andrzej;1071;0.23;0.96;N;M
+23;29;PO;Karkut Michał;611;0.13;0.55;N;M
+23;30;PO;Kubas-Hul Teresa Krystyna;3650;0.80;3.26;N;K
+24;1;PiS;Jurgiel Krzysztof;35763;8.34;22.55;T;M
+24;2;PiS;Zieliński Jarosław;21015;4.90;13.25;T;M
+24;3;PiS;Piontkowski Dariusz;14439;3.37;9.11;T;M
+24;4;PiS;Kamiński Mariusz;22675;5.29;14.30;T;M
+24;5;PiS;Bogucki Jacek;10927;2.55;6.89;T;M
+24;6;PiS;Chmiel Patrycja Maria;6553;1.53;4.13;N;K
+24;7;PiS;Kołakowski Lech Antoni;13502;3.15;8.51;T;M
+24;8;PiS;Gwiazdowski Kazimierz;6275;1.46;3.96;N;M
+24;9;PiS;Czepe Roman;1841;0.43;1.16;N;M
+24;10;PiS;Jaworowski Krzysztof;3627;0.85;2.29;N;M
+24;11;PiS;Żeszko Maria;578;0.13;0.36;N;K
+24;12;PiS;Bobel Marek;1215;0.28;0.77;N;M
+24;13;PiS;Bieniusiewicz Jadwiga;538;0.13;0.34;N;K
+24;14;PiS;Dembowski Zbigniew;532;0.12;0.34;N;M
+24;15;PiS;Kucharewicz Grzegorz;1330;0.31;0.84;N;M
+24;16;PiS;Fidrych Lucyna;562;0.13;0.35;N;K
+24;17;PiS;Rykaczewski Stanisław;2293;0.53;1.45;N;M
+24;18;PiS;Łoskot-Cywińska Maria Małgorzata;297;0.07;0.19;N;K
+24;19;PiS;Kleczkowski Marcin;1270;0.30;0.80;N;M
+24;20;PiS;Nienałtowska Bożena;732;0.17;0.46;N;K
+24;21;PiS;Jaroszewicz-Łojewska Mirosława Anna;618;0.14;0.39;N;K
+24;22;PiS;Boguska Krystyna;780;0.18;0.49;N;K
+24;23;PiS;Jabłoński Antoni;467;0.11;0.29;N;M
+24;24;PiS;Skórski Grzegorz;652;0.15;0.41;N;M
+24;25;PiS;Gromadzka Lucyna;1159;0.27;0.73;N;K
+24;26;PiS;Siwek Rafał Franciszek;2691;0.63;1.70;N;M
+24;27;PiS;Laprus Elżbieta;537;0.13;0.34;N;K
+24;28;PiS;Tołwiński Krzysztof;5704;1.33;3.60;N;M
+24;1;SLD;Matwiejuk Jarosław;13711;3.20;33.77;N;M
+24;2;SLD;Czykwin Eugeniusz;14286;3.33;35.18;T;M
+24;3;SLD;Bil-Jaruzelska Małgorzata Anna;3041;0.71;7.49;N;K
+24;4;SLD;Kimera Józef Dariusz;1148;0.27;2.83;N;M
+24;5;SLD;Nazaruk-Zdanuczyk Agnieszka;733;0.17;1.81;N;K
+24;6;SLD;Karpowicz Michał;1144;0.27;2.82;N;M
+24;7;SLD;Krokos Agnieszka;411;0.10;1.01;N;K
+24;8;SLD;Łoboda Mirosław Henryk;365;0.09;0.90;N;M
+24;9;SLD;Zaręba Eliza;496;0.12;1.22;N;K
+24;10;SLD;Topczyłko Bożena;400;0.09;0.99;N;K
+24;11;SLD;Mikucki Leszek;190;0.04;0.47;N;M
+24;12;SLD;Madej Henryk;93;0.02;0.23;N;M
+24;13;SLD;Sienkiewicz Maria;392;0.09;0.97;N;K
+24;14;SLD;Andruszkiewicz Grzegorz;215;0.05;0.53;N;M
+24;15;SLD;Netter Jan;636;0.15;1.57;N;M
+24;16;SLD;Monach Anna;352;0.08;0.87;N;K
+24;17;SLD;Litwińczuk Bolesław;105;0.02;0.26;N;M
+24;18;SLD;Dembowski Wiesław;205;0.05;0.50;N;M
+24;19;SLD;Wajsiel Piotr Stanisław;103;0.02;0.25;N;M
+24;20;SLD;Wojciuk Małgorzata;246;0.06;0.61;N;K
+24;21;SLD;Kołos Aleutyna;573;0.13;1.41;N;K
+24;22;SLD;Konopelko-Śliżewska Ewa;230;0.05;0.57;N;K
+24;23;SLD;Janicki Dariusz Jerzy;290;0.07;0.71;N;M
+24;24;SLD;Jakubiuk Mirosław;181;0.04;0.45;N;M
+24;25;SLD;Banasiak Anastazja Michalina;159;0.04;0.39;N;K
+24;26;SLD;Jurkin Marian;281;0.07;0.69;N;M
+24;27;SLD;Puchalski Aleksander;617;0.14;1.52;N;M
+24;1;PSL;Kamiński Jan;6195;1.44;13.09;N;M
+24;2;PSL;Baszko Mieczysław Kazimierz;6827;1.59;14.42;N;M
+24;3;PSL;Borawski Edmund;11759;2.74;24.84;T;M
+24;4;PSL;Purta-Wróbel Janina;936;0.22;1.98;N;K
+24;5;PSL;Lewko-Ninkiewicz Dorota Stanisława;694;0.16;1.47;N;K
+24;6;PSL;Dzierzgowski Wojciech;3071;0.72;6.49;N;M
+24;7;PSL;Leszczyński Jerzy;2743;0.64;5.79;N;M
+24;8;PSL;Zalewski Krzysztof;945;0.22;2.00;N;M
+24;9;PSL;Dyjuk Bogdan;1127;0.26;2.38;N;M
+24;10;PSL;Korycki Walenty;2254;0.53;4.76;N;M
+24;11;PSL;Zalewski Jan;1341;0.31;2.83;N;M
+24;12;PSL;Jurkiewicz Arkadiusz;174;0.04;0.37;N;M
+24;13;PSL;Kaczanowska Joanna;358;0.08;0.76;N;K
+24;14;PSL;Kulbacka Anna;387;0.09;0.82;N;K
+24;15;PSL;Magnuszewski Marian;1092;0.25;2.31;N;M
+24;16;PSL;Wykowski Adam;407;0.09;0.86;N;M
+24;17;PSL;Sokołowski Franciszek;520;0.12;1.10;N;M
+24;18;PSL;Łapiński Jacek;859;0.20;1.81;N;M
+24;19;PSL;Truszkowska Barbara;327;0.08;0.69;N;K
+24;20;PSL;Kamińska Teresa;573;0.13;1.21;N;K
+24;21;PSL;Bielawska Barbara;499;0.12;1.05;N;K
+24;22;PSL;Hołowienko Dorota;219;0.05;0.46;N;K
+24;23;PSL;Pogorzelski Paweł;390;0.09;0.82;N;M
+24;24;PSL;Jankowska Krystyna;349;0.08;0.74;N;K
+24;25;PSL;Grześ Anna;449;0.10;0.95;N;K
+24;26;PSL;Łabieniec Wojciech;866;0.20;1.83;N;M
+24;27;PSL;Łukasik Anetta Anna;255;0.06;0.54;N;K
+24;28;PSL;Krajewski Stefan;1722;0.40;3.64;N;M
+24;1;PO;Kudrycka Barbara;41047;9.57;32.26;T;K
+24;2;PO;Raczkowski Damian;10271;2.40;8.07;T;M
+24;3;PO;Tyszkiewicz Robert;10465;2.44;8.23;T;M
+24;4;PO;Kamińska Bożena;10019;2.34;7.88;T;K
+24;5;PO;Borysewicz Maciej Andrzej;5785;1.35;4.55;N;M
+24;6;PO;Klim Józef Piotr;4992;1.16;3.92;N;M
+24;7;PO;Cieślik Leszek Stanisław;5378;1.25;4.23;N;M
+24;8;PO;Piotrowska Hanna Karolina;1356;0.32;1.07;N;K
+24;9;PO;Sosna Aleksander;7645;1.78;6.01;N;M
+24;10;PO;Sapińska Daria Krystyna;3188;0.74;2.51;N;K
+24;11;PO;Nazarko Marek;2636;0.61;2.07;N;M
+24;12;PO;Baszkiewicz Emilia;309;0.07;0.24;N;K
+24;13;PO;Suszczyńska Monika;2612;0.61;2.05;N;K
+24;14;PO;Grajek Zbysław Wojciech;908;0.21;0.71;N;M
+24;15;PO;Śledziewska Edyta;651;0.15;0.51;N;K
+24;16;PO;Pyzowski Mariusz Paweł;745;0.17;0.59;N;M
+24;17;PO;Jabłońska Bożena;613;0.14;0.48;N;K
+24;18;PO;Dragun Nadzieja Marzena;224;0.05;0.18;N;K
+24;19;PO;Szewko Ilona Kinga;2416;0.56;1.90;N;K
+24;20;PO;Nester Ksenia;325;0.08;0.26;N;K
+24;21;PO;Putko Aneta;724;0.17;0.57;N;K
+24;22;PO;Gliński Mieczysław Leszek;1753;0.41;1.38;N;M
+24;23;PO;Pietruczuk Izabela;770;0.18;0.61;N;K
+24;24;PO;Siewiereniuk-Maciorowska Agnieszka;203;0.05;0.16;N;K
+24;25;PO;Mielko Cezary Jan;246;0.06;0.19;N;M
+24;26;PO;Tymińska Ewa Bożenna;590;0.14;0.46;N;K
+24;27;PO;Żalek Jacek;8103;1.89;6.37;T;M
+24;28;PO;Pilecki Karol;3250;0.76;2.55;N;M
+25;1;PiS;Fotyga Anna Elżbieta;24662;5.94;24.15;T;K
+25;2;PiS;Łopiński Maciej Jan;15794;3.80;15.46;T;M
+25;3;PiS;Jaworski Andrzej;22770;5.48;22.29;T;M
+25;4;PiS;Jankowska Aleksandra Helena;3398;0.82;3.33;N;K
+25;5;PiS;Smoliński Kazimierz;6881;1.66;6.74;N;M
+25;6;PiS;Chrapkiewicz Daniela Jadwiga;3956;0.95;3.87;N;K
+25;7;PiS;Liss Andrzej Marcelin;1518;0.37;1.49;N;M
+25;8;PiS;Gwiazda Anna Teresa;5738;1.38;5.62;N;K
+25;9;PiS;Guzikiewicz Karol Roman;2419;0.58;2.37;N;M
+25;10;PiS;Kołakowska Anna Maria;2063;0.50;2.02;N;K
+25;11;PiS;Steckiewicz Krzysztof;1258;0.30;1.23;N;M
+25;12;PiS;Kałużny Andrzej;591;0.14;0.58;N;M
+25;13;PiS;Strociak Marek Roman;1388;0.33;1.36;N;M
+25;14;PiS;Kilian Jan;1976;0.48;1.93;N;M
+25;15;PiS;Drelich Dariusz;666;0.16;0.65;N;M
+25;16;PiS;Grajoszek Zbigniew Mariusz;948;0.23;0.93;N;M
+25;17;PiS;Posmyk Joanna Grażyna;342;0.08;0.33;N;K
+25;18;PiS;Obiedzińska Sylwia Iwona;465;0.11;0.46;N;K
+25;19;PiS;Tuz Ewa Maria;996;0.24;0.98;N;K
+25;20;PiS;Dudek Dorota;1524;0.37;1.49;N;K
+25;21;PiS;Żuk Andrzej;532;0.13;0.52;N;M
+25;22;PiS;Rzymski Zygmunt;587;0.14;0.57;N;M
+25;23;PiS;Demski Patryk Jerzy;1659;0.40;1.62;N;M
+25;1;SLD;Andruszkiewicz Krzysztof Włodzimierz;5314;1.28;20.80;N;M
+25;2;SLD;Maciejewska Beata Monika;2974;0.72;11.64;N;K
+25;3;SLD;Śnieg Jerzy Paweł;5254;1.27;20.57;N;M
+25;4;SLD;Potulski Franciszek Józef;4108;0.99;16.08;N;M
+25;5;SLD;Meyer Barbara Małgorzata;659;0.16;2.58;N;K
+25;6;SLD;Rutkowski Wiesław Jan;1207;0.29;4.73;N;M
+25;7;SLD;Wojnowska Maria;546;0.13;2.14;N;K
+25;8;SLD;Piłat Adam Sławomir;620;0.15;2.43;N;M
+25;9;SLD;Rusinowicz Tomasz Krzysztof;297;0.07;1.16;N;M
+25;10;SLD;Jabłońska-Mazurek Dorota Bernadeta;433;0.10;1.70;N;K
+25;11;SLD;Borejko Kordian Józef;250;0.06;0.98;N;M
+25;12;SLD;Bucior Piotr Stanisław;139;0.03;0.54;N;M
+25;13;SLD;Czernis Mirosław;300;0.07;1.17;N;M
+25;14;SLD;Jurczyk Jolanta Stanisława;305;0.07;1.19;N;K
+25;15;SLD;Prabucki Janusz Marcin;309;0.07;1.21;N;M
+25;16;SLD;Seyda Danuta Wanda;201;0.05;0.79;N;K
+25;17;SLD;Zagłoba Ryszard Andrzej;347;0.08;1.36;N;M
+25;18;SLD;Leśków Agnieszka Anna;133;0.03;0.52;N;K
+25;19;SLD;Mrozowicz Magdalena Marta;267;0.06;1.05;N;K
+25;20;SLD;Zawisza Marzena;547;0.13;2.14;N;K
+25;21;SLD;Gajdel Jan;112;0.03;0.44;N;M
+25;22;SLD;Lipiński Tomasz Mikołaj;236;0.06;0.92;N;M
+25;23;SLD;Landzianowski Marcin;153;0.04;0.60;N;M
+25;24;SLD;Wilińska Joanna;831;0.20;3.25;N;K
+25;1;PSL;Trawicki Krzysztof Gabriel;4376;1.05;22.66;N;M
+25;2;PSL;Odya Zenon Jerzy;3565;0.86;18.46;N;M
+25;3;PSL;Dombrowski Bogdan;1373;0.33;7.11;N;M
+25;4;PSL;Przybylski Wojciech Wiesław;321;0.08;1.66;N;M
+25;5;PSL;Mielewczyk Bożena Grażyna;806;0.19;4.17;N;K
+25;6;PSL;Serocka Anna;888;0.21;4.60;N;K
+25;7;PSL;Tomczyk Stanisław;459;0.11;2.38;N;M
+25;8;PSL;Butkiewicz Ludwik;285;0.07;1.48;N;M
+25;9;PSL;Herold-Wąs Lucyna Kinga;930;0.22;4.82;N;K
+25;10;PSL;Lis Tomasz Sebastian;451;0.11;2.34;N;M
+25;11;PSL;Borkowska Aneta Maria;309;0.07;1.60;N;K
+25;12;PSL;Kostecki Marek Stanisław;243;0.06;1.26;N;M
+25;13;PSL;Kosewska Danuta Jolanta;360;0.09;1.86;N;K
+25;14;PSL;Pawlina Jan;586;0.14;3.03;N;M
+25;15;PSL;Kłos Małgorzata Maria;276;0.07;1.43;N;K
+25;16;PSL;Pochroń-Frankowski Leszek Michał;319;0.08;1.65;N;M
+25;17;PSL;Sawicki Łukasz Marek;518;0.12;2.68;N;M
+25;18;PSL;Cymerys Wojciech;455;0.11;2.36;N;M
+25;19;PSL;Serocka-Chrzanowska Katarzyna Maria;415;0.10;2.15;N;K
+25;20;PSL;Studziński Tadeusz Józef;752;0.18;3.89;N;M
+25;21;PSL;Wieczorek Marta;584;0.14;3.02;N;K
+25;22;PSL;Wolanin Izabela;132;0.03;0.68;N;K
+25;23;PSL;Zdyb Edyta Izabela;234;0.06;1.21;N;K
+25;24;PSL;Daszkiewicz Maria Jolanta;676;0.16;3.50;N;K
+25;1;PO;Nowak Sławomir Ryszard;65629;15.80;29.95;T;M
+25;2;PO;Arabski Tomasz;7384;1.78;3.37;N;M
+25;3;PO;Hall Katarzyna;9898;2.38;4.52;T;K
+25;4;PO;Pomaska Agnieszka Dominika;16117;3.88;7.36;T;K
+25;5;PO;Kozdroń Jerzy;9913;2.39;4.52;T;M
+25;6;PO;Neumann Sławomir Arkadiusz;14346;3.45;6.55;T;M
+25;7;PO;Guzowska Iwona Kamila;22616;5.45;10.32;T;K
+25;8;PO;Borowczak Jerzy Stanisław;10504;2.53;4.79;T;M
+25;9;PO;Ołowski Piotr Paweł;7571;1.82;3.46;N;M
+25;10;PO;Orłowski Paweł;8891;2.14;4.06;N;M
+25;11;PO;Kulas Jan Edward;7072;1.70;3.23;N;M
+25;12;PO;Morzyńska Dobrawa;1177;0.28;0.54;N;K
+25;13;PO;Tyburska Iwona Joanna;1755;0.42;0.80;N;K
+25;14;PO;Mroczkowska Magdalena Justyna;1460;0.35;0.67;N;K
+25;15;PO;Koralewska Irena Danuta;617;0.15;0.28;N;K
+25;16;PO;Hamerska Patrycja Magdalena;961;0.23;0.44;N;K
+25;17;PO;Cichon Marian;3205;0.77;1.46;N;M
+25;18;PO;Pawłowska Dorota Ewa;1343;0.32;0.61;N;K
+25;19;PO;Kotlewska Joanna;798;0.19;0.36;N;K
+25;20;PO;Chmiel Małgorzata;6666;1.61;3.04;N;K
+25;21;PO;Kot Ewa Kamila;2623;0.63;1.20;N;K
+25;22;PO;Karczmarzyk Marek Aureliusz;1589;0.38;0.73;N;M
+25;23;PO;Pruś Sylwester Zbigniew;1940;0.47;0.89;N;M
+25;24;PO;Blanik Leszek Robert;15031;3.62;6.86;T;M
+26;1;PiS;Szczypińska Jolanta Irena;19819;4.37;17.44;T;K
+26;2;PiS;Śniadek Janusz Józef;26440;5.83;23.27;T;M
+26;3;PiS;Arciszewska-Mielewczyk Dorota Irvina;18088;3.99;15.92;T;K
+26;4;PiS;Sellin Jarosław Daniel;9932;2.19;8.74;T;M
+26;5;PiS;Kozak Zbigniew Ryszard;8437;1.86;7.42;N;M
+26;6;PiS;Stanke Piotr Jerzy;8764;1.93;7.71;N;M
+26;7;PiS;Bonkowski Waldemar;4410;0.97;3.88;N;M
+26;8;PiS;Herbowska Grażyna;1130;0.25;0.99;N;K
+26;9;PiS;Barzowski Jerzy;1437;0.32;1.26;N;M
+26;10;PiS;Łuczyk Mariusz Wojciech;857;0.19;0.75;N;M
+26;11;PiS;Horała Marcin Michał;756;0.17;0.67;N;M
+26;12;PiS;Stróżyk Michał Bartłomiej;261;0.06;0.23;N;M
+26;13;PiS;Śliwicki Adam Wojciech;765;0.17;0.67;N;M
+26;14;PiS;Naczk Jan;859;0.19;0.76;N;M
+26;15;PiS;Chajnowska-Włodarska Krystyna;362;0.08;0.32;N;K
+26;16;PiS;Kowalewski Grzegorz Mieczysław;340;0.07;0.30;N;M
+26;17;PiS;Kińczyk Krzysztof Maria;142;0.03;0.12;N;M
+26;18;PiS;Wetta Krzysztof Adam;298;0.07;0.26;N;M
+26;19;PiS;Klepacka Iwona Anna;431;0.09;0.38;N;K
+26;20;PiS;Mackiewicz-Sasiak Violetta Lilianna;353;0.08;0.31;N;K
+26;21;PiS;Kępka Teresa;2043;0.45;1.80;N;K
+26;22;PiS;Maciejewski Dariusz Krzysztof;608;0.13;0.53;N;M
+26;23;PiS;Saulski Arkady Franciszek;234;0.05;0.21;N;M
+26;24;PiS;Wendt Kinga Stefania;328;0.07;0.29;N;K
+26;25;PiS;Szulist Grażyna Irena;465;0.10;0.41;N;K
+26;26;PiS;Kaczyńska Mirosława Anna;3537;0.78;3.11;N;K
+26;27;PiS;Ławrukajtis Beata Agnieszka;496;0.11;0.44;N;K
+26;28;PiS;Kujawski Robert;2055;0.45;1.81;N;M
+26;1;SLD;Miller Leszek Cezary;18038;3.97;49.84;T;M
+26;2;SLD;Gardias Dorota;6126;1.35;16.93;N;K
+26;3;SLD;Kowalik Jacek Jakub;1854;0.41;5.12;N;M
+26;4;SLD;Falkowski Mariusz Jacek;797;0.18;2.20;N;M
+26;5;SLD;Gontarek Piotr Paweł;1340;0.30;3.70;N;M
+26;6;SLD;Maj Marta Magdalena;746;0.16;2.06;N;K
+26;7;SLD;Różański Andrzej Wawrzyniec;853;0.19;2.36;N;M
+26;8;SLD;Maciejewska Beata Katarzyna;419;0.09;1.16;N;K
+26;9;SLD;Sokołowski Krzysztof Andrzej;280;0.06;0.77;N;M
+26;10;SLD;Woźniak Teresa;527;0.12;1.46;N;K
+26;11;SLD;Kaszuba Bronisław;352;0.08;0.97;N;M
+26;12;SLD;Piskorski Zdzisław;471;0.10;1.30;N;M
+26;13;SLD;Kieza Iwona;374;0.08;1.03;N;K
+26;14;SLD;Senger Ryszard Stanisław;408;0.09;1.13;N;M
+26;15;SLD;Zalas Krystian Tomasz;81;0.02;0.22;N;M
+26;16;SLD;Kuchta Anna Aleksandra;260;0.06;0.72;N;K
+26;17;SLD;Blindow Dagmara Katarzyna;84;0.02;0.23;N;K
+26;18;SLD;Kozłowski Wacław Aleksander;582;0.13;1.61;N;M
+26;19;SLD;Konarska Kinga Łucja;198;0.04;0.55;N;K
+26;20;SLD;Bowszys Jarosława;48;0.01;0.13;N;K
+26;21;SLD;Gajowy Michał Grzegorz;291;0.06;0.80;N;M
+26;22;SLD;Bysewska Teresa Jadwiga;381;0.08;1.05;N;K
+26;23;SLD;Bochra Maciej Jakub;121;0.03;0.33;N;M
+26;24;SLD;Pingot Agnieszka Ewa;139;0.03;0.38;N;K
+26;25;SLD;Wojnowski Arkadiusz;250;0.06;0.69;N;M
+26;26;SLD;Skowron Karolina Marta;262;0.06;0.72;N;K
+26;27;SLD;Jaworski Jerzy Mieczysław;180;0.04;0.50;N;M
+26;28;SLD;Taube Stanisław Kazimierz;728;0.16;2.01;N;M
+26;1;PSL;Bujanowicz Stanisława Helena;5105;1.12;20.03;N;K
+26;2;PSL;Kupcewicz Janusz Bogdan;1255;0.28;4.92;N;M
+26;3;PSL;Lewna Hubert Alfons;4737;1.04;18.59;N;M
+26;4;PSL;Doering Henryk Władysław;1319;0.29;5.18;N;M
+26;5;PSL;Wąsikowski Leszek Jan;2136;0.47;8.38;N;M
+26;6;PSL;Elzanowski Czesław Andrzej;282;0.06;1.11;N;M
+26;7;PSL;Szatkowski Radosław Jan;460;0.10;1.80;N;M
+26;8;PSL;Batruch Mirosław;699;0.15;2.74;N;M
+26;9;PSL;Pajura Krystyna Ewa;924;0.20;3.63;N;K
+26;10;PSL;Pruszak Krzysztof Ludwik;705;0.16;2.77;N;M
+26;11;PSL;Kołodziejski Zdzisław;942;0.21;3.70;N;M
+26;12;PSL;Bławat Jerzy Franciszek;367;0.08;1.44;N;M
+26;13;PSL;Zawadzki Leszek Andrzej;344;0.08;1.35;N;M
+26;14;PSL;Chyłek Alina Barbara;241;0.05;0.95;N;K
+26;15;PSL;Dańczak Eugeniusz Antoni;332;0.07;1.30;N;M
+26;16;PSL;Raduński Andrzej Edward;232;0.05;0.91;N;M
+26;17;PSL;Konczanin Bogusława;266;0.06;1.04;N;K
+26;18;PSL;Kurecki Bogdan Jan;249;0.05;0.98;N;M
+26;19;PSL;Lesner Janusz Czesław;278;0.06;1.09;N;M
+26;20;PSL;Szpakowski Jerzy;582;0.13;2.28;N;M
+26;21;PSL;Wiktorowicz-Czapla Elżbieta Marianna;241;0.05;0.95;N;K
+26;22;PSL;Wirkus Katarzyna Gabriela;884;0.19;3.47;N;K
+26;23;PSL;Babińska Hanna Antonina;757;0.17;2.97;N;K
+26;24;PSL;Holak Ewa;401;0.09;1.57;N;K
+26;25;PSL;Gniazdowska Elżbieta;275;0.06;1.08;N;K
+26;26;PSL;Dorniak Tomasz;420;0.09;1.65;N;M
+26;27;PSL;Stencel Janusz;390;0.09;1.53;N;M
+26;28;PSL;Sahajdak Jadwiga;662;0.15;2.60;N;K
+26;1;PO;Biernacki Marek;66019;14.55;29.98;T;M
+26;2;PO;Aziewicz Tadeusz;14013;3.09;6.36;T;M
+26;3;PO;Kłosin Krystyna Maria;16187;3.57;7.35;T;K
+26;4;PO;Plocke Kazimierz Florian;18452;4.07;8.38;T;M
+26;5;PO;Hoppe Teresa Jadwiga;7552;1.66;3.43;T;K
+26;6;PO;Konwiński Zbigniew Marek;18548;4.09;8.42;T;M
+26;7;PO;Lamczyk Stanisław Józef;12664;2.79;5.75;T;M
+26;8;PO;Budnik Jerzy Feliks;8546;1.88;3.88;T;M
+26;9;PO;Zajączkowska Alicja Zenobia;6252;1.38;2.84;N;K
+26;10;PO;Lisowska Bożenna;4642;1.02;2.11;N;K
+26;11;PO;Leik Adam Zygmunt;6163;1.36;2.80;N;M
+26;12;PO;Mikulska Nathalie Nina;1473;0.32;0.67;N;M
+26;13;PO;Redzimski Leszek Andrzej;7480;1.65;3.40;N;M
+26;14;PO;Kardaś Jadwiga;975;0.21;0.44;N;K
+26;15;PO;Grzeszczuk Halina;1720;0.38;0.78;N;K
+26;16;PO;Szczepański Marek;3562;0.78;1.62;N;M
+26;17;PO;Nowak Adam;2913;0.64;1.32;N;M
+26;18;PO;Kamińska Joanna Katarzyna;2647;0.58;1.20;N;K
+26;19;PO;Piaskowska Hanna Anna;962;0.21;0.44;N;K
+26;20;PO;Zabrocki Dariusz Robert;3032;0.67;1.38;N;M
+26;21;PO;Kaźmierski Mirosław;823;0.18;0.37;N;M
+26;22;PO;Holc Anna Elżbieta;1168;0.26;0.53;N;K
+26;23;PO;Aftanasiuk-Biedrzycka Alicja Barbara;817;0.18;0.37;N;K
+26;24;PO;Kalinowska Jolanta Maria;2218;0.49;1.01;N;K
+26;25;PO;Daduń Mirosława Janina;620;0.14;0.28;N;K
+26;26;PO;Kreft Janusz;2273;0.50;1.03;N;M
+26;27;PO;Singer Elżbieta;1868;0.41;0.85;N;K
+26;28;PO;Szumełda Radomir;6656;1.47;3.02;N;M
+27;1;PiS;Szwed Stanisław;32416;10.41;33.03;T;M
+27;2;PiS;Czabański Krzysztof;8885;2.85;9.05;N;M
+27;3;PiS;Falfus Jacek Eugeniusz;11391;3.66;11.61;T;M
+27;4;PiS;Matuszny Kazimierz Władysław;8372;2.69;8.53;N;M
+27;5;PiS;Pięta Stanisław Jan;12708;4.08;12.95;T;M
+27;6;PiS;Wiciak Magdalena Maria;3660;1.18;3.73;N;K
+27;7;PiS;Gaża Grzegorz Krzysztof;5731;1.84;5.84;N;M
+27;8;PiS;Wałach Monika Irena;1899;0.61;1.93;N;K
+27;9;PiS;Dzierżawski Witold Marek;1132;0.36;1.15;N;M
+27;10;PiS;Binda Andrzej Marcin;1096;0.35;1.12;N;M
+27;11;PiS;Jędraszewska Alicja Maria;1270;0.41;1.29;N;K
+27;12;PiS;Sadlik Anna Barbara;1016;0.33;1.04;N;K
+27;13;PiS;Malcher Aleksander Franciszek;2410;0.77;2.46;N;M
+27;14;PiS;Pokusa Marcin Jan;1651;0.53;1.68;N;M
+27;15;PiS;Balcerek Grażyna;1226;0.39;1.25;N;K
+27;16;PiS;Zipser Monika Helena;371;0.12;0.38;N;K
+27;17;PiS;Mazur Katarzyna Ewa;1156;0.37;1.18;N;K
+27;18;PiS;Kraus Urszula;1762;0.57;1.80;N;K
+27;1;SLD;Marszałek Andrzej;6341;2.04;31.89;N;M
+27;2;SLD;Kotkowska Bożena Teresa;4897;1.57;24.63;N;K
+27;3;SLD;Brudny Alfred;2827;0.91;14.22;N;M
+27;4;SLD;Seredyńska-Targosz Janina Wanda;604;0.19;3.04;N;K
+27;5;SLD;Rusin Agata Katarzyna;869;0.28;4.37;N;K
+27;6;SLD;Repeta Paweł Jacek;352;0.11;1.77;N;M
+27;7;SLD;Kochutek Grażyna Irena;399;0.13;2.01;N;K
+27;8;SLD;Banot Aleksandra Ewa;455;0.15;2.29;N;K
+27;9;SLD;Gęga Lidia Maria;370;0.12;1.86;N;K
+27;10;SLD;Papierniak Anna Małgorzata;177;0.06;0.89;N;K
+27;11;SLD;Niedzwiedzki Łukasz Andrzej;292;0.09;1.47;N;M
+27;12;SLD;Durtan Tomasz;117;0.04;0.59;N;M
+27;13;SLD;Brandys-Chwastek Katarzyna Ewa;413;0.13;2.08;N;K
+27;14;SLD;Kliś Henryka Anna;389;0.12;1.96;N;K
+27;15;SLD;Szweda Zygmunt Jan;536;0.17;2.70;N;M
+27;16;SLD;Pasik Mariusz Jerzy;134;0.04;0.67;N;M
+27;17;SLD;Mróz Krystian;224;0.07;1.13;N;M
+27;18;SLD;Jonkisz Jarosław Andrzej;485;0.16;2.44;N;M
+27;1;PSL;Ormaniec Marian Albin;5675;1.82;26.84;N;M
+27;2;PSL;Badowska Joanna Teresa;3467;1.11;16.40;N;K
+27;3;PSL;Szemla Mirosław Stanisław;1857;0.60;8.78;N;M
+27;4;PSL;Kożusznik Danuta Maria;1038;0.33;4.91;N;K
+27;5;PSL;Ducin Ryszard;1074;0.34;5.08;N;M
+27;6;PSL;Brandys Marian Piotr;958;0.31;4.53;N;M
+27;7;PSL;Pilarz Izabela Anna;521;0.17;2.46;N;K
+27;8;PSL;Lukasek Lidia Anna;410;0.13;1.94;N;K
+27;9;PSL;Grzyb Andrzej Bernard;463;0.15;2.19;N;M
+27;10;PSL;Kucharczyk Stanisław Wojciech;578;0.19;2.73;N;M
+27;11;PSL;Gazur Jan Franciszek;461;0.15;2.18;N;M
+27;12;PSL;Bieniek Maciej;714;0.23;3.38;N;M
+27;13;PSL;Wierzbinka Katarzyna Zofia;376;0.12;1.78;N;K
+27;14;PSL;Legierska Aleksandra;1110;0.36;5.25;N;K
+27;15;PSL;Wenglorz Halina Stefania;452;0.15;2.14;N;K
+27;16;PSL;Zachraj Jan Jerzy;825;0.26;3.90;N;M
+27;17;PSL;Staszek Jacek Stanisław;486;0.16;2.30;N;M
+27;18;PSL;Kliś Jerzy Roman;678;0.22;3.21;N;M
+27;1;PO;Nykiel Mirosława;43329;13.91;32.96;T;K
+27;2;PO;Kowalski Sławomir Stanisław;13389;4.30;10.18;T;M
+27;3;PO;Trybuś Aleksandra Barbara;10061;3.23;7.65;T;K
+27;4;PO;Wykręt Adam;9069;2.91;6.90;N;M
+27;5;PO;Pępek Małgorzata Anna;12723;4.09;9.68;T;K
+27;6;PO;Gluza Czesław Tadeusz;13334;4.28;10.14;T;M
+27;7;PO;Kręcichwost Lucyna Maria;4261;1.37;3.24;N;K
+27;8;PO;Łaciak Stanisław;2027;0.65;1.54;N;M
+27;9;PO;Komor Klaudiusz Stanisław;6337;2.03;4.82;N;M
+27;10;PO;Błaszczyk Bernard;1482;0.48;1.13;N;M
+27;11;PO;Kędracka Karolina Klaudia;3280;1.05;2.49;N;K
+27;12;PO;Masny Sławomir;1190;0.38;0.91;N;M
+27;13;PO;Czapiga Cezary Józef;912;0.29;0.69;N;M
+27;14;PO;Kania Anetta Maria;1803;0.58;1.37;N;K
+27;15;PO;Ryplewicz Rafał Paweł;885;0.28;0.67;N;M
+27;16;PO;Kierpiec Anna;1263;0.41;0.96;N;K
+27;17;PO;Herma Jerzy Andrzej;1459;0.47;1.11;N;M
+27;18;PO;Pilch Klaudia Monika;4667;1.50;3.55;N;K
+28;1;PiS;Wiśniewska Jadwiga Maria;34491;15.36;56.15;T;K
+28;2;PiS;Giżyński Szymon Stanisław;9146;4.07;14.89;T;M
+28;3;PiS;Sądel Jerzy Bogdan;3068;1.37;4.99;N;M
+28;4;PiS;Burzyńska Lidia Ewa;2637;1.17;4.29;N;K
+28;5;PiS;Wójcik Grzegorz Marek;2839;1.26;4.62;N;M
+28;6;PiS;Janus Krzysztof Józef;1501;0.67;2.44;N;M
+28;7;PiS;Pohorecka Monika Sylwia;805;0.36;1.31;N;K
+28;8;PiS;Łuczak Agnieszka Małgorzata;650;0.29;1.06;N;K
+28;9;PiS;Trepka Mariusz Wiesław;579;0.26;0.94;N;M
+28;10;PiS;Dłużniak Adam Tomasz;364;0.16;0.59;N;M
+28;11;PiS;Korzonek Dorota Ewa;1104;0.49;1.80;N;K
+28;12;PiS;Świerc Krystian Franciszek;840;0.37;1.37;N;M
+28;13;PiS;Janiszewska Anna Maria;2106;0.94;3.43;N;K
+28;14;PiS;Klimek Ryszard Wincenty;1299;0.58;2.11;N;M
+28;1;SLD;Adamkiewicz Janusz Stefan;3773;1.68;16.02;N;M
+28;2;SLD;Balt Marek Paweł;5378;2.40;22.84;T;M
+28;3;SLD;Kall Zdzisława;2784;1.24;11.82;N;K
+28;4;SLD;Kasprzyk Jacek Franciszek;3668;1.63;15.58;N;M
+28;5;SLD;Sikorski Grzegorz Mieczysław;876;0.39;3.72;N;M
+28;6;SLD;Ogończyk Mariusz Dominik;392;0.17;1.66;N;M
+28;7;SLD;Bąk Joanna Cecylia;1506;0.67;6.40;N;K
+28;8;SLD;Juszczyk-Rozlach Marzena Beata;238;0.11;1.01;N;K
+28;9;SLD;Mizera Barbara Maria;1014;0.45;4.31;N;K
+28;10;SLD;Włodarek Radosław Stanisław;1135;0.51;4.82;N;M
+28;11;SLD;Szewczyk Karina Izabela;846;0.38;3.59;N;K
+28;12;SLD;Wabnic Łukasz Piotr;525;0.23;2.23;N;M
+28;13;SLD;Skorek Agnieszka Wioletta;717;0.32;3.04;N;K
+28;14;SLD;Korsak Jan;695;0.31;2.95;N;M
+28;1;PSL;Serafin Władysław;6140;2.74;31.19;N;M
+28;2;PSL;Smela Krzysztof;3214;1.43;16.32;N;M
+28;3;PSL;Banasiak Aleksandra;1292;0.58;6.56;N;K
+28;4;PSL;Socha-Korendo Anna Marta;1050;0.47;5.33;N;K
+28;5;PSL;Anioł Michał Ludwik;663;0.30;3.37;N;M
+28;6;PSL;Lech Andrzej Krzysztof;816;0.36;4.14;N;M
+28;7;PSL;Nowak Robert Tomasz;1104;0.49;5.61;N;M
+28;8;PSL;Migalska Małgorzata Zofia;586;0.26;2.98;N;K
+28;9;PSL;Gałuszka Małgorzata Ewa;481;0.21;2.44;N;K
+28;10;PSL;Kiepura Henryk;2044;0.91;10.38;N;M
+28;11;PSL;Winnicka-Kowalik Zuzanna Barbara;385;0.17;1.96;N;K
+28;12;PSL;Klimza Witold Paweł;279;0.12;1.42;N;M
+28;13;PSL;Pełka Zbigniew Adam;362;0.16;1.84;N;M
+28;14;PSL;Boski Grzegorz;1272;0.57;6.46;N;M
+28;1;PO;Rozpondek Halina Leokadia;23722;10.57;30.22;T;K
+28;2;PO;Leszczyna Izabela Dorota;18737;8.35;23.87;T;K
+28;3;PO;Sztolcman Grzegorz Czesław;8926;3.98;11.37;T;M
+28;4;PO;Jakubiec Janusz Stefan;5112;2.28;6.51;N;M
+28;5;PO;Sabat Bartłomiej Daniel;4544;2.02;5.79;N;M
+28;6;PO;Sadek Iwona Józefa;1239;0.55;1.58;N;K
+28;7;PO;Janic Iwona Joanna;2682;1.19;3.42;N;K
+28;8;PO;Kaczuga Adam Bogdan;1433;0.64;1.83;N;M
+28;9;PO;Nowakowska Marzena Gabriela;1160;0.52;1.48;N;K
+28;10;PO;Jasińska Barbara Izabela;1350;0.60;1.72;N;K
+28;11;PO;Komorowski Wojciech Jan;1910;0.85;2.43;N;M
+28;12;PO;Biernat Marcin;2413;1.07;3.07;N;M
+28;13;PO;Serwiak Krzysztof Jacek;514;0.23;0.65;N;M
+28;14;PO;Kurpios Piotr Marian;4758;2.12;6.06;N;M
+29;1;PiS;Pyzik Piotr Mieczysław;12039;4.28;18.32;T;M
+29;2;PiS;Polaczek Jerzy Jan;22310;7.93;33.94;T;M
+29;3;PiS;Chłopek Aleksander Antoni;5596;1.99;8.51;N;M
+29;4;PiS;Wita Tadeusz Antoni;4505;1.60;6.85;N;M
+29;5;PiS;Pyrk Alfred Andrzej;1704;0.61;2.59;N;M
+29;6;PiS;Krupka Anna Maria;3044;1.08;4.63;N;K
+29;7;PiS;Burdziak Józef;1948;0.69;2.96;N;M
+29;8;PiS;Wieczorek Jarosław Wiesław;2195;0.78;3.34;N;M
+29;9;PiS;Znyk Bogusław;659;0.23;1.00;N;M
+29;10;PiS;Dziuk Barbara Anna;2053;0.73;3.12;N;K
+29;11;PiS;Goliszewski Zdzisław;1909;0.68;2.90;N;M
+29;12;PiS;Rudzki Stanisław Józef;608;0.22;0.93;N;M
+29;13;PiS;Iskra Izabela Anna;1021;0.36;1.55;N;K
+29;14;PiS;Rokosz Krystyna Maria;757;0.27;1.15;N;K
+29;15;PiS;Suchanek Krystyna Maria;1823;0.65;2.77;N;K
+29;16;PiS;Badurczyk Małgorzata Roma;281;0.10;0.43;N;K
+29;17;PiS;Patoń Piotr Jerzy;918;0.33;1.40;N;M
+29;18;PiS;Sarré Joanna;2354;0.84;3.58;N;K
+29;1;SLD;Kwaśnicka Ela Wanda;6267;2.23;28.57;N;K
+29;2;SLD;Widuch Marek Damian;5699;2.03;25.98;N;M
+29;3;SLD;Wojcieszek Andrzej Henryk;2397;0.85;10.93;N;M
+29;4;SLD;Król Adrian Marian;976;0.35;4.45;N;M
+29;5;SLD;Mrachacz Paweł Józef;2045;0.73;9.32;N;M
+29;6;SLD;Winecka Ewa Lidia;705;0.25;3.21;N;K
+29;7;SLD;Fic Bernard Jan;575;0.20;2.62;N;M
+29;8;SLD;Suchocka Joanna Jolanta;718;0.26;3.27;N;K
+29;9;SLD;Zachtej Katarzyna Teresa;166;0.06;0.76;N;K
+29;10;SLD;Matusiak Rafał Krzysztof;342;0.12;1.56;N;M
+29;11;SLD;Kliś Filip Krzysztof;201;0.07;0.92;N;M
+29;12;SLD;Kupski Błażej;256;0.09;1.17;N;M
+29;13;SLD;Hofman-Dyner Jolanta Maria;276;0.10;1.26;N;K
+29;14;SLD;Rynkiewicz Magdalena Janina;171;0.06;0.78;N;K
+29;15;SLD;Krzysztofik Dariusz Daniel;170;0.06;0.78;N;M
+29;16;SLD;Moll Łukasz Jan;171;0.06;0.78;N;M
+29;17;SLD;Katolik Anna Ewa;357;0.13;1.63;N;K
+29;18;SLD;Trzeba Tomasz Piotr;440;0.16;2.01;N;M
+29;1;PSL;Pilot Andrzej Antoni;3148;1.12;22.44;N;M
+29;2;PSL;Walter Roman Waldemar;2180;0.78;15.54;N;M
+29;3;PSL;Bartkowiak Kazimierz Andrzej;1080;0.38;7.70;N;M
+29;4;PSL;Jurczyga Ewa;1571;0.56;11.20;N;K
+29;5;PSL;Kręgiel Krystyna Anna;533;0.19;3.80;N;K
+29;6;PSL;Dombek Waldemar Józef;453;0.16;3.23;N;M
+29;7;PSL;Kubiak Leszek;499;0.18;3.56;N;M
+29;8;PSL;Kurkowska Iwona;245;0.09;1.75;N;K
+29;9;PSL;Śliwowska Maria Zofia;194;0.07;1.38;N;K
+29;10;PSL;Chrzęstek-Bar Łucja Katarzyna;1035;0.37;7.38;N;K
+29;11;PSL;Czapelka Agnieszka Zofia;235;0.08;1.68;N;K
+29;12;PSL;Lewandowski Marek Witold;266;0.09;1.90;N;M
+29;13;PSL;Skwira Zygmunt Jerzy;114;0.04;0.81;N;M
+29;14;PSL;Swoboda Grażyna Małgorzata;299;0.11;2.13;N;K
+29;15;PSL;Frejno Andrzej Marcin;452;0.16;3.22;N;M
+29;16;PSL;Bęben Ryszard;422;0.15;3.01;N;M
+29;17;PSL;Rogocz Maria Augustyna;419;0.15;2.99;N;K
+29;18;PSL;Poloczek Mariusz Krzysztof;883;0.31;6.29;N;M
+29;1;PO;Szumilas Krystyna Maria;42200;15.01;30.08;T;K
+29;2;PO;Gałażewski Andrzej Józef;11746;4.18;8.37;T;M
+29;3;PO;Brzezinka Jacek Piotr;10775;3.83;7.68;T;M
+29;4;PO;Głogowski Tomasz Marian;15649;5.57;11.16;T;M
+29;5;PO;Stępień Joanna Krystyna;6553;2.33;4.67;N;K
+29;6;PO;Kaźmierczak Jan Piotr;8155;2.90;5.81;T;M
+29;7;PO;Marek Rafał Marian;5664;2.01;4.04;N;M
+29;8;PO;Matuszewski Łukasz Michał;3845;1.37;2.74;N;M
+29;9;PO;Urbańczyk Łukasz Wojciech;4020;1.43;2.87;N;M
+29;10;PO;Dąbrowska Jolanta Alicja;3034;1.08;2.16;N;K
+29;11;PO;Budka Borys Piotr;10260;3.65;7.31;T;M
+29;12;PO;Dragon Dominik Tadeusz;5061;1.80;3.61;N;M
+29;13;PO;Wojak Katarzyna Hanna;1464;0.52;1.04;N;K
+29;14;PO;Dziuk Jolanta Zdzisława;1287;0.46;0.92;N;K
+29;15;PO;Korpak Józef Aleksander;2594;0.92;1.85;N;M
+29;16;PO;Kalita Bogusława Anna;1732;0.62;1.23;N;K
+29;17;PO;Gruszka Piotr Jan;1539;0.55;1.10;N;M
+29;18;PO;Borowiec Katarzyna Maria;4694;1.67;3.35;N;K
+30;1;PiS;Piecha Bolesław Grzegorz;34520;13.07;45.72;T;M
+30;2;PiS;Kloc Izabela Helena;12833;4.86;17.00;T;K
+30;3;PiS;Janik Grzegorz Piotr;5236;1.98;6.93;N;M
+30;4;PiS;Drosio Marian;1844;0.70;2.44;N;M
+30;5;PiS;Sobierajski Czesław Stanisław;2097;0.79;2.78;N;M
+30;6;PiS;Matusiak Grzegorz;6889;2.61;9.12;T;M
+30;7;PiS;Lenart Małgorzata;2004;0.76;2.65;N;K
+30;8;PiS;Wawrzyczek Daniel Emilian;1574;0.60;2.08;N;M
+30;9;PiS;Krasowska-Salamon Izabella Barbara;1841;0.70;2.44;N;K
+30;10;PiS;Glenc Teresa;1835;0.69;2.43;N;K
+30;11;PiS;Gruszka Ewa Agnieszka;1763;0.67;2.33;N;K
+30;12;PiS;Chmielewski Mariusz;461;0.17;0.61;N;M
+30;13;PiS;Marciniak Zbigniew Józef;446;0.17;0.59;N;M
+30;14;PiS;Raiwa Monika Katarzyna;221;0.08;0.29;N;K
+30;15;PiS;Woźnica Regina;635;0.24;0.84;N;K
+30;16;PiS;Gerus Michał Adam;125;0.05;0.17;N;M
+30;17;PiS;Piksa Urszula Barbara;540;0.20;0.72;N;K
+30;18;PiS;Witt Michał Paweł;640;0.24;0.85;N;M
+30;1;SLD;Motowidło Tadeusz;10516;3.98;50.30;N;M
+30;2;SLD;Ogórek Magdalena Agnieszka;3751;1.42;17.94;N;K
+30;3;SLD;Jarosz Marian Franciszek;1315;0.50;6.29;N;M
+30;4;SLD;Pierchała Irena Bronisława;1188;0.45;5.68;N;K
+30;5;SLD;Graś Grażyna Bogusława;648;0.25;3.10;N;K
+30;6;SLD;Krzak Zdzisław;313;0.12;1.50;N;M
+30;7;SLD;Pruszkowska Barbara;356;0.13;1.70;N;K
+30;8;SLD;Pająk Kornel Piotr;308;0.12;1.47;N;M
+30;9;SLD;Kaszubski Ryszard;306;0.12;1.46;N;M
+30;10;SLD;Spyrczak Jolanta Zofia;153;0.06;0.73;N;K
+30;11;SLD;Szczepanek Przemysław Eugeniusz;128;0.05;0.61;N;M
+30;12;SLD;Witala - Sługa Ilona Beata;356;0.13;1.70;N;K
+30;13;SLD;Dolata Joanna Anna;382;0.14;1.83;N;K
+30;14;SLD;Wyleżych Adam Grzegorz;207;0.08;0.99;N;M
+30;15;SLD;Sulikowska Irena Zofia;166;0.06;0.79;N;K
+30;16;SLD;Dąbkowski Stefan Andrzej;97;0.04;0.46;N;M
+30;17;SLD;Wojtach Zuzanna;162;0.06;0.77;N;K
+30;18;SLD;Mazur Krzysztof;556;0.21;2.66;N;M
+30;1;PSL;Karasek Bronisław;2582;0.98;28.05;N;M
+30;2;PSL;Szereda Piotr Tomasz;1340;0.51;14.56;N;M
+30;3;PSL;Zielonka Magdalena Beata;888;0.34;9.65;N;K
+30;4;PSL;Kuczera Krystyna Irena;700;0.27;7.60;N;K
+30;5;PSL;Gąsiorczyk Alojzy Stanisław;114;0.04;1.24;N;M
+30;6;PSL;Sobala Tadeusz Stanisław;579;0.22;6.29;N;M
+30;7;PSL;Kwade Danuta Bożena;140;0.05;1.52;N;K
+30;8;PSL;Zaborowska Elżbieta Maria;352;0.13;3.82;N;K
+30;9;PSL;Kretek Gerard Franciszek;858;0.32;9.32;N;M
+30;10;PSL;Damaszk Krystyna;121;0.05;1.31;N;K
+30;11;PSL;Gizdoń Jan Stanisław;397;0.15;4.31;N;M
+30;12;PSL;Kopeć Jerzy Stefan;162;0.06;1.76;N;M
+30;13;PSL;Fajkus Roman Alojzy;122;0.05;1.33;N;M
+30;14;PSL;Zajączkowska Ewa Justyna;163;0.06;1.77;N;K
+30;15;PSL;Gwoździk Małgorzata;114;0.04;1.24;N;K
+30;16;PSL;Guzy Aleksandra Karolina;148;0.06;1.61;N;K
+30;17;PSL;Bober Wioletta Anna;426;0.16;4.63;N;K
+30;1;PO;Kluzik-Rostkowska Joanna Grażyna;22418;8.49;18.91;T;K
+30;2;PO;Krząkała Marek Grzegorz;25938;9.82;21.88;T;M
+30;3;PO;Gadowski Krzysztof Jan;15326;5.80;12.93;T;M
+30;4;PO;Siedlaczek Henryk Piotr;20019;7.58;16.89;T;M
+30;5;PO;Bokuniewicz Aneta Sabina;2096;0.79;1.77;N;K
+30;6;PO;Zawadzki Ryszard Józef;10108;3.83;8.53;T;M
+30;7;PO;Rybka Krzysztof Józef;1797;0.68;1.52;N;M
+30;8;PO;Kaczyńska Mirela Barbara;560;0.21;0.47;N;K
+30;9;PO;Zienc Piotr Robert;2618;0.99;2.21;N;M
+30;10;PO;Cyroń Witold Krzysztof;1422;0.54;1.20;N;M
+30;11;PO;Halfar Barbara;991;0.38;0.84;N;K
+30;12;PO;Bombik Łukasz Grzegorz;537;0.20;0.45;N;M
+30;13;PO;Olszewska Ewa Barbara;1200;0.45;1.01;N;K
+30;14;PO;Bech Aleksander;601;0.23;0.51;N;M
+30;15;PO;Fijołek Urszula;692;0.26;0.58;N;K
+30;16;PO;Krakowczyk - Piotrowska Monika Joanna;1252;0.47;1.06;N;K
+30;17;PO;Piechula Stanisław Maksymilian;9381;3.55;7.91;N;M
+30;18;PO;Konar Ilona Małgorzata;1568;0.59;1.32;N;K
+31;1;PiS;Szarama Wojciech Piotr;27541;6.84;27.89;T;M
+31;2;PiS;Tobiszowski Grzegorz Józef;13268;3.29;13.44;T;M
+31;3;PiS;Nowak Maria Teresa;10820;2.69;10.96;T;K
+31;4;PiS;Pietrasz Piotr Aleksander;3941;0.98;3.99;N;M
+31;5;PiS;Nowicka Zofia;3342;0.83;3.38;N;K
+31;6;PiS;Wójcik Michał Marek;5272;1.31;5.34;N;M
+31;7;PiS;Paruzel Henryk Józef;4067;1.01;4.12;N;M
+31;8;PiS;Sobczyk Danuta Elżbieta;4329;1.07;4.38;N;K
+31;9;PiS;Panek Krystyna Zofia;1545;0.38;1.56;N;K
+31;10;PiS;Kołodziejczyk Grzegorz Tadeusz;3972;0.99;4.02;N;M
+31;11;PiS;Zięba Janina Maria;1162;0.29;1.18;N;K
+31;12;PiS;Fierla Damian Tomasz;952;0.24;0.96;N;M
+31;13;PiS;Kaczyński Leonard Zbigniew;4485;1.11;4.54;N;M
+31;14;PiS;Kurzawa Jerzy;1267;0.31;1.28;N;M
+31;15;PiS;Jacent Daniel Andrzej;1542;0.38;1.56;N;M
+31;16;PiS;Wermińska Stanisława;2046;0.51;2.07;N;K
+31;17;PiS;Pierończyk Marcin Tomasz;944;0.23;0.96;N;M
+31;18;PiS;Dziedzic Magdalena Anna;1160;0.29;1.17;N;K
+31;19;PiS;Pawlik Grażyna Ewa;1057;0.26;1.07;N;K
+31;20;PiS;Dziubany Katarzyna;1244;0.31;1.26;N;K
+31;21;PiS;Osiejuk Krzysztof Roman;409;0.10;0.41;N;M
+31;22;PiS;Gosiewski Maciej Zbigniew;2683;0.67;2.72;N;M
+31;23;PiS;Zuzelska Grażyna;753;0.19;0.76;N;K
+31;24;PiS;Poczachowski Wojciech Jerzy;936;0.23;0.95;N;M
+31;1;SLD;Zaborowski Zbyszek;9482;2.35;36.89;T;M
+31;2;SLD;Bożyk Paweł;1035;0.26;4.03;N;M
+31;3;SLD;Klekot Ewa;2881;0.72;11.21;N;K
+31;4;SLD;Moskwa Henryk Jan;737;0.18;2.87;N;M
+31;5;SLD;Kwiatek Włodzimierz Roman;557;0.14;2.17;N;M
+31;6;SLD;Zapart Katarzyna Urszula;753;0.19;2.93;N;K
+31;7;SLD;Stryjak Cezary Andrzej;1022;0.25;3.98;N;M
+31;8;SLD;Dąbkowski Łukasz Tomasz;414;0.10;1.61;N;M
+31;9;SLD;Paca Monika Maria;684;0.17;2.66;N;K
+31;10;SLD;Kaczyńska Barbara Urszula;380;0.09;1.48;N;K
+31;11;SLD;Cupiał Paweł Andrzej;344;0.09;1.34;N;M
+31;12;SLD;Zięba Marianna Anna;569;0.14;2.21;N;K
+31;13;SLD;Chmielewska Ewa Maria;708;0.18;2.75;N;K
+31;14;SLD;Brózda Anna;213;0.05;0.83;N;K
+31;15;SLD;Pełka Irena Maria;413;0.10;1.61;N;K
+31;16;SLD;Fiutek Łukasz Krzysztof;1773;0.44;6.90;N;M
+31;17;SLD;Nawara Halina Bożena;402;0.10;1.56;N;K
+31;18;SLD;Brol-Stachowska Ksenia Beata;170;0.04;0.66;N;K
+31;19;SLD;Maciaś Jarosław Krzysztof;169;0.04;0.66;N;M
+31;20;SLD;Gandyk Marcin Tomasz;170;0.04;0.66;N;M
+31;21;SLD;Pokorski Zbigniew Jacek;323;0.08;1.26;N;M
+31;22;SLD;Ochalska Beata Gabriela;429;0.11;1.67;N;K
+31;23;SLD;Chmiel Wojciech Stanisław;718;0.18;2.79;N;M
+31;24;SLD;Potyrała Dariusz Mirosław;1358;0.34;5.28;N;M
+31;1;PSL;Kurak Krzysztof;3164;0.79;28.16;N;M
+31;2;PSL;Szymborska Grażyna Danuta;1761;0.44;15.67;N;K
+31;3;PSL;Wawrzyniak Sławomir Wojciech;803;0.20;7.15;N;M
+31;4;PSL;Boniewski Leszek Stanisław;213;0.05;1.90;N;M
+31;5;PSL;Juszczyk Małgorzata Anna;257;0.06;2.29;N;K
+31;6;PSL;Salwiczek Marian Józef;695;0.17;6.18;N;M
+31;7;PSL;Wołoska Karina Beata;185;0.05;1.65;N;K
+31;8;PSL;Żabiński Tomasz Jan;261;0.06;2.32;N;M
+31;9;PSL;Lach Andrzej Michał;171;0.04;1.52;N;M
+31;10;PSL;Radomski Ryszard Władysław;134;0.03;1.19;N;M
+31;11;PSL;Bochenek Władysław Bartłomiej;868;0.22;7.72;N;M
+31;12;PSL;Molka Ewa Antonina;144;0.04;1.28;N;K
+31;13;PSL;Redełkiewicz Janusz;78;0.02;0.69;N;M
+31;14;PSL;Magdziorz Gabriela Maria;275;0.07;2.45;N;K
+31;15;PSL;Nowak Jacek Andrzej;92;0.02;0.82;N;M
+31;16;PSL;Rogula Ewa Iwona;92;0.02;0.82;N;K
+31;17;PSL;Kot Grzegorz Benedykt;118;0.03;1.05;N;M
+31;18;PSL;Danielczyk Edyta Małgorzata;189;0.05;1.68;N;K
+31;19;PSL;Flasza Jan;79;0.02;0.70;N;M
+31;20;PSL;Kotulska Barbara Teresa;166;0.04;1.48;N;K
+31;21;PSL;Dobrowolski Mirosław Zenon;164;0.04;1.46;N;M
+31;22;PSL;Olejnik Iwona Barbara;414;0.10;3.68;N;K
+31;23;PSL;Szmajda Jerzy Michał;210;0.05;1.87;N;M
+31;24;PSL;Depta Adam Szczepan;704;0.17;6.27;N;M
+31;1;PO;Tomczykiewicz Tomasz Kazimierz;57323;14.23;29.39;T;M
+31;2;PO;Pietraszewska Danuta Róża;25496;6.33;13.07;T;K
+31;3;PO;Pierzchała Elżbieta Apolonia;14557;3.61;7.46;T;K
+31;4;PO;Plura Marek Mirosław;22795;5.66;11.69;T;M
+31;5;PO;Wójcik Marek Krzysztof;10753;2.67;5.51;T;M
+31;6;PO;Ziętek Jerzy Marek;8960;2.22;4.59;T;M
+31;7;PO;Rzymełka Jan Antoni;7821;1.94;4.01;N;M
+31;8;PO;Klosa Zygmunt Konrad;4478;1.11;2.30;N;M
+31;9;PO;Szulc Mariola Barbara;2732;0.68;1.40;N;K
+31;10;PO;Kołodziej Ewa Edyta;14149;3.51;7.26;T;K
+31;11;PO;Charchuła Jolanta Beata;3819;0.95;1.96;N;K
+31;12;PO;Spiołek Łukasz Andrzej;712;0.18;0.37;N;M
+31;13;PO;Klimek Sabina Magdalena;7641;1.90;3.92;N;K
+31;14;PO;Idzik Magdalena Sylwia;1604;0.40;0.82;N;K
+31;15;PO;Przybylski Krzysztof;3213;0.80;1.65;N;M
+31;16;PO;Bochnia Tomasz Piotr;973;0.24;0.50;N;M
+31;17;PO;Szczepaniok Piotr Ludwik;1219;0.30;0.63;N;M
+31;18;PO;Gębicka - Matusz Ewa Anna;684;0.17;0.35;N;K
+31;19;PO;Handermander - Lewicka Małgorzata Anna;745;0.18;0.38;N;K
+31;20;PO;Wójtowicz Krzysztof;1165;0.29;0.60;N;M
+31;21;PO;Matwin Agnieszka Maria;1358;0.34;0.70;N;K
+31;22;PO;Węgliński Rafał Grzegorz;559;0.14;0.29;N;M
+31;23;PO;Machura Mariusz Mieczysław;672;0.17;0.34;N;M
+31;24;PO;Łataś Rafał Adrian;1590;0.39;0.82;N;M
+32;1;PiS;Malik Ewa Danuta;25214;8.99;42.41;T;K
+32;2;PiS;Andzel Waldemar Franciszek;10328;3.68;17.37;T;M
+32;3;PiS;Waszczuk Marcin;2531;0.90;4.26;N;M
+32;4;PiS;Sokół Paweł Jan;2164;0.77;3.64;N;M
+32;5;PiS;Głowacka Halina Józefa;2049;0.73;3.45;N;K
+32;6;PiS;Sroka Andrzej Wiesław;1961;0.70;3.30;N;M
+32;7;PiS;Grudzińska-Kubik Bożena Władysława;1746;0.62;2.94;N;K
+32;8;PiS;Warwas Robert Piotr;4535;1.62;7.63;N;M
+32;9;PiS;Materla Maria;1305;0.47;2.20;N;K
+32;10;PiS;Wydra Przemysław Aleksander;1176;0.42;1.98;N;M
+32;11;PiS;Romaniak Monika Maria;686;0.24;1.15;N;K
+32;12;PiS;Szydlik Bożena Grażyna;782;0.28;1.32;N;K
+32;13;PiS;Skarbińska-Poznańska Alicja Ewa;622;0.22;1.05;N;K
+32;14;PiS;Gruca Michał Roman;635;0.23;1.07;N;M
+32;15;PiS;Paś Stanisław;580;0.21;0.98;N;M
+32;16;PiS;Piątek Zbigniew Józef;930;0.33;1.56;N;M
+32;17;PiS;Guzdraj Maciej Piotr;506;0.18;0.85;N;M
+32;18;PiS;Zarychta-Surówka Małgorzata Wioletta;1703;0.61;2.86;N;K
+32;1;SLD;Karolczak Kazimierz;6498;2.32;17.82;N;M
+32;2;SLD;Klepacz Witold Janusz;6817;2.43;18.70;T;M
+32;3;SLD;Konus Magdalena Joanna;1703;0.61;4.67;N;K
+32;4;SLD;Czarski Michał Adam;3834;1.37;10.52;N;M
+32;5;SLD;Gajda Marian;4101;1.46;11.25;N;M
+32;6;SLD;Barański Marek Janusz;2910;1.04;7.98;N;M
+32;7;SLD;Gierczak Mariusz Tomasz;769;0.27;2.11;N;M
+32;8;SLD;Pietrzyk Rafał Jan;1006;0.36;2.76;N;M
+32;9;SLD;Gajdzik-Stępniak Ewa Aniela;1402;0.50;3.85;N;K
+32;10;SLD;Łatak Stefan Paweł;1690;0.60;4.64;N;M
+32;11;SLD;Frankowska Bogusława;382;0.14;1.05;N;K
+32;12;SLD;Pawłowska Monika Anna;1093;0.39;3.00;N;K
+32;13;SLD;Bierońska Ewa Katarzyna;885;0.32;2.43;N;K
+32;14;SLD;Czekajski Marek Michał;357;0.13;0.98;N;M
+32;15;SLD;Sienicki Edward Tadeusz;111;0.04;0.30;N;M
+32;16;SLD;Pasamonik Przemysław Bartosz;511;0.18;1.40;N;M
+32;17;SLD;Kobus Katarzyna Maria;454;0.16;1.25;N;K
+32;18;SLD;Borowiec Bożena Ewa;1937;0.69;5.31;N;K
+32;1;PSL;Dąbrowa Stanisław;5043;1.80;41.06;N;M
+32;2;PSL;Pawelec Mariusz;776;0.28;6.32;N;M
+32;3;PSL;Bober Edward Józef;2061;0.74;16.78;N;M
+32;4;PSL;Ślusarczyk Joanna Jadwiga;694;0.25;5.65;N;K
+32;5;PSL;Król Ewa Teresa;650;0.23;5.29;N;K
+32;6;PSL;Kołton Mariusz Jan;255;0.09;2.08;N;M
+32;7;PSL;Paks Stanisław Marek;597;0.21;4.86;N;M
+32;8;PSL;Binko Zbigniew Zenon;235;0.08;1.91;N;M
+32;9;PSL;Hanc-Kuczkowska Aneta Grażyna;114;0.04;0.93;N;K
+32;10;PSL;Janik Ewa Barbara;272;0.10;2.21;N;K
+32;11;PSL;Majka Tomasz Krzysztof;178;0.06;1.45;N;M
+32;12;PSL;Górny Tomasz Marcin;138;0.05;1.12;N;M
+32;13;PSL;Machura Danuta Stanisława;177;0.06;1.44;N;K
+32;14;PSL;Janeczek Dariusz Piotr;141;0.05;1.15;N;M
+32;15;PSL;Czekaj Sławomir Adam;328;0.12;2.67;N;M
+32;16;PSL;Bielec Katarzyna Karolina;138;0.05;1.12;N;K
+32;17;PSL;Masłowska Magdalena;234;0.08;1.91;N;K
+32;18;PSL;Latos Marcin Mieczysław;250;0.09;2.04;N;M
+32;1;PO;Saługa Wojciech Paweł;26368;9.41;21.88;T;M
+32;2;PO;Małecka-Libera Beata Maria;23822;8.50;19.76;T;K
+32;3;PO;Pisalski Grzegorz Ottokar;8702;3.10;7.22;N;M
+32;4;PO;Pięta Jarosław;9309;3.32;7.72;T;M
+32;5;PO;Śliwińska Anna Elżbieta;3911;1.40;3.24;N;K
+32;6;PO;Szaleniec Zbigniew Marian;8302;2.96;6.89;N;M
+32;7;PO;Van der Coghen Piotr Artur;12171;4.34;10.10;T;M
+32;8;PO;Nemś Anna Ewa;9086;3.24;7.54;T;K
+32;9;PO;Matyba Natalia Sylwia;1042;0.37;0.86;N;K
+32;10;PO;Potępa Maria Barbara;3050;1.09;2.53;N;K
+32;11;PO;Pasek Tomasz Dariusz;2860;1.02;2.37;N;M
+32;12;PO;Sendobry Marta Teresa;459;0.16;0.38;N;K
+32;13;PO;Śliwa Monika Teresa;2679;0.96;2.22;N;K
+32;14;PO;Zając Michał Łukasz;2306;0.82;1.91;N;M
+32;15;PO;Przybylak Bogusława Henryka;704;0.25;0.58;N;K
+32;16;PO;Kucia Renata;794;0.28;0.66;N;K
+32;17;PO;Hermanowicz Zbigniew Stefan;702;0.25;0.58;N;M
+32;18;PO;Stachowicz Katarzyna Karolina;4263;1.52;3.54;N;K
+33;1;PiS;Kempa Beata Agnieszka;70127;16.20;50.80;T;K
+33;2;PiS;Rusiecki Jarosław;7323;1.69;5.31;T;M
+33;3;PiS;Zuba Maria;6222;1.44;4.51;T;K
+33;4;PiS;Bętkowski Andrzej Krzysztof;4591;1.06;3.33;T;M
+33;5;PiS;Lipiec Krzysztof Bogdan;6774;1.56;4.91;T;M
+33;6;PiS;Kwitek Marek;3726;0.86;2.70;N;M
+33;7;PiS;Olendzka Halina Bronisława;2331;0.54;1.69;N;K
+33;8;PiS;Latosiński Bogdan Jan;2481;0.57;1.80;N;M
+33;9;PiS;Sołtysiak Małgorzata Krystyna;1886;0.44;1.37;N;K
+33;10;PiS;Piątek Zbigniew Jacek;3295;0.76;2.39;N;M
+33;11;PiS;Nassalski Paweł Adam;396;0.09;0.29;N;M
+33;12;PiS;Janiszewski Lech Tadeusz;1269;0.29;0.92;N;M
+33;13;PiS;Forkasiewicz Grzegorz Paweł;3836;0.89;2.78;N;M
+33;14;PiS;Olejnik Małgorzata Dorota;1659;0.38;1.20;N;K
+33;15;PiS;Gawlik Stanisława Marianna;1122;0.26;0.81;N;K
+33;16;PiS;Faryna Paweł Adam;1884;0.44;1.36;N;M
+33;17;PiS;Leśniewicz Danuta;1008;0.23;0.73;N;K
+33;18;PiS;Kowalczyk Bogusław Sławomir;1013;0.23;0.73;N;M
+33;19;PiS;Grządziel Andrzej;838;0.19;0.61;N;M
+33;20;PiS;Wicha Renata Elżbieta;540;0.12;0.39;N;K
+33;21;PiS;Nawrot Janusz;1556;0.36;1.13;N;M
+33;22;PiS;Gębski Mieczysław;1039;0.24;0.75;N;M
+33;23;PiS;Nowak Stanisław Eustachy;2030;0.47;1.47;N;M
+33;24;PiS;Zgrzywa Romuald Leon;576;0.13;0.42;N;M
+33;25;PiS;Barwinek Beata Jadwiga;543;0.13;0.39;N;K
+33;26;PiS;Wiśniewska Anna;1218;0.28;0.88;N;K
+33;27;PiS;Lenart Andrzej Marek;1228;0.28;0.89;N;M
+33;28;PiS;Dzwonek Michał Jan;621;0.14;0.45;N;M
+33;29;PiS;Kowalczyk Anna;624;0.14;0.45;N;K
+33;30;PiS;Ramus Tomasz;990;0.23;0.72;N;M
+33;31;PiS;Duda Jadwiga;961;0.22;0.70;N;K
+33;32;PiS;Kaczmarek Tomasz Krzysztof;4332;1.00;3.14;T;M
+33;1;SLD;Kopyciński Sławomir Piotr;7003;1.62;16.64;T;M
+33;2;SLD;Milcarz Henryk Mieczysław;6675;1.54;15.86;N;M
+33;3;SLD;Winiarczyk-Kossakowska Małgorzata Dorota;2940;0.68;6.98;N;K
+33;4;SLD;Kizińska Bożena Maria;1119;0.26;2.66;N;K
+33;5;SLD;Jaskiernia Jerzy Andrzej;5714;1.32;13.57;N;M
+33;6;SLD;Nowaczek Piotr Rafał;1313;0.30;3.12;N;M
+33;7;SLD;Gierada Jan;4141;0.96;9.84;N;M
+33;8;SLD;Romanowska Irena Anna;779;0.18;1.85;N;K
+33;9;SLD;Gajda Jan;2172;0.50;5.16;N;M
+33;10;SLD;Malinowski Krzysztof Andrzej;824;0.19;1.96;N;M
+33;11;SLD;Grabowski Józef;1788;0.41;4.25;N;M
+33;12;SLD;Magierowska Jolanta;353;0.08;0.84;N;K
+33;13;SLD;Marczewski Sławomir Szczepan;1567;0.36;3.72;N;M
+33;14;SLD;Zygan Marek Józef;734;0.17;1.74;N;M
+33;15;SLD;Gorczyca Janusz Wiesław;185;0.04;0.44;N;M
+33;16;SLD;Witkowska Grażyna Maria;455;0.11;1.08;N;K
+33;17;SLD;Karpińska Halina;464;0.11;1.10;N;K
+33;18;SLD;Libuda Józef;490;0.11;1.16;N;M
+33;19;SLD;Gliwa Bogusław Franciszek;91;0.02;0.22;N;M
+33;20;SLD;Gugulski Jacek Mariusz;366;0.08;0.87;N;M
+33;21;SLD;Krupa Katarzyna Izabela;665;0.15;1.58;N;K
+33;22;SLD;Curyło Marian Władysław;102;0.02;0.24;N;M
+33;23;SLD;Kowalski Tomasz Norbert;224;0.05;0.53;N;M
+33;24;SLD;Zawarczyńska Maria Jolanta;174;0.04;0.41;N;K
+33;25;SLD;Dziama Teresa Maria;201;0.05;0.48;N;K
+33;26;SLD;Bęben Małgorzata Barbara;133;0.03;0.32;N;K
+33;27;SLD;Osmoła Dorota;107;0.02;0.25;N;K
+33;28;SLD;Maciejski Stanisław;86;0.02;0.20;N;M
+33;29;SLD;Wasińska Urszula;197;0.05;0.47;N;K
+33;30;SLD;Wysocka Wioletta Elżbieta;174;0.04;0.41;N;K
+33;31;SLD;Malesza Agnieszka;226;0.05;0.54;N;K
+33;32;SLD;Sarnecka Magdalena Maria;634;0.15;1.51;N;K
+33;1;PSL;Jarubas Adam Sebastian;28750;6.64;33.59;T;M
+33;2;PSL;Pawlak Mirosław Antoni;6317;1.46;7.38;T;M
+33;3;PSL;Górczyński Jarosław Jacek;4814;1.11;5.62;T;M
+33;4;PSL;Gos Marek;4131;0.95;4.83;N;M
+33;5;PSL;Żołądek Piotr Bogusław;2563;0.59;2.99;N;M
+33;6;PSL;Kotowski Kazimierz Jerzy;4022;0.93;4.70;N;M
+33;7;PSL;Muzoł Małgorzata;2208;0.51;2.58;N;K
+33;8;PSL;Garczewski Romuald Zygmunt;2870;0.66;3.35;N;M
+33;9;PSL;Nagórny Ryszard;961;0.22;1.12;N;M
+33;10;PSL;Soboń Bogdan Marian;1883;0.43;2.20;N;M
+33;11;PSL;Kręcka Jolanta;2022;0.47;2.36;N;K
+33;12;PSL;Gierada Bogdan Kazimierz;2451;0.57;2.86;N;M
+33;13;PSL;Dziubek Grzegorz Artur;2504;0.58;2.93;N;M
+33;14;PSL;Kobierski Zdzisław;681;0.16;0.80;N;M
+33;15;PSL;Kędzierska Magdalena Dorota;1166;0.27;1.36;N;K
+33;16;PSL;Stoksik Adam Ludwik;2616;0.60;3.06;N;M
+33;17;PSL;Moskwa Jan;1023;0.24;1.20;N;M
+33;18;PSL;Gajewski Krzysztof Marian;1257;0.29;1.47;N;M
+33;19;PSL;Adamczyk Maria Janina;1023;0.24;1.20;N;K
+33;20;PSL;Przybylski Wojciech Antoni;1588;0.37;1.86;N;M
+33;21;PSL;Skotnicki Michał Tomasz;1499;0.35;1.75;N;M
+33;22;PSL;Słonina Joanna Katarzyna;833;0.19;0.97;N;K
+33;23;PSL;Rybczyk Jolanta Halina;696;0.16;0.81;N;K
+33;24;PSL;Niedzielska Iwona Mariola;242;0.06;0.28;N;K
+33;25;PSL;Jaros-Urbaniak Anna Teresa;299;0.07;0.35;N;K
+33;26;PSL;Kolarz Jerzy Adam;1696;0.39;1.98;N;M
+33;27;PSL;Popczyk-Fiecek Wanda Anna;221;0.05;0.26;N;K
+33;28;PSL;Stanioch Małgorzata Maria;999;0.23;1.17;N;K
+33;29;PSL;Szymańska Małgorzata Ewa;675;0.16;0.79;N;K
+33;30;PSL;Masternak Stanisław Kazimierz;1952;0.45;2.28;N;M
+33;31;PSL;Cymerys Kazimierz Tadeusz;809;0.19;0.95;N;M
+33;32;PSL;Oczkowicz Beata;819;0.19;0.96;N;K
+33;1;PO;Okła-Drewnowicz Marzena;34745;8.03;31.61;T;K
+33;2;PO;Miodowicz Konstanty Bronisław;14202;3.28;12.92;T;M
+33;3;PO;Pacelt Zbigniew;8842;2.04;8.04;T;M
+33;4;PO;Gierada Artur Daniel;11679;2.70;10.63;T;M
+33;5;PO;Irla Jadwiga Józefa;3183;0.74;2.90;N;K
+33;6;PO;Pietrzczyk Lucjan Marek;6057;1.40;5.51;T;M
+33;7;PO;Suchański Jerzy Zdzisław;3570;0.82;3.25;N;M
+33;8;PO;Capała Tomasz Jarosław;2260;0.52;2.06;N;M
+33;9;PO;Niżyński Krzysztof Andrzej;2416;0.56;2.20;N;M
+33;10;PO;Janik Renata Urszula;3621;0.84;3.29;N;K
+33;11;PO;Schwerzler Karina Anna;2921;0.67;2.66;N;K
+33;12;PO;Gosek Agnieszka Barbara;1038;0.24;0.94;N;K
+33;13;PO;Bodzioch Adam Andrzej;1101;0.25;1.00;N;M
+33;14;PO;Bryk Józef;1058;0.24;0.96;N;M
+33;15;PO;Modras Małgorzata Ewa;442;0.10;0.40;N;K
+33;16;PO;Jarosz Karolina Dominika;1311;0.30;1.19;N;K
+33;17;PO;Radłowska-Raban Małgorzata Ewa;1036;0.24;0.94;N;K
+33;18;PO;Jedliński Marek Paweł;255;0.06;0.23;N;M
+33;19;PO;Radlak Sławomir;369;0.09;0.34;N;M
+33;20;PO;Zielonka Jolanta Ewa;598;0.14;0.54;N;K
+33;21;PO;Kański Artur Józef;510;0.12;0.46;N;M
+33;22;PO;Grzesiak-Witek Danuta;605;0.14;0.55;N;K
+33;23;PO;Michalska Marzena Marta;800;0.18;0.73;N;K
+33;24;PO;Kiejzik-Wegener Wanda;284;0.07;0.26;N;K
+33;25;PO;Szczypiór Krzysztof Antoni;409;0.09;0.37;N;M
+33;26;PO;Staciwa Sławomir Witold;1593;0.37;1.45;N;M
+33;27;PO;Mik Janusz Sylwester;389;0.09;0.35;N;M
+33;28;PO;Woźniak Michał Paweł;378;0.09;0.34;N;M
+33;29;PO;Pierzak Ryszard;517;0.12;0.47;N;M
+33;30;PO;Pytlak Wiktor;268;0.06;0.24;N;M
+33;31;PO;Zych Tomasz Władysław;1228;0.28;1.12;N;M
+33;32;PO;Marczewska Marzena Anna;2231;0.52;2.03;N;K
+34;1;PiS;Krasulski Leonard Seweryn;12790;6.54;28.17;T;M
+34;2;PiS;Kulczyk Joanna;5329;2.72;11.74;N;K
+34;3;PiS;Babalski Zbigniew;7217;3.69;15.90;T;M
+34;4;PiS;Necio Jerzy;1063;0.54;2.34;N;M
+34;5;PiS;Kobryń-Szczepańska Dorota;1298;0.66;2.86;N;K
+34;6;PiS;Polański Marek Józef;2631;1.34;5.79;N;M
+34;7;PiS;Koniecko Adam;1468;0.75;3.23;N;M
+34;8;PiS;Nawrocki Przemysław Aleksander;926;0.47;2.04;N;M
+34;9;PiS;Ołdakowski Adam;3487;1.78;7.68;N;M
+34;10;PiS;Kielak Danuta;1725;0.88;3.80;N;K
+34;11;PiS;Straus Adam;796;0.41;1.75;N;M
+34;12;PiS;Motyka-Kozioł Karolina;592;0.30;1.30;N;K
+34;13;PiS;Waszczak Renata Magdalena;986;0.50;2.17;N;K
+34;14;PiS;Ulewicz Andrzej;325;0.17;0.72;N;M
+34;15;PiS;Wrońska Anna Weronika;1748;0.89;3.85;N;K
+34;16;PiS;Sadowski Jan Adam;3022;1.54;6.66;N;M
+34;1;SLD;Mańkut Władysław;4838;2.47;32.06;N;M
+34;2;SLD;Janczuk Danuta Anna;1659;0.85;10.99;N;K
+34;3;SLD;Bojko Edward;2003;1.02;13.27;N;M
+34;4;SLD;Sowicka Małgorzata Dorota;1538;0.79;10.19;N;K
+34;5;SLD;Przyborowski Wincenty Marian;633;0.32;4.19;N;M
+34;6;SLD;Galikowska Anna Justyna;420;0.21;2.78;N;K
+34;7;SLD;Bubeła Jerzy;419;0.21;2.78;N;M
+34;8;SLD;Nadarzewska Ludmiła Małgorzata;386;0.20;2.56;N;K
+34;9;SLD;Jóźwiak Grażyna;340;0.17;2.25;N;K
+34;10;SLD;Wierzbowska Magdalena;441;0.23;2.92;N;K
+34;11;SLD;Głowacki Zbigniew Alojzy;346;0.18;2.29;N;M
+34;12;SLD;Wiśniewski Adam Zygmunt;338;0.17;2.24;N;M
+34;13;SLD;Mazurkiewicz Edwarda Michalina;289;0.15;1.92;N;K
+34;14;SLD;Józefiak Jerzy Marian;103;0.05;0.68;N;M
+34;15;SLD;Esden-Tempska Katarzyna Daria;241;0.12;1.60;N;K
+34;16;SLD;Dziewałtowski-Gintowt Juliusz;1097;0.56;7.27;N;M
+34;1;PSL;Żelichowski Stanisław;6458;3.30;27.05;T;M
+34;2;PSL;Szulc Jolanta Elżbieta;2261;1.16;9.47;N;K
+34;3;PSL;Brzezin Gustaw Marek;2656;1.36;11.13;N;M
+34;4;PSL;Wróblewski Witold Marek;846;0.43;3.54;N;M
+34;5;PSL;Kunicka Danuta;3724;1.90;15.60;N;K
+34;6;PSL;Mroziński Henryk;1644;0.84;6.89;N;M
+34;7;PSL;Przewłocka Beata Maria;160;0.08;0.67;N;K
+34;8;PSL;Zieliński Artur;343;0.18;1.44;N;M
+34;9;PSL;Kasprowicz Zygmunt;542;0.28;2.27;N;M
+34;10;PSL;Ziejewski Zbigniew;2067;1.06;8.66;N;M
+34;11;PSL;Kozioł Małgorzata Krystyna;278;0.14;1.16;N;K
+34;12;PSL;Piechota Irena;357;0.18;1.50;N;K
+34;13;PSL;Zabłocki Wojciech;573;0.29;2.40;N;M
+34;14;PSL;Głowacz Bogdan Jan;866;0.44;3.63;N;M
+34;15;PSL;Chrościcka Beata Lidia;252;0.13;1.06;N;K
+34;16;PSL;Nowakowska Teresa;843;0.43;3.53;N;K
+34;1;PO;Rybicki Sławomir Piotr;13644;6.97;16.46;T;M
+34;2;PO;Cieśliński Piotr;15547;7.95;18.75;T;M
+34;3;PO;Gelert Elżbieta Kazimiera;15901;8.13;19.18;T;K
+34;4;PO;Harmaciński Krzysztof;4402;2.25;5.31;N;M
+34;5;PO;Rymarska-Pszenna Maria Bernadeta;1433;0.73;1.73;N;K
+34;6;PO;Sycz Miron;8884;4.54;10.72;T;M
+34;7;PO;Naguszewski Tadeusz;3850;1.97;4.64;N;M
+34;8;PO;Żyliński Adam Jacek;6588;3.37;7.95;N;M
+34;9;PO;Dembek Ewa Barbara;2875;1.47;3.47;N;K
+34;10;PO;Dziąg Leszek Jan;1361;0.70;1.64;N;M
+34;11;PO;Korzeniewska-Lasota Anna;1312;0.67;1.58;N;K
+34;12;PO;Wilczak Małgorzata Magdalena;1066;0.54;1.29;N;K
+34;13;PO;Hoch Henryk Paweł;1541;0.79;1.86;N;M
+34;14;PO;Grodowska Alicja;1351;0.69;1.63;N;K
+34;15;PO;Romanowski Jerzy;1220;0.62;1.47;N;M
+34;16;PO;Ostrowski Witold;1929;0.99;2.33;N;M
+35;1;PiS;Szmit Jerzy;17234;6.63;28.73;T;M
+35;2;PiS;Arent Iwona Ewa;11955;4.60;19.93;T;K
+35;3;PiS;Opara Jakub Marcin;5730;2.20;9.55;N;M
+35;4;PiS;Kossakowski Wojciech;5548;2.13;9.25;N;M
+35;5;PiS;Małecki Jerzy Wojciech;3259;1.25;5.43;N;M
+35;6;PiS;Olbryś Szczepan Tadeusz;1998;0.77;3.33;N;M
+35;7;PiS;Krajewska Teresa;2505;0.96;4.18;N;K
+35;8;PiS;Plawgo Tadeusz;1115;0.43;1.86;N;M
+35;9;PiS;Kunda Jerzy;1424;0.55;2.37;N;M
+35;10;PiS;Krzyżewska Ewa;1436;0.55;2.39;N;K
+35;11;PiS;Kochanowski Michał;1197;0.46;2.00;N;M
+35;12;PiS;Senda Grażyna Barbara;1016;0.39;1.69;N;K
+35;13;PiS;Ołyński Waldemar;261;0.10;0.44;N;M
+35;14;PiS;Wiszowaty Zbigniew Grzegorz;1172;0.45;1.95;N;M
+35;15;PiS;Krysiuk Bożenna Halina;385;0.15;0.64;N;K
+35;16;PiS;Ragin-Mic Danuta;217;0.08;0.36;N;K
+35;17;PiS;Maciejewski Andrzej;492;0.19;0.82;N;M
+35;18;PiS;Rusinowski Grzegorz Józef;445;0.17;0.74;N;M
+35;19;PiS;Ulewicz Bożenna;2607;1.00;4.35;N;K
+35;1;SLD;Iwiński Tadeusz;11025;4.24;47.89;T;M
+35;2;SLD;Kijowski Janusz Józef;966;0.37;4.20;N;M
+35;3;SLD;Łapińska Krystyna Nina;1324;0.51;5.75;N;K
+35;4;SLD;Czepułkowski Jerzy Mieczysław;1739;0.67;7.55;N;M
+35;5;SLD;Iwaszkiewicz Wojciech Karol;887;0.34;3.85;N;M
+35;6;SLD;Koziński Janusz;616;0.24;2.68;N;M
+35;7;SLD;Kacprzycki Krzysztof;623;0.24;2.71;N;M
+35;8;SLD;Chrostowska Teresa Anna;627;0.24;2.72;N;K
+35;9;SLD;Rutkowska Elżbieta;434;0.17;1.89;N;K
+35;10;SLD;Aszkiełowicz Mieczysław;414;0.16;1.80;N;M
+35;11;SLD;Dawcewicz Barbara;415;0.16;1.80;N;K
+35;12;SLD;Sulewski Andrzej Sylwester;160;0.06;0.70;N;M
+35;13;SLD;Moszczyńska Izabela;247;0.09;1.07;N;K
+35;14;SLD;Tobolska Katarzyna;164;0.06;0.71;N;K
+35;15;SLD;Konieczko Emilia Natalia;265;0.10;1.15;N;K
+35;16;SLD;Wąsowicz Anna;171;0.07;0.74;N;K
+35;17;SLD;Walewski Bartosz Jan;165;0.06;0.72;N;M
+35;18;SLD;Jurgielewicz Magdalena;288;0.11;1.25;N;K
+35;19;SLD;Stosio Zofia;192;0.07;0.83;N;K
+35;20;SLD;Ryński Andrzej Wiesław;2298;0.88;9.98;N;M
+35;1;PSL;Włodkowski Zbigniew;8131;3.13;26.47;T;M
+35;2;PSL;Podziewski Marian Tadeusz;5329;2.05;17.35;N;M
+35;3;PSL;Pasławska Urszula Stefania;5022;1.93;16.35;N;K
+35;4;PSL;Sieroński Andrzej Włodzimierz;794;0.31;2.59;N;M
+35;5;PSL;Jaskulska Sylwia Monika;1829;0.70;5.96;N;K
+35;6;PSL;Faj Halina Irena;837;0.32;2.73;N;K
+35;7;PSL;Obara Bożenna Maria;490;0.19;1.60;N;K
+35;8;PSL;Tokarzewski Eugeniusz;279;0.11;0.91;N;M
+35;9;PSL;Kapla Kazimierz;294;0.11;0.96;N;M
+35;10;PSL;Doraczyńska Beata;1393;0.54;4.54;N;K
+35;11;PSL;Bronakowska Elżbieta Anna;443;0.17;1.44;N;K
+35;12;PSL;Adamczyk Marcin Krzysztof;887;0.34;2.89;N;M
+35;13;PSL;Mróz Katarzyna;601;0.23;1.96;N;K
+35;14;PSL;Sobotko Andrzej;569;0.22;1.85;N;M
+35;15;PSL;Malec Teresa Czesława;230;0.09;0.75;N;K
+35;16;PSL;Biegańska Bożena;576;0.22;1.88;N;K
+35;17;PSL;Trzaskowski Stanisław Grzegorz;857;0.33;2.79;N;M
+35;18;PSL;Jankowski Jacek;359;0.14;1.17;N;M
+35;19;PSL;Polkowski Antoni;622;0.24;2.03;N;M
+35;20;PSL;Strażewicz Wacław Jan;1171;0.45;3.81;N;M
+35;1;PO;Bublewicz Beata Maria;23262;8.95;21.44;T;K
+35;2;PO;Orzechowski Andrzej;12046;4.63;11.10;T;M
+35;3;PO;Staroń Lidia Ewa;16091;6.19;14.83;T;K
+35;4;PO;Cichoń Janusz Władysław;13902;5.35;12.81;T;M
+35;5;PO;Koch Eugeniusz Kazimierz;4530;1.74;4.17;N;M
+35;6;PO;Ciunel Halina Teresa;2722;1.05;2.51;N;K
+35;7;PO;Osiecki Julian;4063;1.56;3.74;N;M
+35;8;PO;Pampuch Mirosław Józef;3554;1.37;3.27;N;M
+35;9;PO;Piotrowska Jolanta;5669;2.18;5.22;N;K
+35;10;PO;Zarzecki Jacek;1168;0.45;1.08;N;M
+35;11;PO;Bogdanowicz-Kordjak Ewa;898;0.35;0.83;N;K
+35;12;PO;Galibarczyk Marcin Grzegorz;450;0.17;0.41;N;M
+35;13;PO;Anchim Władysław;1104;0.42;1.02;N;M
+35;14;PO;Bojarska Wiesława Alicja;2469;0.95;2.28;N;K
+35;15;PO;Minko Leszek Jerzy;240;0.09;0.22;N;M
+35;16;PO;Łępicka-Gij Monika;1378;0.53;1.27;N;K
+35;17;PO;Sikora Danuta Maria;753;0.29;0.69;N;K
+35;18;PO;Papke Paweł;10132;3.90;9.34;T;M
+35;19;PO;Makarewicz Grzegorz;1486;0.57;1.37;N;M
+35;20;PO;Ciborowska Danuta;2605;1.00;2.40;N;K
+36;1;PiS;Waśko Andrzej Marian;7677;2.27;9.35;N;M
+36;2;PiS;Rogacki Adam Maksym;14903;4.40;18.15;T;M
+36;3;PiS;Dziedziczak Jan Michał;15954;4.71;19.43;T;M
+36;4;PiS;Dera Andrzej Mikołaj;17606;5.20;21.44;T;M
+36;5;PiS;Czechak Lidia;5236;1.55;6.38;N;K
+36;6;PiS;Psikus Piotr Paweł;4032;1.19;4.91;N;M
+36;7;PiS;Szymoniak Czesław Jan;3559;1.05;4.33;N;M
+36;8;PiS;Skrzypczak Andrzej Stanisław;1228;0.36;1.50;N;M
+36;9;PiS;Stankiewicz Arkadiusz Andrzej;607;0.18;0.74;N;M
+36;10;PiS;Grzebisz Antoni Maciej;1285;0.38;1.56;N;M
+36;11;PiS;Małecki Damian;908;0.27;1.11;N;M
+36;12;PiS;Lehmann Zdzisława;929;0.27;1.13;N;K
+36;13;PiS;Hemmerling Stanisław Adam;572;0.17;0.70;N;M
+36;14;PiS;Sokalla Grażyna Teresa;435;0.13;0.53;N;K
+36;15;PiS;Wosińska Joanna Elżbieta;830;0.24;1.01;N;K
+36;16;PiS;Kieres Aleksandra;850;0.25;1.04;N;K
+36;17;PiS;Piotrowski Roman;518;0.15;0.63;N;M
+36;18;PiS;Kordos Hubert Remigiusz;195;0.06;0.24;N;M
+36;19;PiS;Herczak-Wojtaszek Małgorzata;281;0.08;0.34;N;K
+36;20;PiS;Pokojowa Natalia Danuta;794;0.23;0.97;N;K
+36;21;PiS;Olszak Aneta Kazimiera;777;0.23;0.95;N;K
+36;22;PiS;Reszel Renata Magdalena;887;0.26;1.08;N;K
+36;23;PiS;Cebulski Bogusław Janusz;2051;0.61;2.50;N;M
+36;1;SLD;Aleksandrzak Leszek Grzegorz;9941;2.93;24.70;T;M
+36;2;SLD;Szczepański Wiesław Andrzej;8250;2.44;20.50;N;M
+36;3;SLD;Witkowska Zofia;4373;1.29;10.86;N;K
+36;4;SLD;Jędrzejak Włodzimierz Kazimierz;3326;0.98;8.26;N;M
+36;5;SLD;Pawliczak Karolina Monika;1380;0.41;3.43;N;K
+36;6;SLD;Ząbczyńska Teresa;669;0.20;1.66;N;K
+36;7;SLD;Kwiatoń Krzysztof Michał;346;0.10;0.86;N;M
+36;8;SLD;Mroziński Andrzej Piotr;976;0.29;2.42;N;M
+36;9;SLD;Michalak-Piękna Marzena;593;0.18;1.47;N;K
+36;10;SLD;Chołody Artur;3967;1.17;9.86;N;M
+36;11;SLD;Mueller Mirosława Gabryela;390;0.12;0.97;N;K
+36;12;SLD;Nowaczyk Ryszard Stanisław;501;0.15;1.24;N;M
+36;13;SLD;Stachowiak Arkadiusz;383;0.11;0.95;N;M
+36;14;SLD;Majewska Kamila Manuela;1146;0.34;2.85;N;K
+36;15;SLD;Grygier Tadeusz Józef;337;0.10;0.84;N;M
+36;16;SLD;Jakubek Daria Dorota;379;0.11;0.94;N;K
+36;17;SLD;Osiejewska Urszula;263;0.08;0.65;N;K
+36;18;SLD;Humelt Bożena Maria;311;0.09;0.77;N;K
+36;19;SLD;Marciniak Krzysztof;355;0.10;0.88;N;M
+36;20;SLD;Grochowski Tomasz Andrzej;479;0.14;1.19;N;M
+36;21;SLD;Decker Magdalena Maria;327;0.10;0.81;N;K
+36;22;SLD;Jańczak Marian Józef;578;0.17;1.44;N;M
+36;23;SLD;Baron Katarzyna Beata;355;0.10;0.88;N;K
+36;24;SLD;Cierniewski Jacek Stanisław;625;0.18;1.55;N;M
+36;1;PSL;Racki Józef;6179;1.82;14.28;T;M
+36;2;PSL;Walkowski Piotr;6331;1.87;14.63;T;M
+36;3;PSL;Pacia Przemysław Jan;2778;0.82;6.42;N;M
+36;4;PSL;Górczyńska Maria Jolanta;3517;1.04;8.13;N;K
+36;5;PSL;Smektała Magdalena Maria;872;0.26;2.01;N;K
+36;6;PSL;Grzesiek Jan;4100;1.21;9.47;N;M
+36;7;PSL;Szczotka Stanisław;3190;0.94;7.37;N;M
+36;8;PSL;Mickiewicz Adam;1238;0.37;2.86;N;M
+36;9;PSL;Baliński Stanisław;1200;0.35;2.77;N;M
+36;10;PSL;Kinal Dorota Katarzyna;734;0.22;1.70;N;K
+36;11;PSL;Chudy Kazimierz;1684;0.50;3.89;N;M
+36;12;PSL;Różalska Magdalena Danuta;462;0.14;1.07;N;K
+36;13;PSL;Kubiak Andrzej;1645;0.49;3.80;N;M
+36;14;PSL;Wawrzyniak Jarosław Maciej;456;0.13;1.05;N;M
+36;15;PSL;Kiełbasa Renata Zofia;315;0.09;0.73;N;K
+36;16;PSL;Zdunek Marek;2060;0.61;4.76;N;M
+36;17;PSL;Wizner Katarzyna Elżbieta;439;0.13;1.01;N;K
+36;18;PSL;Turski Bernard;1051;0.31;2.43;N;M
+36;19;PSL;Głuszyńska Małgorzata Natalia;334;0.10;0.77;N;K
+36;20;PSL;Luty Eugeniusz Marian;497;0.15;1.15;N;M
+36;21;PSL;Grygier Natalia Karolina;539;0.16;1.25;N;K
+36;22;PSL;Ptak Maksymilian;1529;0.45;3.53;N;M
+36;23;PSL;Lis Anna;1152;0.34;2.66;N;K
+36;24;PSL;Wojciechowski Michał Kazimierz;976;0.29;2.26;N;M
+36;1;PO;Witczak Mariusz Sebastian;31263;9.23;24.89;T;M
+36;2;PO;Adamczak Małgorzata;18119;5.35;14.43;T;K
+36;3;PO;Borowiak Łukasz;11545;3.41;9.19;T;M
+36;4;PO;Orzechowski Maciej Bolesław;14123;4.17;11.24;T;M
+36;5;PO;Henczyca Bożena Katarzyna;3199;0.94;2.55;N;K
+36;6;PO;Ziemniak Wojciech Stanisław;12713;3.75;10.12;T;M
+36;7;PO;Krysztofiak Przemysław Walenty;9004;2.66;7.17;N;M
+36;8;PO;Fedorowicz Sławomira Barbara;1518;0.45;1.21;N;K
+36;9;PO;Szałkowska Hanna Jadwiga;2016;0.60;1.61;N;K
+36;10;PO;Suchanecki Mariusz Grzegorz;2834;0.84;2.26;N;M
+36;11;PO;Sitnicki Marcin Piotr;2155;0.64;1.72;N;M
+36;12;PO;Orszulak Tymoteusz;617;0.18;0.49;N;M
+36;13;PO;Kamińska Iwona Helena;2159;0.64;1.72;N;K
+36;14;PO;Listwoń Michał Eugeniusz;1247;0.37;0.99;N;M
+36;15;PO;Czarnota Mariola;1067;0.31;0.85;N;K
+36;16;PO;Sachowska-Barańczak Honorata Agnieszka;736;0.22;0.59;N;K
+36;17;PO;Duda Grzegorz Józef;1806;0.53;1.44;N;M
+36;18;PO;Wodzińska Marzena Renata;1287;0.38;1.02;N;K
+36;19;PO;Węglarz Janina;720;0.21;0.57;N;K
+36;20;PO;Mazurek Maria Bronisława;825;0.24;0.66;N;K
+36;21;PO;Solecki Michał;2300;0.68;1.83;N;M
+36;22;PO;Sikora Paweł Marek;1131;0.33;0.90;N;M
+36;23;PO;Michałkiewicz Honorata Maria;870;0.26;0.69;N;K
+36;24;PO;Dworzyński Andrzej Jacek;2342;0.69;1.86;N;M
+37;1;PiS;Czarnecki Witold Wojciech;10201;3.89;14.21;T;M
+37;2;PiS;Hofman Adam Andrzej;24047;9.18;33.49;T;M
+37;3;PiS;Dolata Zbigniew;11939;4.56;16.63;T;M
+37;4;PiS;Budner Alfred Józef;3546;1.35;4.94;N;M
+37;5;PiS;Itman Zofia Mariola;1208;0.46;1.68;N;K
+37;6;PiS;Bartosik Ryszard;4274;1.63;5.95;N;M
+37;7;PiS;Ostrowski Krzysztof Jan;5397;2.06;7.52;N;M
+37;8;PiS;Dąbrowska Teresa Jadwiga;1373;0.52;1.91;N;K
+37;9;PiS;Cichońska Alicja Maria;960;0.37;1.34;N;K
+37;10;PiS;Matelski Michał;1552;0.59;2.16;N;M
+37;11;PiS;Miernik Waldemar;569;0.22;0.79;N;M
+37;12;PiS;Stępiński Jan;952;0.36;1.33;N;M
+37;13;PiS;Kasierska Mariola Teresa;401;0.15;0.56;N;K
+37;14;PiS;Pszczółkowska Joanna;665;0.25;0.93;N;K
+37;15;PiS;Kubiak Marek;1420;0.54;1.98;N;M
+37;16;PiS;Marciniak Waldemar;803;0.31;1.12;N;M
+37;17;PiS;Pieczykolan Alicja;352;0.13;0.49;N;K
+37;18;PiS;Zając Maria Sławomira;2136;0.82;2.98;N;K
+37;1;SLD;Naczas Łukasz Piotr;3949;1.51;11.52;N;M
+37;2;SLD;Streker-Dembińska Elżbieta;6566;2.51;19.15;N;K
+37;3;SLD;Tomaszewski Tadeusz;11267;4.30;32.86;T;M
+37;4;SLD;Marczewski Marian Mirosław;3243;1.24;9.46;N;M
+37;5;SLD;Taciak Maria;1616;0.62;4.71;N;K
+37;6;SLD;Kujawa Karol;1432;0.55;4.18;N;M
+37;7;SLD;Mieloch Piotr Marek;1170;0.45;3.41;N;M
+37;8;SLD;Siczyński Eugeniusz Ludwik;507;0.19;1.48;N;M
+37;9;SLD;Kozłowska Mariola Barbara;563;0.21;1.64;N;K
+37;10;SLD;Kruczkowska Agnieszka Marta;420;0.16;1.22;N;K
+37;11;SLD;Daszkiewicz Anna;379;0.14;1.11;N;K
+37;12;SLD;Barc Zbigniew;316;0.12;0.92;N;M
+37;13;SLD;Iwińska Izabela Elżbieta;495;0.19;1.44;N;K
+37;14;SLD;Slanina Jacek Mariusz;712;0.27;2.08;N;M
+37;15;SLD;Surowiec Czesław;302;0.12;0.88;N;M
+37;16;SLD;Bekas Arleta Maria;280;0.11;0.82;N;K
+37;17;SLD;Grzelak Łukasz Sławomir;508;0.19;1.48;N;M
+37;18;SLD;Borycki Roman;564;0.22;1.64;N;M
+37;1;PSL;Grzeszczak Eugeniusz Tomasz;9648;3.68;28.72;T;M
+37;2;PSL;Tomicki Marek Stanisław;2592;0.99;7.72;N;M
+37;3;PSL;Kaźmierczak Mirosława Katarzyna;1869;0.71;5.56;N;K
+37;4;PSL;Wróbel Maria;1491;0.57;4.44;N;K
+37;5;PSL;Cieślak Czesław;6272;2.39;18.67;N;M
+37;6;PSL;Łykowski Piotr;1452;0.55;4.32;N;M
+37;7;PSL;Toboła Paweł Tadeusz;1647;0.63;4.90;N;M
+37;8;PSL;Seńko Mariusz Krzysztof;2027;0.77;6.03;N;M
+37;9;PSL;Bielik Stanisław Adam;1144;0.44;3.41;N;M
+37;10;PSL;Maciejewska-Olejniczak Emilia Katarzyna;621;0.24;1.85;N;K
+37;11;PSL;Maciejewski Stanisław;579;0.22;1.72;N;M
+37;12;PSL;Grychowska Danuta Elżbieta;1016;0.39;3.02;N;K
+37;13;PSL;Dębowski Zdzisław Edward;197;0.08;0.59;N;M
+37;14;PSL;Eicke Anna Wanda;442;0.17;1.32;N;K
+37;15;PSL;Janicki Andrzej;677;0.26;2.02;N;M
+37;16;PSL;Mizgalska Anna Maria;665;0.25;1.98;N;K
+37;17;PSL;Jackowski Jacek;250;0.10;0.74;N;M
+37;18;PSL;Osiwała Małgorzata;1001;0.38;2.98;N;K
+37;1;PO;Nowak Tomasz Piotr;24346;9.30;30.11;T;M
+37;2;PO;Tomaszak-Zesiuk Irena Barbara;8546;3.26;10.57;N;K
+37;3;PO;Arndt Paweł Antoni;12627;4.82;15.62;T;M
+37;4;PO;Poślednia Krystyna;8714;3.33;10.78;T;K
+37;5;PO;Wachowiak Szymon;4633;1.77;5.73;N;M
+37;6;PO;Miszczak Jadwiga;1792;0.68;2.22;N;K
+37;7;PO;Świdurska Maria Mirosława;2058;0.79;2.55;N;K
+37;8;PO;Lorek Sławomir Józef;4463;1.70;5.52;N;M
+37;9;PO;Wojciechowski Mateusz Sławomir;1339;0.51;1.66;N;M
+37;10;PO;Żok Krystyna Teresa;1640;0.63;2.03;N;K
+37;11;PO;Jankowiak Waldemar;565;0.22;0.70;N;M
+37;12;PO;Popek Rafał;893;0.34;1.10;N;M
+37;13;PO;Pilarski Ryszard;1379;0.53;1.71;N;M
+37;14;PO;Raźna Elżbieta Maria;1001;0.38;1.24;N;K
+37;15;PO;Tylman Jakub;963;0.37;1.19;N;M
+37;16;PO;Mazurkiewicz Krzysztof Marceli;1577;0.60;1.95;N;M
+37;17;PO;Jasińska Mariola;1824;0.70;2.26;N;K
+37;18;PO;Wieliński Bartosz Mateusz;2497;0.95;3.09;N;M
+38;1;PiS;Szałamacha Paweł Włodzimierz;12009;4.62;24.01;T;M
+38;2;PiS;Kraczkowski Maks;10389;4.00;20.77;T;M
+38;3;PiS;Czarnecki Krzysztof Władysław;6111;2.35;12.22;N;M
+38;4;PiS;Podmokły Jerzy;4510;1.73;9.02;N;M
+38;5;PiS;Sobota Halina Teresa;2220;0.85;4.44;N;K
+38;6;PiS;Usidus Paweł;788;0.30;1.58;N;M
+38;7;PiS;Chmielewska Agnieszka Ewa;1900;0.73;3.80;N;K
+38;8;PiS;Żółć Witold;1096;0.42;2.19;N;M
+38;9;PiS;Mateja Natalia Weronika;2196;0.84;4.39;N;K
+38;10;PiS;Tadej Stanisław Piotr;917;0.35;1.83;N;M
+38;11;PiS;Jaśkowiak Dorota Justyna;1174;0.45;2.35;N;K
+38;12;PiS;Borsukiewicz Piotr;961;0.37;1.92;N;M
+38;13;PiS;Kołos Józef;536;0.21;1.07;N;M
+38;14;PiS;Hermann Jadwiga Teresa;664;0.26;1.33;N;K
+38;15;PiS;Krzywoszyńska-Urban Dorota Maria;501;0.19;1.00;N;K
+38;16;PiS;Królik Michał Andrzej;792;0.30;1.58;N;M
+38;17;PiS;Bosak Zdzisława Maria;1071;0.41;2.14;N;K
+38;18;PiS;Klimko Jan;2188;0.84;4.37;N;M
+38;1;SLD;Ajchler Romuald Kazimierz;9362;3.60;31.59;T;M
+38;2;SLD;Stec Stanisław;5740;2.21;19.37;N;M
+38;3;SLD;Partyka Leszek Wojciech;2127;0.82;7.18;N;M
+38;4;SLD;Jaskólski Mirosław Stanisław;2663;1.02;8.99;N;M
+38;5;SLD;Gularek Aleksandra;728;0.28;2.46;N;K
+38;6;SLD;Nowaczyk Wojciech Grzegorz;1058;0.41;3.57;N;M
+38;7;SLD;Matczyńska-Nowak Hanna Maria;557;0.21;1.88;N;K
+38;8;SLD;Grott Wiesław Tadeusz;511;0.20;1.72;N;M
+38;9;SLD;Łęgosz Ewa;484;0.19;1.63;N;K
+38;10;SLD;Jopek Józef;1021;0.39;3.44;N;M
+38;11;SLD;Stoll Dariusz Kazimierz;381;0.15;1.29;N;M
+38;12;SLD;Podgórna-Klocek Małgorzata;375;0.14;1.27;N;K
+38;13;SLD;Musiał Janina;1051;0.40;3.55;N;K
+38;14;SLD;Kowalska Teresa Janina;262;0.10;0.88;N;K
+38;15;SLD;Perz-Kałużny Karolina;220;0.08;0.74;N;K
+38;16;SLD;Grabis Elżbieta;238;0.09;0.80;N;K
+38;17;SLD;Lipińska Grażyna Leokadia;506;0.19;1.71;N;K
+38;18;SLD;Cukier Adam Roman;2354;0.91;7.94;N;M
+38;1;PSL;Kalemba Stanisław;10597;4.08;33.97;T;M
+38;2;PSL;Lewandowski Józef;1844;0.71;5.91;N;M
+38;3;PSL;Szalczyk Zofia Barbara;2450;0.94;7.85;N;K
+38;4;PSL;Harbuzińska-Turek Jadwiga Teresa;1120;0.43;3.59;N;K
+38;5;PSL;Wita Andrzej;2237;0.86;7.17;N;M
+38;6;PSL;Rydzewska Anna Stanisława;2813;1.08;9.02;N;K
+38;7;PSL;Kwaśniewicz Józef Kazimierz;1498;0.58;4.80;N;M
+38;8;PSL;Białoskórski Janusz Antoni;1023;0.39;3.28;N;M
+38;9;PSL;Nowicka Anna;892;0.34;2.86;N;K
+38;10;PSL;Kranc Tomasz Bronisław;1443;0.56;4.63;N;M
+38;11;PSL;Łochowicz Leszek Roman;1489;0.57;4.77;N;M
+38;12;PSL;Michalska Anna;534;0.21;1.71;N;K
+38;13;PSL;Kliber Elżbieta;355;0.14;1.14;N;K
+38;14;PSL;Graczyk Jan Stefan;551;0.21;1.77;N;M
+38;15;PSL;Gaweł Anna;460;0.18;1.47;N;K
+38;16;PSL;Kostera-Kaniecka Maria;785;0.30;2.52;N;K
+38;17;PSL;Drzymała Mateusz;430;0.17;1.38;N;M
+38;18;PSL;Pankowski Tadeusz;671;0.26;2.15;N;M
+38;1;PO;Szejnfeld Adam Stanisław;45764;17.60;40.42;T;M
+38;2;PO;Rutnicki Jakub Adam;19784;7.61;17.47;T;M
+38;3;PO;Janyska Maria Małgorzata;12132;4.67;10.71;T;K
+38;4;PO;Chmielewski Stanisław Marcin;5685;2.19;5.02;N;M
+38;5;PO;Wilkoszarska Krystyna;2333;0.90;2.06;N;K
+38;6;PO;Waśko Piotr Roman;4327;1.66;3.82;N;M
+38;7;PO;Poszwa Krzysztof;3929;1.51;3.47;N;M
+38;8;PO;Munyama Killion Munzele;7925;3.05;7.00;T;M
+38;9;PO;Pospieszna Anna Jadwiga;994;0.38;0.88;N;K
+38;10;PO;Roszyk Agnieszka;2295;0.88;2.03;N;K
+38;11;PO;Skrobisz Marta Diana;654;0.25;0.58;N;K
+38;12;PO;Mirowski Bartosz Dominik;674;0.26;0.60;N;M
+38;13;PO;Otto Romana Ewa;1499;0.58;1.32;N;K
+38;14;PO;Tomaszewska-Tomala Aleksandra Julianna;626;0.24;0.55;N;K
+38;15;PO;Łatka Jarosław;1368;0.53;1.21;N;M
+38;16;PO;Massel Eugenia Franciszka;227;0.09;0.20;N;K
+38;17;PO;Musiałowska Beata Magdalena;816;0.31;0.72;N;K
+38;18;PO;Kowalski Jacek Sławomir;2194;0.84;1.94;N;M
+39;1;PiS;Dziuba Tadeusz Antoni;28508;7.13;37.13;T;M
+39;2;PiS;Hoffmann Zbigniew Grzegorz;9164;2.29;11.94;N;M
+39;3;PiS;Spychalski Błażej Henryk;2997;0.75;3.90;N;M
+39;4;PiS;Przybylska Renata Barbara;3864;0.97;5.03;N;K
+39;5;PiS;Alexandrowicz Przemysław Józef;5908;1.48;7.70;N;M
+39;6;PiS;Jaroniec Aleksander Adam;799;0.20;1.04;N;M
+39;7;PiS;Czerwiński Zbigniew;3477;0.87;4.53;N;M
+39;8;PiS;Rdesiński Filip Michał;1622;0.41;2.11;N;M
+39;9;PiS;Nowak Barbara;1856;0.46;2.42;N;K
+39;10;PiS;Majchrzak Teresa Marianna;990;0.25;1.29;N;K
+39;11;PiS;Górski Tomasz Paweł;9197;2.30;11.98;T;M
+39;12;PiS;Kuleczka-Drausowska Ewa;818;0.20;1.07;N;K
+39;13;PiS;Foltyn Małgorzata Maria;1044;0.26;1.36;N;K
+39;14;PiS;Musiał Grzegorz Roman;806;0.20;1.05;N;M
+39;15;PiS;Jemielity Ewa Anna;561;0.14;0.73;N;K
+39;16;PiS;Nowak Izabela Monika;766;0.19;1.00;N;K
+39;17;PiS;Sieniawski Marek Włodzimierz;263;0.07;0.34;N;M
+39;18;PiS;Korcz Jolanta;1404;0.35;1.83;N;K
+39;19;PiS;Kucharski Dariusz Piotr;727;0.18;0.95;N;M
+39;20;PiS;Torz Zenon;2001;0.50;2.61;N;M
+39;1;SLD;Witkowski Waldemar Włodzimierz;3928;0.98;11.63;N;M
+39;2;SLD;Łybacka Krystyna Maria;16616;4.15;49.21;T;K
+39;3;SLD;Niedbała Marek Leon;4442;1.11;13.16;N;M
+39;4;SLD;Aumiller Andrzej Kordian;1163;0.29;3.44;N;M
+39;5;SLD;Dylewska - Światowiak Izabela;663;0.17;1.96;N;K
+39;6;SLD;Kretkowska Katarzyna Maria;1111;0.28;3.29;N;K
+39;7;SLD;Dobrowolski Jarosław Stanisław;971;0.24;2.88;N;M
+39;8;SLD;Zawada Zbigniew Tomasz;330;0.08;0.98;N;M
+39;9;SLD;Dutkiewicz Lucjan Gerard;508;0.13;1.50;N;M
+39;10;SLD;Urbańska Beata Kinga;384;0.10;1.14;N;K
+39;11;SLD;Janiszewski Arkady Piotr;190;0.05;0.56;N;M
+39;12;SLD;Stradowska-Adamska Bożena;256;0.06;0.76;N;K
+39;13;SLD;Suś Filip Marian;430;0.11;1.27;N;M
+39;14;SLD;Szczepaniak Paweł;235;0.06;0.70;N;M
+39;15;SLD;Kędziora Tatiana Maria;300;0.08;0.89;N;K
+39;16;SLD;Małecka Danuta;394;0.10;1.17;N;K
+39;17;SLD;Kosicki Franciszek;315;0.08;0.93;N;M
+39;18;SLD;Nowak Arkadiusz;158;0.04;0.47;N;M
+39;19;SLD;Koleśnik Natalia Joanna;273;0.07;0.81;N;K
+39;20;SLD;Lewandowski Tomasz Jacek;1097;0.27;3.25;N;M
+39;1;PSL;Jankowiak Wojciech;4204;1.05;35.15;N;M
+39;2;PSL;Błochowiak Arkadiusz Stanisław;903;0.23;7.55;N;M
+39;3;PSL;Jazic Jolanta;715;0.18;5.98;N;K
+39;4;PSL;Żurowska Magdalena Aleksandra;632;0.16;5.28;N;K
+39;5;PSL;Baumgart Marek Piotr;653;0.16;5.46;N;M
+39;6;PSL;Kałek Mirosław Włodzimierz;920;0.23;7.69;N;M
+39;7;PSL;Tomaszewski Zbigniew Eugeniusz;548;0.14;4.58;N;M
+39;8;PSL;Frąckowiak Szymon;450;0.11;3.76;N;M
+39;9;PSL;Jaworski Ryszard Zbigniew;173;0.04;1.45;N;M
+39;10;PSL;Tomczak Przemysław Marek;620;0.16;5.18;N;M
+39;11;PSL;Czeszewska Barbara Teresa;231;0.06;1.93;N;K
+39;12;PSL;Kaźmierczak Beata Maria;265;0.07;2.22;N;K
+39;13;PSL;Jankowski Krzysztof Mieczysław;155;0.04;1.30;N;M
+39;14;PSL;Ratajczak Małgorzata Barbara;246;0.06;2.06;N;K
+39;15;PSL;Wesołowski Artur Wiktor;110;0.03;0.92;N;M
+39;16;PSL;Michalska Małgorzata Anna;269;0.07;2.25;N;K
+39;17;PSL;Sokalski Piotr Paweł;65;0.02;0.54;N;M
+39;18;PSL;Poczta Eugeniusz;159;0.04;1.33;N;M
+39;19;PSL;Wojciechowski Konrad;147;0.04;1.23;N;M
+39;20;PSL;Lazar Sylwia Katarzyna;495;0.12;4.14;N;K
+39;1;PO;Grupiński Rafał Szymon;40510;10.13;18.38;T;M
+39;2;PO;Kozłowska-Rajewicz Agnieszka;27807;6.95;12.62;T;K
+39;3;PO;Dzikowski Waldy;54647;13.66;24.80;T;M
+39;4;PO;Lipiński Dariusz Tadeusz;8895;2.22;4.04;N;M
+39;5;PO;Szydłowska Bożena Stanisława;14352;3.59;6.51;T;K
+39;6;PO;Stuligrosz Michał;10692;2.67;4.85;N;M
+39;7;PO;Sokołowska Tatiana Marta;4528;1.13;2.05;N;K
+39;8;PO;Fiedler Arkady Elpidio;17467;4.37;7.93;T;M
+39;9;PO;Nowicka Maria Bożena;2716;0.68;1.23;N;K
+39;10;PO;Tomczak Jacek Jerzy;14547;3.64;6.60;T;M
+39;11;PO;Balicki Władysław Marian;2033;0.51;0.92;N;M
+39;12;PO;Janas Marta;2910;0.73;1.32;N;K
+39;13;PO;Król Dominika Urszula;2564;0.64;1.16;N;K
+39;14;PO;Mikusińska Małgorzata Beata;1109;0.28;0.50;N;K
+39;15;PO;Smektała Bartosz;853;0.21;0.39;N;M
+39;16;PO;Lachor Justyna;2016;0.50;0.91;N;K
+39;17;PO;Podemska Milena Anna;1524;0.38;0.69;N;K
+39;18;PO;Kłosowski Dawid Jerzy;507;0.13;0.23;N;M
+39;19;PO;Czachura Barbara Henryka;4222;1.06;1.92;N;K
+39;20;PO;Zieliński Marek Grzegorz;6455;1.61;2.93;N;M
+40;1;PiS;Hoc Czesław;19942;9.27;43.77;T;M
+40;2;PiS;Strzałkowski Stefan Zdzisław;4840;2.25;10.62;T;M
+40;3;PiS;Skórka Mirosław Michał;4698;2.18;10.31;N;M
+40;4;PiS;Mętlewicz Anna Bożena;3520;1.64;7.73;N;K
+40;5;PiS;Modrzejewski Andrzej Kazimierz;2920;1.36;6.41;N;M
+40;6;PiS;Budrewicz Rafał;930;0.43;2.04;N;M
+40;7;PiS;Pietras Robert;1708;0.79;3.75;N;M
+40;8;PiS;Grochowalska Jadwiga Maria;1092;0.51;2.40;N;K
+40;9;PiS;Ryder Zdzisław;1600;0.74;3.51;N;M
+40;10;PiS;Bokun Henryk Jerzy;891;0.41;1.96;N;M
+40;11;PiS;Kulec-Kaczmarska Izabela Maria;504;0.23;1.11;N;K
+40;12;PiS;Szanel Marek Zbigniew;329;0.15;0.72;N;M
+40;13;PiS;Szabla Henryka;445;0.21;0.98;N;K
+40;14;PiS;Ogorzałek Bogusław Adam;727;0.34;1.60;N;M
+40;15;PiS;Szpulak Irena;436;0.20;0.96;N;K
+40;16;PiS;Kostuch Urszula Helena;976;0.45;2.14;N;K
+40;1;SLD;Wziątek Stanisław Czesław;8838;4.11;36.11;T;M
+40;2;SLD;Kościńska Krystyna;3914;1.82;15.99;N;K
+40;3;SLD;Kotlęga Jerzy Waldemar;1784;0.83;7.29;N;M
+40;4;SLD;Cybula Stanisław;1386;0.64;5.66;N;M
+40;5;SLD;Strzyżewska Krystyna;1090;0.51;4.45;N;K
+40;6;SLD;Maciejasz Grzegorz Roman;1824;0.85;7.45;N;M
+40;7;SLD;Chałat Dorota Róża;483;0.22;1.97;N;K
+40;8;SLD;Poczobut Grzegorz;733;0.34;3.00;N;M
+40;9;SLD;Ostaszewski Adam;380;0.18;1.55;N;M
+40;10;SLD;Nykiel Eugeniusz Marek;1132;0.53;4.63;N;M
+40;11;SLD;Wilkosz Anna Barbara;202;0.09;0.83;N;K
+40;12;SLD;Fabiańczyk Lech Antoni;518;0.24;2.12;N;M
+40;13;SLD;Czerwińska Joanna Marzena;915;0.43;3.74;N;K
+40;14;SLD;Longa-Sucharkiewicz Beata;119;0.06;0.49;N;K
+40;15;SLD;Kokot Ewa Bożena;324;0.15;1.32;N;K
+40;16;SLD;Lepa Robert;832;0.39;3.40;N;M
+40;1;PSL;Dycha Stanisław Edward;3699;1.72;26.89;N;M
+40;2;PSL;Krawczuk Jan;1996;0.93;14.51;N;M
+40;3;PSL;Leśniewicz Andrzej Leszek;1314;0.61;9.55;N;M
+40;4;PSL;Kłusewicz Helena;938;0.44;6.82;N;K
+40;5;PSL;Jaruszewska Monika Sylwia;642;0.30;4.67;N;K
+40;6;PSL;Aniszewski Juliusz Henryk;337;0.16;2.45;N;M
+40;7;PSL;Ryder Stefan;470;0.22;3.42;N;M
+40;8;PSL;Turkacz Teresa;596;0.28;4.33;N;K
+40;9;PSL;Drąg Aneta Mariola;675;0.31;4.91;N;K
+40;10;PSL;Brejwo-Kuźmicz Beata Ewa;534;0.25;3.88;N;K
+40;11;PSL;Chmiel Monika Maria;290;0.13;2.11;N;K
+40;12;PSL;Golinia Anetta Justyna;220;0.10;1.60;N;K
+40;13;PSL;Danielewicz Anna Jadwiga;235;0.11;1.71;N;K
+40;14;PSL;Rudzis-Gruchała Helena Maria;760;0.35;5.52;N;K
+40;15;PSL;Kaczmarek Wojciech Władysław;527;0.25;3.83;N;M
+40;16;PSL;Matyjaszek Andrzej Henryk;523;0.24;3.80;N;M
+40;1;PO;Gawłowski Stanisław;27047;12.58;27.18;T;M
+40;2;PO;Hok Marek Tomasz;16364;7.61;16.45;T;M
+40;3;PO;Olejniczak Danuta Maria;7303;3.40;7.34;N;K
+40;4;PO;Suski Paweł;7741;3.60;7.78;T;M
+40;5;PO;Gąsecka Magdalena Anna;6634;3.09;6.67;N;K
+40;6;PO;Suchowiejko Wiesław Jacek;8724;4.06;8.77;T;M
+40;7;PO;Kuriata Jan;3070;1.43;3.09;N;M
+40;8;PO;Wasiak Elżbieta Henryka;2258;1.05;2.27;N;K
+40;9;PO;Kaszak Wioletta;2296;1.07;2.31;N;K
+40;10;PO;Miśko Waldemar Włodzimierz;5606;2.61;5.63;N;M
+40;11;PO;Witek Sebastian Stanisław;1052;0.49;1.06;N;M
+40;12;PO;Czechowski Łukasz;1399;0.65;1.41;N;M
+40;13;PO;Kozłowski Jacek Jerzy;1236;0.57;1.24;N;M
+40;14;PO;Grygorcewicz Barbara Anna;1772;0.82;1.78;N;K
+40;15;PO;Nawrocka Anna Sylwiana;1781;0.83;1.79;N;K
+40;16;PO;Husejko Władysław;5223;2.43;5.25;N;M
+41;1;PiS;Brudziński Joachim Stanisław;38700;10.16;46.89;T;M
+41;2;PiS;Dobrzyński Leszek;6107;1.60;7.40;T;M
+41;3;PiS;Jach Michał;4383;1.15;5.31;T;M
+41;4;PiS;Szałabawka Artur Lesław;3217;0.84;3.90;N;M
+41;5;PiS;Biernat Stefania Elżbieta;4222;1.11;5.12;N;K
+41;6;PiS;Drzazga Kazimierz;2695;0.71;3.27;N;M
+41;7;PiS;Mucha Paweł Karol;2915;0.77;3.53;N;M
+41;8;PiS;Jaworowski Waldemar;1435;0.38;1.74;N;M
+41;9;PiS;Przybylska Agnieszka;2356;0.62;2.85;N;K
+41;10;PiS;Zarębska - Kulesza Magdalena;1225;0.32;1.48;N;K
+41;11;PiS;Patkowska Danuta;1523;0.40;1.85;N;K
+41;12;PiS;Duklanowski Marek Zbigniew;2702;0.71;3.27;N;M
+41;13;PiS;Wójtowicz Wojciech;703;0.18;0.85;N;M
+41;14;PiS;Chojnacki Józef;429;0.11;0.52;N;M
+41;15;PiS;Kopeć Maciej Stanisław;1516;0.40;1.84;N;M
+41;16;PiS;Namyślak Aleksandra;885;0.23;1.07;N;K
+41;17;PiS;Stępień Konrad;758;0.20;0.92;N;M
+41;18;PiS;Kopacka Marzena Teresa;1052;0.28;1.27;N;K
+41;19;PiS;Adamska Grażyna Teresa;810;0.21;0.98;N;K
+41;20;PiS;Strzeboński Andrzej Tadeusz;802;0.21;0.97;N;M
+41;21;PiS;Kosmal Edward;1083;0.28;1.31;N;M
+41;22;PiS;Bielewicz Janusz;557;0.15;0.67;N;M
+41;23;PiS;Plaugo Łucja Janina;353;0.09;0.43;N;K
+41;24;PiS;Jutrzenka - Trzebiatowska Beata Maria;2101;0.55;2.55;N;K
+41;1;SLD;Napieralski Grzegorz Bernard;23940;6.28;56.78;T;M
+41;2;SLD;Agatowska Joanna Monika;3933;1.03;9.33;N;K
+41;3;SLD;Wieczorek Dariusz Krzysztof;1782;0.47;4.23;N;M
+41;4;SLD;Wijas Jędrzej Piotr;1625;0.43;3.85;N;M
+41;5;SLD;Radziszewska Beata Magdalena;1355;0.36;3.21;N;K
+41;6;SLD;Siarkiewicz Zygmunt;1181;0.31;2.80;N;M
+41;7;SLD;Szczygieł Andrzej Wacław;705;0.19;1.67;N;M
+41;8;SLD;Bielida Antoni;542;0.14;1.29;N;M
+41;9;SLD;Koś Ewa Izabela;321;0.08;0.76;N;K
+41;10;SLD;Majkowski Albin Krystian;166;0.04;0.39;N;M
+41;11;SLD;Nycz Artur Adam;1133;0.30;2.69;N;M
+41;12;SLD;Stanisz Patryk;450;0.12;1.07;N;M
+41;13;SLD;Wawrowski Henryk;427;0.11;1.01;N;M
+41;14;SLD;Zibrowska Iwona;256;0.07;0.61;N;K
+41;15;SLD;Betka Anna Jolanta;216;0.06;0.51;N;K
+41;16;SLD;Bednarska Dionela Wioleta;159;0.04;0.38;N;K
+41;17;SLD;Korgul Elżbieta;163;0.04;0.39;N;K
+41;18;SLD;Furman Olga Ewa;125;0.03;0.30;N;K
+41;19;SLD;Chorzelewski Artur Rafał;179;0.05;0.42;N;M
+41;20;SLD;Klimko Sylwia;225;0.06;0.53;N;K
+41;21;SLD;Jaklewicz - Walewicz Ewa Jadwiga;298;0.08;0.71;N;K
+41;22;SLD;Trojanowski Zbigniew;826;0.22;1.96;N;M
+41;23;SLD;Ciach Krzysztof;960;0.25;2.28;N;M
+41;24;SLD;Kasznia Magdalena Anna;1198;0.31;2.84;N;K
+41;1;PSL;Dziewguć Zygmunt;4279;1.12;25.86;N;M
+41;2;PSL;Ziemba Kazimierz;2803;0.74;16.94;N;M
+41;3;PSL;Ruciński Witold Florian;1084;0.28;6.55;N;M
+41;4;PSL;Balcerzak Krystyna;1706;0.45;10.31;N;K
+41;5;PSL;Geldner Jan Kazimierz;429;0.11;2.59;N;M
+41;6;PSL;Aniśko Mieczysław Tadeusz;210;0.06;1.27;N;M
+41;7;PSL;Sola Mirosław Mieczysław;342;0.09;2.07;N;M
+41;8;PSL;Lipiński Kazimierz;892;0.23;5.39;N;M
+41;9;PSL;Jakubowicz Justyna;431;0.11;2.61;N;K
+41;10;PSL;Płonka Leszek Albin;231;0.06;1.40;N;M
+41;11;PSL;Matys Marek Grzegorz;358;0.09;2.16;N;M
+41;12;PSL;Bielecka Anna;417;0.11;2.52;N;K
+41;13;PSL;Łapin Agnieszka Magdalena;123;0.03;0.74;N;K
+41;14;PSL;Smorowińska Anna Kamila;53;0.01;0.32;N;K
+41;15;PSL;Kuś Małgorzata;334;0.09;2.02;N;K
+41;16;PSL;Popielewska Weronika;183;0.05;1.11;N;K
+41;17;PSL;Karasińska - Fluks Bonawentura Janina - Żywia;51;0.01;0.31;N;K
+41;18;PSL;Szychulski Mirosław Krzysztof;223;0.06;1.35;N;M
+41;19;PSL;Chrałowicz Adam Wacław;235;0.06;1.42;N;M
+41;20;PSL;Juszczak Ariel Łukasz;326;0.09;1.97;N;M
+41;21;PSL;Ociepka Rafał Andrzej;226;0.06;1.37;N;M
+41;22;PSL;Ignatowicz Bartosz Piotr;160;0.04;0.97;N;M
+41;23;PSL;Ekiert Dorota Ewa;373;0.10;2.25;N;K
+41;24;PSL;Durka Andrzej Zdzisław;1076;0.28;6.50;N;M
+41;1;PO;Arłukowicz Bartosz Adam;101746;26.70;57.12;T;M
+41;2;PO;Kochan Magdalena Maria;14198;3.73;7.97;T;K
+41;3;PO;Litwiński Arkadiusz;9396;2.47;5.27;T;M
+41;4;PO;Zaremba Renata;6355;1.67;3.57;T;K
+41;5;PO;Oświęcimski Konstanty Tomasz;7459;1.96;4.19;T;M
+41;6;PO;Urban Cezary;3424;0.90;1.92;N;M
+41;7;PO;Ławrynowicz Zofia;5057;1.33;2.84;T;K
+41;8;PO;Wójcik Robert Dariusz;966;0.25;0.54;N;M
+41;9;PO;Żmuda - Trzebiatowska Ewa Ilona;4906;1.29;2.75;T;K
+41;10;PO;Lemm Judyta;2478;0.65;1.39;N;K
+41;11;PO;Drzewińska Wioletta;1105;0.29;0.62;N;K
+41;12;PO;Borowski Jan Marek;1909;0.50;1.07;N;M
+41;13;PO;Przerwa Tomasz Henryk;868;0.23;0.49;N;M
+41;14;PO;Wrona Elżbieta Grażyna;683;0.18;0.38;N;K
+41;15;PO;Sola Ryszard;898;0.24;0.50;N;M
+41;16;PO;Kuźmiński Wojciech Andrzej;781;0.20;0.44;N;M
+41;17;PO;Rudnicki Andrzej Piotr;1897;0.50;1.06;N;M
+41;18;PO;Sadowska Teresa Halina;1080;0.28;0.61;N;K
+41;19;PO;Kościukiewicz Małgorzata Irena;1064;0.28;0.60;N;K
+41;20;PO;Fedeńczak Marcin;2764;0.73;1.55;N;M
+41;21;PO;Pańka Urszula;3051;0.80;1.71;N;K
+41;22;PO;Łucka Irena Agata;1945;0.51;1.09;N;K
+41;23;PO;Baran Bazyli;4094;1.07;2.30;N;M
