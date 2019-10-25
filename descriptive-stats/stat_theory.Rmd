@@ -20,6 +20,9 @@ output:
 **Descriptive statistics** (part of EA):  
 summarizing/arranging/plotting the data so they can be easily understood.
 
+**Data wrangling** cleaning, structuring and enriching raw data into a desired format 
+for better decision making in less time (enhance data quality and accessability)
+
 
 ## Basic descriptive measures 
 
