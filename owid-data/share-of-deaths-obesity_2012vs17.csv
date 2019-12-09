@@ -1,0 +1,459 @@
+country,code,year,share
+Afghanistan,AFG,2012,7.08
+Afghanistan,AFG,2017,8.5
+Africa,,2012,4.18
+Africa,,2017,5.17
+Albania,ALB,2012,11.79
+Albania,ALB,2017,12.11
+Algeria,DZA,2012,15.92
+Algeria,DZA,2017,17.47
+American Samoa,ASM,2012,23.3
+American Samoa,ASM,2017,23.53
+Andorra,AND,2012,9.09
+Andorra,AND,2017,9.23
+Angola,AGO,2012,2.29
+Angola,AGO,2017,3.23
+Antigua and Barbuda,ATG,2012,13.84
+Antigua and Barbuda,ATG,2017,14.49
+Argentina,ARG,2012,11.25
+Argentina,ARG,2017,11.41
+Armenia,ARM,2012,13.13
+Armenia,ARM,2017,13.36
+Asia,,2012,6
+Asia,,2017,7.08
+Australasia,,2012,11.39
+Australasia,,2017,11.55
+Australia,AUS,2012,11.56
+Australia,AUS,2017,11.65
+Austria,AUT,2012,11.02
+Austria,AUT,2017,11.24
+Azerbaijan,AZE,2012,14.45
+Azerbaijan,AZE,2017,15.61
+Bahamas,BHS,2012,15.36
+Bahamas,BHS,2017,15.84
+Bahrain,BHR,2012,22.99
+Bahrain,BHR,2017,25.69
+Bangladesh,BGD,2012,3.95
+Bangladesh,BGD,2017,4.36
+Barbados,BRB,2012,14.23
+Barbados,BRB,2017,14.47
+Belarus,BLR,2012,15.81
+Belarus,BLR,2017,16.3
+Belgium,BEL,2012,8.04
+Belgium,BEL,2017,8.14
+Belize,BLZ,2012,13.54
+Belize,BLZ,2017,13.85
+Benin,BEN,2012,3.24
+Benin,BEN,2017,3.75
+Bermuda,BMU,2012,14.83
+Bermuda,BMU,2017,14.32
+Bhutan,BTN,2012,5.77
+Bhutan,BTN,2017,6.71
+Bolivia,BOL,2012,8.48
+Bolivia,BOL,2017,9.58
+Bosnia and Herzegovina,BIH,2012,13.73
+Bosnia and Herzegovina,BIH,2017,13.57
+Botswana,BWA,2012,6.58
+Botswana,BWA,2017,9.67
+Brazil,BRA,2012,11.69
+Brazil,BRA,2017,12.3
+Brunei,BRN,2012,9.8
+Brunei,BRN,2017,10.11
+Bulgaria,BGR,2012,16.65
+Bulgaria,BGR,2017,17.17
+Burkina Faso,BFA,2012,2.12
+Burkina Faso,BFA,2017,2.57
+Burundi,BDI,2012,1.19
+Burundi,BDI,2017,1.36
+Cambodia,KHM,2012,2.97
+Cambodia,KHM,2017,3.67
+Cameroon,CMR,2012,4.2
+Cameroon,CMR,2017,5.04
+Canada,CAN,2012,11.35
+Canada,CAN,2017,11.75
+Cape Verde,CPV,2012,6.51
+Cape Verde,CPV,2017,7.15
+Central African Republic,CAF,2012,1.82
+Central African Republic,CAF,2017,2.16
+Central Asia,,2012,14.28
+Central Asia,,2017,15.49
+Central Europe,,2012,14.83
+Central Europe,,2017,14.89
+Central Latin America,,2012,12.98
+Central Latin America,,2017,14.07
+Central Sub-Saharan Africa,,2012,2.04
+Central Sub-Saharan Africa,,2017,2.86
+Chad,TCD,2012,1.18
+Chad,TCD,2017,1.39
+Chile,CHL,2012,11.93
+Chile,CHL,2017,12.33
+China,CHN,2012,7.03
+China,CHN,2017,7.88
+Colombia,COL,2012,9.8
+Colombia,COL,2017,10.67
+Comoros,COM,2012,4.29
+Comoros,COM,2017,5.13
+Congo,COG,2012,5.3
+Congo,COG,2017,6.27
+Costa Rica,CRI,2012,11.26
+Costa Rica,CRI,2017,11.99
+Cote d'Ivoire,CIV,2012,3.23
+Cote d'Ivoire,CIV,2017,3.89
+Croatia,HRV,2012,14.01
+Croatia,HRV,2017,13.88
+Cuba,CUB,2012,10.58
+Cuba,CUB,2017,10.87
+Cyprus,CYP,2012,11.07
+Cyprus,CYP,2017,10.75
+Czech Republic,CZE,2012,14.34
+Czech Republic,CZE,2017,14.47
+Democratic Republic of Congo,COD,2012,1.72
+Democratic Republic of Congo,COD,2017,2.5
+Denmark,DNK,2012,7.57
+Denmark,DNK,2017,7.61
+Djibouti,DJI,2012,4.41
+Djibouti,DJI,2017,5.93
+Dominica,DMA,2012,12.25
+Dominica,DMA,2017,12.41
+Dominican Republic,DOM,2012,11.77
+Dominican Republic,DOM,2017,13.55
+East Asia,,2012,6.98
+East Asia,,2017,7.8
+East Asia & Pacific,,2012,6.74
+East Asia & Pacific,,2017,7.56
+Eastern Europe,,2012,15.3
+Eastern Europe,,2017,15.57
+Eastern Sub-Saharan Africa,,2012,1.95
+Eastern Sub-Saharan Africa,,2017,2.64
+Ecuador,ECU,2012,11.96
+Ecuador,ECU,2017,12.9
+Egypt,EGY,2012,18.83
+Egypt,EGY,2017,20.52
+El Salvador,SLV,2012,11.54
+El Salvador,SLV,2017,13.07
+Equatorial Guinea,GNQ,2012,3.61
+Equatorial Guinea,GNQ,2017,4.54
+Eritrea,ERI,2012,2.14
+Eritrea,ERI,2017,2.81
+Estonia,EST,2012,17.47
+Estonia,EST,2017,17.75
+Ethiopia,ETH,2012,1.45
+Ethiopia,ETH,2017,2.01
+Europe,,2012,12.62
+Europe,,2017,12.72
+Europe & Central Asia,,2012,12.7
+Europe & Central Asia,,2017,12.86
+Fiji,FJI,2012,29.28
+Fiji,FJI,2017,29.43
+Finland,FIN,2012,10.7
+Finland,FIN,2017,10.93
+France,FRA,2012,7.85
+France,FRA,2017,7.78
+Gabon,GAB,2012,6.71
+Gabon,GAB,2017,8.31
+Gambia,GMB,2012,4.92
+Gambia,GMB,2017,5.49
+Georgia,GEO,2012,16.75
+Georgia,GEO,2017,16.68
+Germany,DEU,2012,10.84
+Germany,DEU,2017,10.88
+Ghana,GHA,2012,5.47
+Ghana,GHA,2017,6.14
+Greece,GRC,2012,10.98
+Greece,GRC,2017,10.29
+Greenland,GRL,2012,8.22
+Greenland,GRL,2017,8.49
+Grenada,GRD,2012,12.48
+Grenada,GRD,2017,12.17
+Guam,GUM,2012,20.79
+Guam,GUM,2017,21.13
+Guatemala,GTM,2012,7.61
+Guatemala,GTM,2017,8.26
+Guinea,GIN,2012,2.61
+Guinea,GIN,2017,3.14
+Guinea-Bissau,GNB,2012,2.86
+Guinea-Bissau,GNB,2017,3.33
+Guyana,GUY,2012,13.81
+Guyana,GUY,2017,14.89
+Haiti,HTI,2012,5.73
+Haiti,HTI,2017,6.8
+High SDI,,2012,10.34
+High SDI,,2017,10.46
+High income,,2012,10.58
+High income,,2017,10.72
+High-middle SDI,,2012,11.83
+High-middle SDI,,2017,12.32
+Honduras,HND,2012,8.36
+Honduras,HND,2017,10.12
+Hungary,HUN,2012,15.18
+Hungary,HUN,2017,15.36
+Iceland,ISL,2012,10.12
+Iceland,ISL,2017,10.36
+India,IND,2012,3.89
+India,IND,2017,5.37
+Indonesia,IDN,2012,7.29
+Indonesia,IDN,2017,8.52
+Iran,IRN,2012,12.34
+Iran,IRN,2017,13.97
+Iraq,IRQ,2012,13.85
+Iraq,IRQ,2017,11.99
+Ireland,IRL,2012,9.21
+Ireland,IRL,2017,9.11
+Israel,ISR,2012,10.05
+Israel,ISR,2017,10.03
+Italy,ITA,2012,10.08
+Italy,ITA,2017,10.19
+Jamaica,JAM,2012,14.07
+Jamaica,JAM,2017,15.1
+Japan,JPN,2012,4.2
+Japan,JPN,2017,4.16
+Jordan,JOR,2012,17.82
+Jordan,JOR,2017,19.14
+Kazakhstan,KAZ,2012,15.72
+Kazakhstan,KAZ,2017,16.55
+Kenya,KEN,2012,2.62
+Kenya,KEN,2017,3.48
+Kiribati,KIR,2012,17.55
+Kiribati,KIR,2017,18.54
+Kuwait,KWT,2012,20.39
+Kuwait,KWT,2017,21.45
+Kyrgyzstan,KGZ,2012,10.77
+Kyrgyzstan,KGZ,2017,11.69
+Laos,LAO,2012,5.07
+Laos,LAO,2017,6.35
+Latin America & Caribbean,,2012,11.81
+Latin America & Caribbean,,2017,12.63
+Latvia,LVA,2012,16.14
+Latvia,LVA,2017,15.99
+Lebanon,LBN,2012,19.02
+Lebanon,LBN,2017,19.66
+Lesotho,LSO,2012,5.48
+Lesotho,LSO,2017,7.07
+Liberia,LBR,2012,3.72
+Liberia,LBR,2017,4.58
+Libya,LBY,2012,17.76
+Libya,LBY,2017,18.67
+Lithuania,LTU,2012,14.6
+Lithuania,LTU,2017,14.63
+Low SDI,,2012,2.3
+Low SDI,,2017,2.98
+Low income,,2012,2.41
+Low income,,2017,3.09
+Low-middle SDI,,2012,5.44
+Low-middle SDI,,2017,6.77
+Lower-middle income,,2012,5.5
+Lower-middle income,,2017,6.73
+Luxembourg,LUX,2012,9.91
+Luxembourg,LUX,2017,9.85
+Macedonia,MKD,2012,17.12
+Macedonia,MKD,2017,16.98
+Madagascar,MDG,2012,2.68
+Madagascar,MDG,2017,3.26
+Malawi,MWI,2012,2.07
+Malawi,MWI,2017,2.79
+Malaysia,MYS,2012,10.15
+Malaysia,MYS,2017,11.06
+Maldives,MDV,2012,7.39
+Maldives,MDV,2017,8.65
+Mali,MLI,2012,1.71
+Mali,MLI,2017,1.95
+Malta,MLT,2012,11.58
+Malta,MLT,2017,11.57
+Marshall Islands,MHL,2012,16
+Marshall Islands,MHL,2017,17.3
+Mauritania,MRT,2012,6.69
+Mauritania,MRT,2017,7.53
+Mauritius,MUS,2012,18.31
+Mauritius,MUS,2017,18.79
+Mexico,MEX,2012,15.22
+Mexico,MEX,2017,16.23
+Micronesia,,2012,19.02
+Micronesia,,2017,19.57
+Middle East & North Africa,,2012,14.71
+Middle East & North Africa,,2017,16.06
+Middle SDI,,2012,7.88
+Middle SDI,,2017,9
+Moldova,MDA,2012,14.27
+Moldova,MDA,2017,15.76
+Mongolia,MNG,2012,12.45
+Mongolia,MNG,2017,13.04
+Montenegro,MNE,2012,14.99
+Montenegro,MNE,2017,15.04
+Morocco,MAR,2012,16.16
+Morocco,MAR,2017,17.66
+Mozambique,MOZ,2012,1.77
+Mozambique,MOZ,2017,2.51
+Myanmar,MMR,2012,3.97
+Myanmar,MMR,2017,4.89
+Namibia,NAM,2012,4.93
+Namibia,NAM,2017,6.29
+Nepal,NPL,2012,3.83
+Nepal,NPL,2017,5
+Netherlands,NLD,2012,7.68
+Netherlands,NLD,2017,7.8
+New Zealand,NZL,2012,10.57
+New Zealand,NZL,2017,11
+Nicaragua,NIC,2012,12.37
+Nicaragua,NIC,2017,13.48
+Niger,NER,2012,1.21
+Niger,NER,2017,1.48
+Nigeria,NGA,2012,1.33
+Nigeria,NGA,2017,1.63
+North America,,2012,13.84
+North America,,2017,14.08
+North Korea,PRK,2012,3.29
+North Korea,PRK,2017,3.37
+Northern Mariana Islands,MNP,2012,19.42
+Northern Mariana Islands,MNP,2017,19.73
+Norway,NOR,2012,7.72
+Norway,NOR,2017,8.08
+Oceania,,2012,10.43
+Oceania,,2017,11.25
+Oman,OMN,2012,16.4
+Oman,OMN,2017,17.97
+Pakistan,PAK,2012,6.12
+Pakistan,PAK,2017,7.12
+Palestine,PSE,2012,13.29
+Palestine,PSE,2017,15.38
+Panama,PAN,2012,9.66
+Panama,PAN,2017,11.08
+Papua New Guinea,PNG,2012,8.17
+Papua New Guinea,PNG,2017,9.06
+Paraguay,PRY,2012,12.2
+Paraguay,PRY,2017,13.19
+Peru,PER,2012,7.85
+Peru,PER,2017,8.53
+Philippines,PHL,2012,8.77
+Philippines,PHL,2017,10.28
+Poland,POL,2012,13.77
+Poland,POL,2017,14.02
+Portugal,PRT,2012,9.43
+Portugal,PRT,2017,9.47
+Puerto Rico,PRI,2012,18.77
+Puerto Rico,PRI,2017,17.55
+Qatar,QAT,2012,18.89
+Qatar,QAT,2017,20.06
+Romania,ROU,2012,16.11
+Romania,ROU,2017,15.66
+Russia,RUS,2012,15.19
+Russia,RUS,2017,15.61
+Rwanda,RWA,2012,2.12
+Rwanda,RWA,2017,2.87
+Saint Lucia,LCA,2012,13.01
+Saint Lucia,LCA,2017,13.58
+Saint Vincent and the Grenadines,VCT,2012,14.08
+Saint Vincent and the Grenadines,VCT,2017,14.55
+Samoa,WSM,2012,17.21
+Samoa,WSM,2017,17.94
+Sao Tome and Principe,STP,2012,5.91
+Sao Tome and Principe,STP,2017,6.86
+Saudi Arabia,SAU,2012,17.4
+Saudi Arabia,SAU,2017,18.39
+Senegal,SEN,2012,4.3
+Senegal,SEN,2017,5.08
+Serbia,SRB,2012,15.02
+Serbia,SRB,2017,15
+Seychelles,SYC,2012,9.49
+Seychelles,SYC,2017,10.71
+Sierra Leone,SLE,2012,2.32
+Sierra Leone,SLE,2017,3.03
+Singapore,SGP,2012,7.74
+Singapore,SGP,2017,7.85
+Slovakia,SVK,2012,15.36
+Slovakia,SVK,2017,15.88
+Slovenia,SVN,2012,12.09
+Slovenia,SVN,2017,12.26
+Solomon Islands,SLB,2012,11.34
+Solomon Islands,SLB,2017,12.23
+Somalia,SOM,2012,1.84
+Somalia,SOM,2017,2.15
+South Africa,ZAF,2012,7.33
+South Africa,ZAF,2017,9.42
+South Asia,,2012,4.26
+South Asia,,2017,5.59
+South Korea,KOR,2012,5.28
+South Korea,KOR,2017,5.3
+South Sudan,SSD,2012,1.28
+South Sudan,SSD,2017,1.56
+Southeast Asia,,2012,6.82
+Southeast Asia,,2017,7.98
+"Southeast Asia, East Asia, and Oceania",,2012,6.96
+"Southeast Asia, East Asia, and Oceania",,2017,7.88
+Southern Sub-Saharan Africa,,2012,6.52
+Southern Sub-Saharan Africa,,2017,8.45
+Spain,ESP,2012,10.15
+Spain,ESP,2017,9.97
+Sri Lanka,LKA,2012,8.69
+Sri Lanka,LKA,2017,9.41
+Sub-Saharan Africa,,2012,2.71
+Sub-Saharan Africa,,2017,3.39
+Sudan,SDN,2012,8.08
+Sudan,SDN,2017,10.63
+Suriname,SUR,2012,14.35
+Suriname,SUR,2017,15.29
+Swaziland,SWZ,2012,7.21
+Swaziland,SWZ,2017,10.45
+Sweden,SWE,2012,9.19
+Sweden,SWE,2017,9.42
+Switzerland,CHE,2012,8.65
+Switzerland,CHE,2017,8.82
+Syria,SYR,2012,9.08
+Syria,SYR,2017,12
+Taiwan,TWN,2012,9.39
+Taiwan,TWN,2017,9.05
+Tajikistan,TJK,2012,7.45
+Tajikistan,TJK,2017,8.89
+Tanzania,TZA,2012,2.54
+Tanzania,TZA,2017,3.59
+Thailand,THA,2012,8.17
+Thailand,THA,2017,9.16
+Timor,TLS,2012,2.27
+Timor,TLS,2017,3
+Togo,TGO,2012,2.73
+Togo,TGO,2017,3.76
+Tonga,TON,2012,15.72
+Tonga,TON,2017,16.38
+Trinidad and Tobago,TTO,2012,19.03
+Trinidad and Tobago,TTO,2017,19.97
+Tropical Latin America,,2012,11.7
+Tropical Latin America,,2017,12.32
+Tunisia,TUN,2012,14.69
+Tunisia,TUN,2017,15.65
+Turkey,TUR,2012,15.36
+Turkey,TUR,2017,16.27
+Turkmenistan,TKM,2012,15.7
+Turkmenistan,TKM,2017,18.19
+Uganda,UGA,2012,1.5
+Uganda,UGA,2017,2.07
+Ukraine,UKR,2012,15.54
+Ukraine,UKR,2017,15.32
+United Arab Emirates,ARE,2012,15.33
+United Arab Emirates,ARE,2017,19.16
+United Kingdom,GBR,2012,9.15
+United Kingdom,GBR,2017,9.33
+United States,USA,2012,14.08
+United States,USA,2017,14.31
+Upper-middle income,,2012,9.79
+Upper-middle income,,2017,10.5
+Uruguay,URY,2012,10.43
+Uruguay,URY,2017,10.66
+Uzbekistan,UZB,2012,14.85
+Uzbekistan,UZB,2017,16.73
+Vanuatu,VUT,2012,12.21
+Vanuatu,VUT,2017,12.7
+Venezuela,VEN,2012,13.28
+Venezuela,VEN,2017,14.71
+Vietnam,VNM,2012,3.92
+Vietnam,VNM,2017,4.71
+Western Europe,,2012,9.6
+Western Europe,,2017,9.63
+Western Sub-Saharan Africa,,2012,2.19
+Western Sub-Saharan Africa,,2017,2.62
+World,OWID_WRL,2012,7.55
+World,OWID_WRL,2017,8.44
+Yemen,YEM,2012,7.49
+Yemen,YEM,2017,8.35
+Zambia,ZMB,2012,1.88
+Zambia,ZMB,2017,2.82
+Zimbabwe,ZWE,2012,3.55
+Zimbabwe,ZWE,2017,4.86
