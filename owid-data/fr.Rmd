@@ -1,0 +1,233 @@
+---
+title: "Dzietność kobiet w latach 2003/2018 na świecie"
+author: "TP"
+date: "12/12/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Współczynnik dzietności (fertility rate)
+
+Współczynnik określający liczbę urodzonych dzieci przypadających 
+na jedną kobietę w wieku rozrodczym (15--49 lat).  Przyjmuje się, iż FR między 2,10--2,15 zapewnia 
+zastępowalność pokoleń.
+
+Plik `fertility_rate_2003_2018.csv`
+pobrany ze strony https://ourworldindata.org/grapher/fertility-rate-complete-gapminder
+zawiera wartości współczynnika w roku 2003 oraz 2018 (czyli po 15 latach)
+
+Plik nie zawiera kodów dla krajów: Slovakia
+Micronesia, Timor, Channel Islands. Za to zawiera pozycję zbiorczą pn
+World (usunięta). Ponieważ nie ustalono kodu dla Channel Islands to tę pozycję
+też usunięto, bo to mały kraj jest (konkretnie dwa wiesze:
+`Channel Islands;OWID_CIS;2003;1.41` oraz
+`Channel Islands;OWID_CIS;2018;1.49`). 
+Pozostałe braki uzupełniono.
+
+
+```{r message=FALSE, echo=FALSE}
+library("ggplot2");
+require("dplyr");
+
+dA <- read.csv("fertility_rate_2003_2018.csv", sep = ';',
+  header=T, na.string="NA");
+
+boxp <- ggplot(dA, aes(x=as.factor(yr), y=frate, fill=as.factor(yr))) +
+ geom_boxplot() +
+ ylab("fr") +
+ xlab("rok") +
+ ggtitle("Współczynniki dzietności 2003 vs 2018") +
+ theme(legend.position="none")
+
+d2003 <- dA %>% filter(yr==2003) %>% as.data.frame
+
+s2003 <- summary(d2003$frate)
+##s2003
+
+mean2003 <- s2003[["Mean"]]
+median2003 <- s2003[["Median"]]
+min2003 <- s2003[["Min."]]
+max2003 <- s2003[["Max."]]
+
+N2003 <- nrow(d2003)
+d2003.low <- d2003 %>% filter(frate < 2.10) %>% as.data.frame
+L2003 <- nrow(d2003.low)
+
+d2018 <- dA %>% filter(yr==2018) %>% as.data.frame
+
+s2018 <- summary(d2018$frate)
+##s2018
+
+mean2018 <- s2018[["Mean"]]
+median2018 <- s2018[["Median"]]
+srednia2018 <- s2018[["Mean"]]
+min2018 <- s2018[["Min."]]
+max2018 <- s2018[["Max."]]
+
+N2018 <- nrow(d2018)
+d2018.low <- d2018 %>% filter(frate < 2.10) %>% as.data.frame
+L2018 <- nrow(d2018.low)
+```
+
+## Porównanie wartości współczynnika dzietności
+
+W roku 2003 wartość minimalna, mediana i maksymalna wynosiły
+odpowiednio: `r min2003`, `r median2003` oraz `r max2003`. Średnia
+wynosiła zaś `r mean2003`.  W roku 2018 wartość minimalna, mediana
+i maksymalna wynosiły odpowiednio:
+`r min2018`, `r median2018` oraz `r max2018`
+Średnia wynosiła zaś `r mean2018` (co
+oznacza spadek o `r mean2003 - mean2018` dziecka/kobietę.)
+
+Liczba krajów o wartości współczynnika mniejszej niż 2,1 (tj. nie
+gwarantującej zastępowalności pokoleń)
+wynosiła `r L2003` w roku 2003 oraz `r L2018` w roku 2018 (albo
+odpowiednio `r sprintf ("%.1f%%", L2003/N2003 *100)` 
+oraz `r sprintf ("%.1f%%", L2018/N2018 *100)` krajów).
+
+
+## Porównanie rozkładu współczynnika dzietności
+
+Do oceny rozkładu wartości zmiennej służy histogram. Jeżeli
+umieścimy obok siebie dwa histogramy, możemy w ten sposób
+porównać (wizualnie) dwa rozkłady:
+
+```{r message=FALSE, echo=FALSE, warning=FALSE}
+h2003 <- ggplot(d2003, aes(x = frate)) + geom_histogram(binwidth = 0.25) +
+ ylab("N") +
+ xlab("fr") +
+ ggtitle("Współczynniki dzietności 2003") +
+ coord_cartesian(ylim = c(0, 30), xlim=c(0,8))
+ 
+h2018 <- ggplot(d2018, aes(x = frate)) + geom_histogram(binwidth = 0.25) +
+ ylab("N") +
+ xlab("fr") +
+ ggtitle("Współczynniki dzietności 2018") +
+ coord_cartesian(ylim = c(0, 30), xlim=c(0, 8))
+
+h2003
+h2018
+```
+
+Aby porównanie było łatwiejsze warto zadbać o jednakowe wartości na osiach XY.Patrząc na wykres widać wyraźnie że przybyło krajów o wartości współczynnika około 2 a ubyło
+o dużych wartości.
+
+Do tego samego celu (porównania) można też wykorzystać 
+wykres punktowy (jak ktoś umie go zrobić):
+
+```{r message=FALSE, echo=FALSE}
+dp2018 <- ggplot(d2018, aes(x = reorder(symbol, frate) )) +
+  geom_point(aes(y = frate, colour = 'frate' ), size=1) +
+  xlab(label="kraj") +
+  ylab(label="n ") +
+  ggtitle("Wsp dzietności 2018 wg krajów świata") +
+  theme(axis.text = element_text(size = 4)) +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  coord_flip(ylim = c(0, 8))
+  
+
+dp2003 <- ggplot(d2003, aes(x = reorder(symbol, frate) )) +
+  geom_point(aes(y = frate, colour = 'frate' ), size=1) +
+  xlab(label="kraj") + 
+  ylab(label="n ") + 
+  ggtitle("Wsp dzietności 2003 wg krajów świata") +
+  theme(axis.text = element_text(size = 4)) +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  coord_flip(ylim = c(0, 8))
+  
+
+dp2003
+dp2018
+```
+
+## Porównanie na jednym wykresie
+
+Łącznie na jednym wykresie (histogram/wykres częstości aka *frequency distribution*):
+
+```{r message=FALSE}
+ggplot(dA, aes(x=frate, fill=as.factor(yr))) +
+  ggtitle("Współczynniki dzietności 2003/2018") +
+  geom_histogram(binwidth=0.25, alpha=.5, position="identity")
+
+ggplot(dA, aes(x=frate, fill=as.factor(yr))) +
+  ggtitle("Współczynniki dzietności 2003/2018") +
+  geom_histogram(binwidth=0.1, alpha=.5, position="identity")
+
+ggplot(dA, aes(x=frate, fill=as.factor(yr))) +
+  ggtitle("Współczynniki dzietności 2003/2018") +
+  geom_histogram(binwidth=0.5, alpha=.5, position="identity")
+
+### freq_polys
+
+ggplot(dA, aes(x= frate, colour = as.factor(yr))) +
+  ggtitle("Współczynniki dzietności 2003/2018") +
+  geom_freqpoly(binwidth = 0.25)
+
+
+
+
+ggplot(dA, aes(x= frate, colour = as.factor(yr))) +
+  ggtitle("Współczynniki dzietności 2003/2018") +
+  geom_freqpoly(binwidth = 0.1)
+```
+
+Łącznie na jednym wykresie (wykres pudełkowy):
+
+```{r message=FALSE}
+ggplot(dA, aes(x=as.factor(yr), y=frate, fill=as.factor(yr))) + geom_boxplot() +
+ ylab("fr") +
+ xlab("rok") +
+ ggtitle("Współczynniki dzietności 2003 vs 2018") +
+ theme(legend.position="none")
+```
+
+Łącznie na jednym wykresie (wykres punktowy):
+
+```{r message=FALSE}
+ggplot(dA, aes(x = reorder(symbol, frate) )) +
+  geom_point(aes(y = frate, colour = as.factor(yr) ), size=1) +
+  xlab(label="cc") + ylab(label="n ") + coord_flip()+
+  ggtitle("Wsp dzietności 2003/20018") +
+  theme(axis.text = element_text(size = 4)) +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  coord_cartesian(ylim = c(0, 8)) +
+  coord_flip()
+```
+
+## Wykresy punktowe w podziale na kontynenty
+
+Do podziału na kontynenty potrzebna jest oczywiście informacja na jakim kontynencie
+znajduje się konkretny kraj (Rosja na przykład :-)) Informację tę w postaci stosownego pliku
+CSV pobieram ze strony: https://datahub.io/JohnSnowLabs/country-and-continent-codes-list.
+A następnie scalamy z plikiem `fertility_rate_2003_2018.csv` (w sumie to moglibyśmy od razu działać na pliku *scalonym* ale wtedy nie do końca byłoby jasne skąd on się wziął. Tak mamy jasność: dane dot dzietności pobrani *stąd-a-stąd*, 
+a dane dot. klasyfikacji krajów *skądinąd*.)
+
+```{r message=FALSE}
+dA <- read.csv("fertility_rate_2003_2018cc.csv", sep = ';',  header=T, na.string="NA");
+d2003 <- dA %>% filter(yr==2003) %>% as.data.frame
+d2018 <- dA %>% filter(yr==2018) %>% as.data.frame
+
+ggplot(d2003, aes(x = reorder(symbol, frate) )) +
+  geom_point(aes(y = frate, colour = as.factor(contcode) ), size=.5, alpha=.7) +
+  xlab(label="cc") + ylab(label="n ") + coord_flip()+
+  ggtitle("Wsp dzietności 2003 wg kontynentów") +
+  theme(axis.text = element_text(size = 4)) +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  coord_cartesian(ylim = c(0, 8)) +
+  coord_flip()
+
+
+ggplot(d2018, aes(x = reorder(symbol, frate) )) +
+  geom_point(aes(y = frate, colour = as.factor(contcode) ), size=.5, alpha=.7) +
+  xlab(label="cc") + ylab(label="n ") + coord_flip()+
+  ggtitle("Wsp dzietności 20018 wg kontynentów") +
+  theme(axis.text = element_text(size = 4)) +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  coord_cartesian(ylim = c(0, 8)) +
+  coord_flip()
+```
+
+Afryka dominuje jak widać, Europa na końcu...
