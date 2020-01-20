@@ -1,0 +1,63 @@
+Materialy dydaktyczne
+=====================
+Ekonometria_PSW_e_2019.pdf -- egzamin z poprzednich lat (na wypadek gdyby był)
+zaliczenie_przyklad.pdf -- przykład zaliczenia (z poprzednich lat)
+MAK08_dot.csv  -- dane przykładowe do zaimportowania do MF
+MAK08_dotG_.csv -- dane przykładowe do zaimportowania do Gretla
+
+README -- ten plik
+
+VID_20190117_095936.mp4 -- jak oszacować model w MF
+  
+  także na YouTube: https://www.youtube.com/watch?v=df50c_p6OCg
+
+VID_20190117_102902.mp4 -- jak oszacować model w Gretlu
+  https://www.youtube.com/watch?v=m7QImovnv4g
+
+Uwaga: przy imporcie danych do Gretla/MF
+1. Stosować format CSV (coma separated value)
+
+2. W przypadku Gretla używać . jako separatora dziesiętnego, tj 10.2 (a nie 10,2)
+   Periodyczność danych (roczne/kwartalne itp) oraz ich zakres ustalamy
+   w momencie importu
+
+3. W przypadku MF używac . jako separatora dziesiętnego, 
+   Periodyczność danych (roczne/kwartalne itp) oraz ich zakres musi być
+   zdefiniowana jako wartości 1szej kolumny pliku, np
+
+   2011Q4 to czwarty kwartał roku 2011 (por. plik MAK08_dot.csv)
+   Dla danych rocznych obowiązuje zapis 2011, dla miesięcznych 2011M4 (na przykład)
+
+
+Projekt na zaliczenie:
+----------------------
+1. Podzielić się na grupy max 3 osobowe
+
+2. Ze strony https://bdm.stat.gov.pl/
+   pobrać jedną zmienną makroekonomiczną w rozsądnym horyzoncie czasowym (każda grupa inną)
+   Przykład:
+   Wybrać 'dane kwartalne' z menu na górze
+   Wybrać 'Przemysł -> Dobra konsumpcyjne trwałe' z menu na górze
+   Kliknąć w ikonę kółka (ustawienia) wybrać tyle lat żeby mieć minimum 30-40 obserwacji
+   Pobrać dane w formacie CSV (ikona zapisz)
+
+   UWAGA:  Niestety dane są zapisywane w układzie wiersze-zmienne/okresy-kolumny a zarówno Gretl jak i MF oczekują odwrotnie;
+        Należy jeżeli państwo tego nie potrafią proszę mi przysłać prośbę a ja podeślę plik gotowy do importu
+        
+
+3.  Zadanie do wykonania:
+
+  3.1 część makroekonomiczna -- krótki opis znaczenia wybranej kategorii
+makroekonomicznej (bezrobocie, dochód narodowy, inflacja itp...)
+na podstawie podręczników makroekonomii max 3--4 strony [Wykonać samodzielnie]
+  UWAGA: opisywana kategoria nie musi być tą dla której szacują państwo 
+  model tendencji rozwojowej (punkty 3.2--3.3)
+
+  3.2 ekonometryczny model tendencji rozwojowej -- zastosować 2--3 postacie funkcji trendu (liniowa, kwadratowa,
+sprowadzana do liniowej), wg przykładu podanego w pliku  przyklad_eko.pdf
+
+  3.3 wyznaczyć oraz porównać prognozy na 2--3 okresy uzyskane na podstawie:
+   modelu tendencji rozwojowej dla 2-3 postaci funkcji trendu
+
+
+
