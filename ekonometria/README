@@ -41,6 +41,8 @@ Projekt na zaliczenie:
 
    UWAGA:  Niestety dane są zapisywane w układzie wiersze-zmienne/okresy-kolumny a zarówno Gretl jak i MF oczekują odwrotnie;
         Należy jeżeli państwo tego nie potrafią proszę mi przysłać prośbę a ja podeślę plik gotowy do importu
+   UWAGA-ZMIANA: dla  8 działów zmieniłem pliki CSV tak że są gotowe do importu do Gretla ale lepiej je najpierw 
+        wczytać do Excela/OpenOffica, tam poprawić, wyeksportować fragment (jedną zmienną którą dana grupa chce się zajmować)
         
 
 3.  Zadanie do wykonania:
