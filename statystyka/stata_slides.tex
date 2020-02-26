@@ -1,0 +1,702 @@
+%& --translate-file=il2-pl
+\documentclass[a4,portrait]{seminar}
+\usepackage{iwona,polski}
+%\usepackage{polski}
+\usepackage{ragged2e,array}
+\RequirePackage{graphics,color,ifpdf}
+%%
+\slidewidth=31.0cm  %% szeroko¶æ slajdu
+\slideheight=25.0cm %% wysoko¶æ slajdu
+%%%
+\renewcommand{\slideleftmargin}{6mm}
+\renewcommand{\sliderightmargin}{6mm}
+\renewcommand{\slidetopmargin}{6mm} %%%
+\renewcommand{\slidebottommargin}{1mm}
+\renewcommand{\slidefuzz}{9pt}
+%%
+\renewcommand\labelitemi{\TO}
+\setlength{\itemsep}{0pt}
+%%
+%%\slidewidth=22.0cm \slideheight=17.0cm % do ew. zmiany ==> landscape
+\slidesmag{4}
+\definecolor{LightGreen}{rgb}{0.78,0.90,0.76}
+\definecolor{javadocblue}{rgb}{0,.5,.1}
+\definecolor{lightblue}{rgb}{0,.5,.7}
+\definecolor{darkgreen}{rgb}{0,0.6,0}
+\definecolor{xxlightblue}{rgb}{0.87,0.91,0.82}%%{.8,.9,.9}
+%\definecolor{LightGreen}{rgb}{0.78,0.90,0.76}
+\def\?{\phantom0}
+\definecolor{javadocblue}{rgb}{.1,.1,.5}
+\definecolor{lightblue}{rgb}{0,.5,.7}
+\definecolor{darkgreen}{rgb}{0,0.6,0}
+\let\OriSection\section \let\OriSubSection\subsection
+\def\section#1{\OriSection{\color{javadocblue}{#1}}}
+\def\subsection#1{\OriSubSection{\color{lightblue}{#1}}}
+\pagecolor{LightGreen} % t³o
+\slideframewidth=.4pt
+\ifpdf % to fix problems making landscape seminar pdfs
+\pdfpagewidth=330truemm
+%%%\pdfpagewidth=210truemm
+\pdfpageheight=297truemm
+%%%\pdfpageheight=330truemm
+\pdfhorigin=3.4truein
+\pdfvorigin=1truein
+\fi
+\setcounter{secnumdepth}{-1} % na wszelki wypadek
+\raggedbottom
+\raggedright
+%
+\pagestyle{empty}
+\newcommand{\source}[1]{\par \begin{small}#1\end{small}}
+\newcommand{\heading}[1]{%
+  \begin{center}
+    \large\bf #1%
+  \end{center}
+  \vspace{1ex minus 1ex}}
+%%
+%%
+\def\Blstress#1{\textbf{\color{javadocblue}#1}}
+\def\Clstress#1{\textbf{\color{darkgreen}#1}}
+\newcommand\acro[1]{\textsc{#1}}
+\newcommand{\SITI}{\acro{SI/TI}}
+\def\xfrac#1#2{#1\big/#2}
+\newcommand{\cov}{\textrm{cov}}
+\newcommand{\var}{\textrm{var}}
+\newcommand\factor[1]{\index{#1}\acro{#1}} %%%
+\newcommand{\FFx}{\acro{FF}}
+\newcommand\semindex[1]{\index{#1}\acro{#1}}
+\usepackage{graphicx}
+\usepackage{url}
+\raggedright
+%%\setcounter{secnumdepth}{-1}
+%%
+%\def\TO{{\tt ->}}
+\def\TO{$\to$}
+\def\Stress#1{\textbf{#1}}
+\def\strong#1{\textbf{#1}}\let\Strong \strong
+\def\STRONG#1{\textbf{#1}}
+\def\stress#1{\emph{#1}}
+\title{MODELOWANIE SATYSFAKCJI, U¯YTECZNO¦CI\\ I~WYKORZYSTANIA OPROGRAMOWANIA\\ OPEN SOURCE}
+\author{Tomasz Przechlewski}
+\date{}
+%\institution{Uniwersytet Gdañski}
+%\email{tomasz@gnu.univ.gda.pl}
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\maketitle
+\begin{slide}
+%%%%%%%%%%%%%%
+\begin{minipage}{.34\hsize}
+%%%
+\end{minipage}
+\begin{minipage}{.63\hsize}
+%%\vskip-40mm
+%%\vbox to0pt{\vss
+\begin{flushright}\bf
+STATYSTYKA
+%%
+\par \vskip4mm
+Tomasz Przechlewski
+\end{flushright}
+\end{minipage}
+%%
+
+\end{slide}
+
+
+\begin{slide}
+\subsection{Zagadnienia}
+
+\section{Ró¿ne pojêcia wstêpne}
+\textbf{Statystyka}: analiza struktury, przedzia³y ufno¶ci i~weryfikacja hipotez,
+analiza wspó³zale¿no¶ci.
+
+\textbf{Etapy analizy statystycznej}: -- prze³ó¿ obserwacje na postaæ
+liczbow± -- wnioskuj (zastosuj odpowiednie statystyki)
+
+\textbf{Analiza eksploracyjna} vs \textbf{analiza konfirmacyjna}
+
+Exploratory research is the stage of the research process that aims at
+connecting ideas as to unveil the ``why''s of potential cause/effect
+relationships. This occurs when researchers get started at
+understanding what they are actually observing when in the process
+of building cause/effect models. Confirmatory research
+(a.k.a. hypothesis testing) is where researchers have a pretty good
+idea of what's going on. That is, researcher has a theory (or several
+theories), and the objective is to find out if the theory is supported
+by the facts.
+
+\textbf{Opis statystyczny} -- liczbowe przedstawienie badanych
+zbiorowo¶ci lub zjawisk w postaci opisu: -- tabelarycznego; --
+graficznego; -- parametrycznego
+
+Opis statystyczny mo¿e dotyczyæ: -- struktury zbiorowo¶ci; --
+wspó³zale¿no¶ci; -- zmian zjawisk w czasie.
+
+\textbf{Badanie statystyczne} to zespó³ czynno¶ci zmierzaj±cych do
+uzyskania (za pomoc± metod statystycznych) informacji
+charakteryzuj±cych badan± zbiorowo¶æ lub zjawisko.  Najwa¿niejsze
+kryteria klasyfikacji badañ: -- zakres obserwacji badanych jednostek
+(pe³ne, czê¶ciowe); -- czêstotliwo¶æ: (ci±g³e, okresowe, dora¼ne); --
+zasiêg przestrzenny (miêdzynarodowe, krajowe, regionalne,
+¶rodowiskowe, monograficzne); -- dziedzina badañ (demograficzne,
+spo³eczne, ekonomiczne, rolnicze, jako¶ci ¶rodowiska naturalnego itp.
+
+\textbf{Populacja, zbiorowo¶æ statystyczna}: zbiór obiektów (osób,
+przedmiotów, zdarzeñ) logicznie ze sob± powi±zanych (ale nie
+identycznych), poddany badaniu statystycznemu.
+
+\textbf{Jednostka statystyczna}:
+jednostki statystyczne w danej populacji ró¿ni± siê od innych jednostek
+spoza danej populacji poprzez swoje w³asno¶ci wspólne (cechy sta³e), 
+jednocze¶nie ró¿ni± siê miêdzy sob± cechami (cechy zmienne), które s±
+przedmiotem zainteresowania badacza.
+
+\textbf{Cechy statystyczne} -- w³a¶ciwo¶ci jednostek statystycznych
+Cechy sta³e -- jednakowe dla wszystkich jednostek badania: rzeczowa
+(co? kto? jest badane/y) przestrzenna (gdzie?)  czasowa (kiedy?)
+
+\textbf{Cechy zmienne} -- ró¿nicuj±ce jednostki, bêd±ce przedmiotem
+zainteresowania: --~jako¶ciowe --~nominalne lub porz±dkowe
+--~dwudzielne lub wielodzielne --~ilo¶ciowe --~skokowe lub ci±g³e
+
+\textbf{Cecha statystyczna mierzalna (ilo¶ciowa)} -- okre¶lana jest za
+pomoc± liczb np. oceny, p³ace. Cechy mierzalne dziel± siê na skokowe
+i~ci±g³e.  Skokowe s± to cechy, które przyjmuj± skoñczon± liczbê
+warto¶ci, zwykle s± to liczby ca³kowite; Ci±g³e s± to cechy, które
+przyjmuj± dowolne warto¶ci liczbowe z~pewnego przedzia³u liczbowego
+np.~dochody, d³ugo¶æ ziarna fasoli.  Cecha porz±dkowa.
+
+\textbf{Rodzaje skal pomiarowych} --~nominalna (nominal scale), klasyfikuje:
+p³eæ; --~porz±dkowa (ordinal scale), klasyfikuje i~porz±dkuje: 
+zdolno¶æ kredytowa firmy, stadia choroby,
+--~Przedzia³owa (interval scale), posiada jeszcze sta³± jednostkê
+miary i umowne zero: temperatura --~Ilorazowa (rational scale),
+klasyfikuje, porz±dkuje od zera: wiek, wzrost, obrót
+
+Pytanie: oceny w~szkole to jaka skala?
+
+\textbf{Szereg rozdzielczy} (punktowy, przedzia³owy) -- jest to prosta tablica
+statystyczna z³o¿ona z dwóch kolumn lub z dwóch wierszy. W pierwszej
+kolumnie (wierszu) wypisujemy warto¶ci badanej cechy, a w drugiej
+liczby jednostek, które maj± dan± cechê.
+
+\textbf{Szereg prosty} powstaje poprzez uporz±dkowanie notowañ wed³ug
+rosn±cych lub malej±cych poziomów cech.
+
+
+\textbf{Data wrangling}, sometimes referred to as \textbf{data munging}, is the process
+of transforming and mapping data from one raw data form into another
+format with the intent of making it more appropriate and valuable for
+a~variety of downstream purposes such as analytics. A data wrangler is
+a~person who performs these transformation operations.
+
+%%This may include further munging, data visualization, data
+%%aggregation, training a statistical model, as well as many other
+%%potential uses.
+Data munging as a process typically follows a set of
+general steps which begin with extracting the data in a raw form from
+the data source, "munging" the raw data using algorithms
+(e.g. sorting) or parsing the data into predefined data structures,
+and finally depositing the resulting content into a data sink for
+storage and future use.
+
+\textbf{Data science} also known as data-driven science,
+is an interdisciplinary field of scientific methods, processes,
+algorithms and systems to extract knowledge or insights from data in
+various forms, either structured or unstructured.
+
+See the difference:
+
+Pure statistic approach Programs $\to$ Data $\to$ Knowledge
+
+DS approach: Data $\to$ Programs $\to$ Knowledge
+
+\section{Opracowanie danych}
+
+Klasyfikacja to ustalenie (wyodrêbnienie) wariantów cechy.
+
+Grupowanie -- podzia³ zbiorowo¶ci na jednorodne lub wzglêdnie
+jednorodne podgrupy z punktu widzenia wyró¿nionej cechy (cech):
+-- grupowanie typologiczne (cechy jako¶ciowe);
+-- grupowanie wariancyjne (cechy ilo¶ciowe).
+
+Zasady logiki formalnej: grupowanie musi byæ wyczerpuj±ce -- ka¿da
+jednostka zbiorowo¶ci musi byæ sklasyfikowana i w³±czona do
+odpowiedniej podgrupy; -- grupowanie powinno byæ roz³±czne --
+wyodrêbnione podgrupy musz± siê wzajemnie wykluczaæ; -- grupowanie
+powinno byæ efektywne -- wyró¿nione podgrupy powinny byæ na tyle
+jednorodne jako¶ciowo, by mog³y stanowiæ podstawê twierdzeñ
+uogólniaj±cych
+
+\textbf{Szeregiem statystycznym} nazywamy materia³ statystyczny
+uporz±dkowany lub uporz±dkowany i pogrupowany wed³ug
+okre¶lonych kryteriów (przyjêtych wariantów cechy).
+
+Szereg strukturalny:
+
+\begin{verbatim}
+Tablica 1. Struktura próby mieszkañców wg wykszta³cenia
+
+Wykszta³cenie liczba osób odsetek w %
+-------------------------------------
+podstawowe i gimnazjalne 130  13,0
+zawodowe                 272  27,2
+¶rednie                  444  44,5
+wy¿sze                   153  15,3
+Ogó³em                   999 100,0
+\end{verbatim}
+
+Szereg rozdzielczy punktowy:
+
+\begin{verbatim}
+Struktura gospodarstw domowych wg liczby samochodów
+
+Liczba samochodów    Liczba gospodarstw
+---------------------------------------
+0                      230
+1                      280
+2                       70
+3 i wiêcej               5
+Razem                  585
+\end{verbatim}
+
+Szereg rozdzielczy przedzia³owy:
+
+\begin{verbatim}
+Studenci wed³ug czasu wolnego
+
+Czas wolny w min.     Liczba osób
+--------------------------------
+30,1 - 60                      3
+60,1 - 90                      4
+90,1 - 120                     6
+120,1 - 150                    5
+150,1 - 180                    3
+180,1 - 210                    1
+Razem                         22
+\end{verbatim}
+
+Szereg kumulacyjny, Szereg czasowy, Szereg przestrzenny (geograficzny).
+
+\textbf{Budowa tablic statystycznych}: 1. Czê¶æ liczbowa (kolumny i
+wiersze); 2. Czê¶æ opisowa: -- tytu³ tablicy; -- boczek (nazwy
+wierszy); -- g³ówka (nazwy kolumn); -- ¼ród³o danych; -- ewentualne
+uwagi odnosz±ce siê do danych liczb.
+
+\section{Wizualizacja danych i wykresy}
+
+\textbf{Wykresy statystyczne} s± graficzn± form± prezentacji materia³u
+statystycznego, s± mniej precyzyjne i szczegó³owe ni¿ tablice,
+natomiast bardziej sugestywne.
+
+Rodzaje wykresów: -- punktowe (szereg szczegó³owy, rozdzielczy
+punktowy, diagram korelacyjny); -- obrazkowe (szereg strukturalny,
+wykresy popularyzatorskie); -- powierzchniowe (prostok±ty, kwadraty i
+ko³a) (rozdzielcze strukturalne, rozdzielcze przedzia³owe (histogram),
+czasowe i przestrzenne); -- liniowe (szeregi czasowe, rozdzielcze
+przedzia³owe (krzywa liczebno¶ci, wielobok liczebno¶ci), rozdzielcze
+punktowe, funkcje regresji); -- mapowe (szeregi geograficzne
+(kartogram lub kartodiagram)); -- z³o¿one
+
+Rodzaje wykresów (podzia³ ze wzglêdu na zastosowanie):
+
+scatter plots/liniowe -- szeregi czasowe
+
+s³upkowe -- szeregi przestrzenne
+
+pude³kowe -- porównanie wielu szeregów przestrzennych
+
+ko³owe -- nie u¿ywaæ
+
+
+\section{Analiza struktury}
+
+Analiza struktury: badanie budowy wewnêtrznej zbiorowo¶ci ze
+wzglêdu na obserwowane w badaniu cechy zmienne.
+
+Podstawê do oceny struktury zbiorowo¶ci stanowi± dane w postaci
+szeregu szczegó³owego, b±d¼ te¿ pogrupowane
+
+Analizê prowadziæ mo¿na na podstawie wykresów, szeregów
+rozdzielczych oraz (najczê¶ciej) za pomoc± odpowiednio obliczonych
+charakterystyk, zwanych parametrami (dla populacji) lub
+statystykami (dla próby).
+
+Tylko szereg rozdzielczy poka¿e bezpo¶rednio rozk³ad cechy, czyli
+roz³o¿enie jednostek zbiorowo¶ci do poszczególnych wariantów
+badanej cechy.
+
+Rozk³ad cechy:
+przyporz±dkowanie liczby wyst±pieñ (liczebno¶ci, czêsto¶ci lub
+prawdopodobieñstwa) odpowiednim warto¶ciom cechy zmiennej.
+
+Analiza struktury obejmuje:
+okre¶lenie tendencji centralnej (warto¶æ przeciêtba, mediana, dominanta)
+zró¿nicowanie warto¶ci (rozproszenie)
+asymetriê
+koncentracjê
+
+\textbf{Miary po³o¿enia}
+
+Klasyczne i pozycyjne.  Miary przeciêtne charakteryzuj± ¶redni lub
+typowy poziom warto¶ci cechy. S± to wiêc takie warto¶ci, wokó³ których
+skupiaj± siê wszystkie pozosta³e warto¶ci analizowanej cechy.
+
+Do miar klasycznych zalicza siê: ¶redni± arytmetyczn±
+
+\textbf{Miary pozycyjne}: mediana, moda (dominanta), kwartyle,
+kwantyle, decyle
+
+¦rednia artmetyczna (\emph{Mean}, \emph{Arithmetic mean\/}):
+Oblicznie ¶redniej dla szeregu prostego:
+ %%
+\begin{equation}
+\bar x = \frac{\sum_{i=1}^N x_i} {N}
+\end{equation}
+
+¦rednia arytmetyczna wa¿ona.
+Oblicznie ¶redniej dla szeregu rodzielczego:
+
+\begin{equation}
+\bar x = \frac{\sum_{i=1}^k x_i n_i} {\sum_{i=1}^k n_i}
+\end{equation}
+
+\textbf{Mediana} (Median, kwartyl drugi) dzieli zbiorowo¶æ na dwie równe czê¶ci; po³owa
+jednostek ma warto¶ci cechy mniejsze lub równe medianie, a po³owa
+warto¶ci cechy równe lub wiêksze od Me. St±d te¿ mediana bywa nazywana
+warto¶ci± ¶rodkow±.
+
+\textbf{W³a¶no¶ci mediany}:
+-- mo¿e byæ obliczana w~tych przypadkach, w~których obliczenie 
+¶redniej arytmetycznej (np. szeregi o otwartych przedzia³ach klasowych), 
+a~tak¿e modalnej (ró¿ne rozpiêto¶ci przedzia³ów klasowych) jest niemo¿liwe;
+--~mediana nie reaguje na zmiany cech skrajnych jednostek, 
+czyli na tzw. obserwacje nietypowe (przypadkowe);
+--~je¿eli rozk³ad danych jest symetryczny, wówczas Me = D = $\bar x$.
+
+parzysta liczba jednostek w~wielko¶æ zbiorowo¶ci:
+ %%
+\begin{equation}
+\textrm{Me} = \frac{x_{n/2} + x_{n/2 +1}}{2}
+\end{equation}
+ %%
+lub (nieparzysta liczba jednostek w~wielko¶æ zbiorowo¶ci):
+ %%
+\begin{equation}
+\textrm{Me} = x_{(n+1)/2}
+\end{equation}
+ %%
+lub (szereg rozdzielczy, przedzia³owy):
+ %%
+\begin{equation}
+\textrm{Me} = x_0 + (\frac{N}{2} - \textrm{cum}_{n-1}) \frac{c_0}{n_0}
+\end{equation}
+gdzie $x_0$ -- dolna granica przedzia³u mediany 
+$n_0$ -- liczebno¶æ przedzia³u mediany
+$\textrm{cum}_{n-1}$ -- liczebno¶æ przedzia³u poprzedzaj±cego
+przedzia³ mediany
+$c_0$ -- rozpiêto¶æ przedzia³u mediany.
+
+\begin{verbatim}
+wysoko¶æ p³ac  l.pracowników
+800-1000       300        300
+1000-1600     2400        2700
+1600-2000     1200        3900
+2000-3000     2500        6400
+3000 i wiêcej 1000        7400
+\end{verbatim}
+
+\textbf{Dominanta} (\emph{Mode}, Moda, warto¶æ modalna, warto¶æ
+najczêstsza) jest to warto¶æ cechy statystycznej, która w~szeregu
+empirycznym wystêpuje najczê¶ciej. W~szeregach prostych
+i~rozdzielczych jest to warto¶æ cechy, której odpowiada najwiêksza
+liczebno¶æ (czêsto¶æ).
+
+szereg rozdzielczy, przedzia³owy:
+ %%
+\begin{equation}
+\textrm{D} = x_0 + c_0 \frac{n_0 - n_{-1}}{(n_0 - n_{-1}) + (n_0 - n_{+1} )}
+\end{equation}
+gdzie $x_0$ -- dolna granica przedzia³u najliczniejszego 
+$n_0$ -- liczebno¶æ (gêsto¶æ) przedzia³u najliczniejszego
+$c_0$ -- rozpiêto¶æ przedzia³u najliczniejszego
+
+Je¿eli przedzia³y maj± ró¿n± rozpiêto¶æ, to mo¿na pos³ugiwaæ
+siê pojêciem \emph{gêsto¶ci}.
+
+Kwartyle (Q, \emph{quartile}, $Q_1$, $Q_3$), 
+kwantyle (D, warto¶ci dziesiêtne), 
+centyle (P, warto¶ci setne)
+
+\begin{equation}
+\textrm{Poz}_{Qr,v} = (N + 1) \frac{r}{v} \qquad \textrm{lub}\qquad
+\textrm{Poz}_{Qr,v} = N  \frac{r}{v}
+\end{equation}
+%%
+lub
+%%
+\begin{equation}
+Q_{r,v} = x_0 + ( \textrm{Poz}_{Qr,v} - \textrm{cum}_{n-1} ) \frac{c_0}{n_0}
+\end{equation}
+gdzie $x_0$ -- dolna granica przedzia³u mediany 
+$n_0$ -- liczebno¶æ przedzia³u $Q_{r,v}$
+$\textrm{cum}_{n-1}$ -- liczebno¶æ przedzia³u poprzedzaj±cego
+przedzia³ $Q_{r,v}$
+$c_0$ -- rozpiêto¶æ przedzia³u $Q_{r,v}$.
+
+\section{Miary zmienno¶ci}
+
+Wariancja, odchylenie standardowe, odchylenie przeciêtne, wspó³czynnik
+zmienno¶ci (Pearsona)
+
+\textbf{Wariancja} (\emph{variance\/}) jest to ¶rednia arytmetyczna
+kwadratów odchyleñ poszczególnych warto¶ci cechy od ¶redniej
+arytmetycznej zbiorowo¶ci.
+
+Oblicznie wariancji dla szeregu prostego:
+ %%
+\begin{equation}
+S^2 = \frac{1}{N} \sum_{i=1}^N (x_i - \bar x)^2
+\end{equation}
+ %%
+czêsto zamiast dzielenie przez $N$ dzielimy przez $N-1$.
+
+Oblicznie wariancji dla szeregu rodzielczego:
+ %%
+\begin{equation}
+S^2 = \frac{1}{N} \sum_{i=1}^k (x_i - \bar x)^2 n_i
+\end{equation}
+ %%
+lub (pro¶ciej):
+ %%
+\begin{equation}
+S^2 = \frac{1}{N} \sum_{i=1}^k x_i^2 n_i - \bar x^2
+\end{equation}
+ %%
+\textbf{Odchylenie standardowe} (\emph{standard deviation\/}, sd) 
+jest pierwiastkiem kwadratowym z~wariancji.
+Parametr ten okre¶la przeciêtne zró¿nicowanie poszczególnych warto¶ci
+cechy od ¶redniej arytmetycznej.
+
+\textbf{Odchylenie przeciêtne} (\emph{average absolute deviation}, d):
+ %%
+\begin{equation}
+d = \frac{1}{N} \sum_{i=1}^n | x_i - \bar x |
+\end{equation}
+ %%
+miara bardzo rzadko u¿ywana.
+
+Wspó³czynniki pozycyjne. Odchylenie æwiartkowe (Q, \emph{midhinge\/}):
+\begin{equation}
+Q = \frac{Q_3 - Q_1}{2}
+\end{equation}
+%%
+ i~rozstêp æwiartkowy (\emph{interquartile range\/}):
+%%
+\begin{equation}
+R_Q = \frac{Q_3 - Q_1}{2}
+\end{equation}
+
+\textbf{Wspó³czynnik zmienno¶ci} jest ilorazem bezwzglêdnej miary zmienno¶ci
+cechy i~¶redniej warto¶ci tej cechy. W~analizie struktury korzysta siê
+z~ró¿nych miar po³o¿enia i~zmienno¶ci, dlatego s± wspó³czynniki
+zmienno¶ci klasyczne i~pozycyjne.
+
+Wspó³czynniki klasyczne:
+\begin{equation}
+V_s = \frac{s}{\bar x}\qquad \textrm{lub}\qquad 
+V_d = \frac{d}{\bar x}
+\end{equation}
+ %%
+pozycyjne
+ %%
+\begin{equation}
+V_Q = \frac{Q_3 - Q_1}{\textrm{Me}}
+\end{equation}
+%%
+albo (\emph{Quartile coefficient of dispersion\/}):
+%%
+\begin{equation}
+V_Q = \frac{Q_3 - Q_1}{Q_3 + Q_1}
+\end{equation}
+ %%
+\textbf{Wspó³czynnik zmienno¶ci} jest warto¶ci± niemianowan±.
+Warto¶ci liczbowe wspó³czynników zmienno¶ci najczê¶ciej s± podawane
+w~procentach.  Przyjmuje siê, ¿e je¿eli wspó³czynnik zmienno¶ci jest
+poni¿ej 10\%, to cechy wykazuj± zró¿nicowanie statystycznie
+nieistotne.  Du¿e warto¶ci tego wspó³czynnika ¶wiadcz± o du¿ym
+zró¿nicowaniu, a wiêc niejednorodno¶ci zbiorowo¶ci.
+
+Wspó³czynnik zmienno¶ci stosuje siê zwykle w porównaniach, gdy chce
+siê oceniæ zró¿nicowanie: kilku zbiorowo¶ci pod wzglêdem tej samej
+cechy, tej samej zbiorowo¶ci pod wzglêdem kilku ró¿nych cech.
+
+\section{Momenty}
+Uogólniaj±c klasyczne miary po³o¿enia i zmienno¶ci
+mo¿na zdefiniowaæ nastêpuj±c± funkcjê zwan± momentem (rzêdu $r$):
+ %%
+\begin{equation}
+M_r = \frac{1}{N} \sum_{i=1}^N (x_i - p)^r 
+\end{equation}
+ %%
+je¿eli $p = 0$ to moment nazywamy zwyk³ym, je¿eli $p = \bar x$
+centralnym. Momenty centralne zwykle oznacza siê greck± 
+liter± $\mu$ (mju jak seria wodoszczelnych aparatów Olympusa).
+Momenty zwyk³e s± rzadziej u¿ywane (za wyj±tkiem pierwszego).
+
+Jak widaæ ¶rednia to  pierwszy moment zwyk³y
+a~wariancja to drugi moment centralny. ,,Uproszczony'' wzór na wariancjê
+podany wy¿ej sprowadza siê zatem do ($m_2$ to drugi moment zwyk³y):
+ %%
+\begin{equation}
+\mu_2 = m_2 - \mu_1^2
+\end{equation}
+
+\section{Miary asymetrii}
+
+Asymetria (\emph{skewness\/}), to odwrotno¶æ symetrii. Szereg jest symetryczny
+je¿eli jednostki s± roz³o¿one ,,równomiernie'' wokó³ warto¶ci ¶redniej:
+%%
+\begin{equation}
+\bar x = \textrm{Me} = D
+\end{equation}
+ %%
+Asymetria prawostronna, lewostronna; wska¼nik asymetrii (sko¶no¶ci),
+wspó³czynniki asymetrii (sko¶no¶ci).
+
+Moment trzeci centralny -- ¶rednia arytmetyczna z~podniesionych do potêgi
+trzeciej odchyleñ warto¶ci cechy od ¶redniej arytmetycznej
+
+\begin{equation}
+\mu_3 = \frac{1}{N} \sum_{i=1}^N (x_i - \bar x)^3
+\end{equation}
+albo (za pomoc± momentów zwyk³ych):
+\begin{equation}
+\mu_3 =  m_3 - 3 m_2 \bar x + 2 \bar x^3
+\end{equation}
+ %%
+je¿eli $\mu_3 = 0 $ szereg symetryczny,
+$\mu_3 > 0 $ asymetria dodatnia (prawostronna),
+$\mu_3 < 0 $ asymetria ujemna (lewostronna)
+
+Moment trzeci wzglêdny okre¶la si³ê i kierunek asymetrii:
+ %%
+\begin{equation}
+g_1 =  \frac{\mu_3}{s^3}
+\end{equation}
+ %%
+Na podstawie badañ empirycznych: $-2 < g_1 < 2$,
+w~skrajnych przypadkach mo¿e przekraczaæ ten przedzia³.
+
+Wspó³czynnik asymetrii (sko¶no¶ci) oparty na 
+odleg³o¶ciach miêdzy ¶rednimi (K.~Pearson).
+ %%
+\begin{equation}
+W_s =  \frac{\bar x - D}{s}
+\end{equation}
+ %%
+rzadziej u¿ywa siê:
+ %%
+\begin{equation}
+W_s =  \frac{\bar x - \textrm{Me}}{s}
+\end{equation}
+ %%
+Wspó³czynnik asymetrii (sko¶no¶ci) oparty na odleg³o¶ciach miêdzy kwartylami
+lub decylami:
+\begin{equation}
+W_{sq} =  \frac{(Q_3 - Q_2) - (Q_2 - Q_1)}{Q_3 - Q_1}
+\end{equation}
+
+\section{Miary koncentracji}
+
+Koncentracja: roz³o¿enie warto¶ci cechy pomiêdzy poszczególne jednostki
+populacji. Brak koncentracji: wszystkie jednostki maj± ró¿ne warto¶ci;
+maksymalna koncentracja: wszystkie jednostki maj± t± sam± warto¶æ.
+ %%
+\begin{equation}
+K = \frac{\mu_4}{s^4} - 3
+\end{equation}
+ %%
+warto¶æ K wynosi 0 dla rozk³adu normalnego; je¿eli $K<0 $
+rozk³ad jest sp³aszczony, je¿eli $K>0$ rozk³ad jest bardziej skoncentrowany
+ni¿ rozk³ad normalny
+
+\textbf{Wspó³czynnik Giniego i~Krzywa Lorenza}.
+Krzywa Lorenza jest kre¶lona w uk³adzie wspó³rzêdnych XY. O¶ OX
+reprezentuje kumulowan± liczebno¶æ (wyra¿on± najczê¶ciej jako udzia³
+w~ca³kowitej liczebno¶ci populacji). O¶ OY 
+reprezentuje kumulowan± warto¶æ cechy (tak¿e w~\%\%).
+Ka¿dy punkt na krzywej Lorenza reprezentuje wtedy stwierdzenie typu:
+20\% jednostek ma 5\% ³±cznej warto¶ci cechy. Np. 25\% ludno¶ci
+posiada 8\% ³±cznych dochodów, albo 50\% rolników posiada 15\% ³acznych
+area³ów, itp.
+
+Przy za³o¿eniu, ¿e dane s± w postaci szeregu rozdzielczego a warto¶ci
+kumulowane liczebno¶ci populacji oraz warto¶æ cechy s± wyra¿one
+w~\%\%. Wspó³czynnik Giniego mo¿na obliczyæ jako:
+ %%
+\begin{equation}
+G = 1 - \left( \sum_{i=1}^k \frac{x_{cum_i} + 
+  x_{cum_{i-1}} }{2} (n_{cum_i} + n_{cum_{i-1}}) \right) / 5000
+\end{equation}
+ %%
+przy czym $x_{cum_0} = 0 $ oraz $n_{cum_0} = 0 $;
+$x_{cum_i}$ -- warto¶æ kumulowana cechy dla przedzia³u $i$;
+$n_{cum_i}$ -- warto¶æ kumulowana liczebno¶ci dla przedzia³u $i$;
+
+Powy¿sze to po prostu obliczenie pola \textbf{pod lini± ³aman±} w~kwadracie $100 \times 100$.
+Po³owa pola tego kwadratu wynosi 5000. 
+Je¿eli krzywa Lorenza pokrywa siê
+z przek±tn± kwadratu, to $G=0$ (brak koncentracji). Warto¶ci wiêksz od zera wskazuj±
+na koncentracjê warto¶ci cechy.
+
+\begin{verbatim}
+http://www.fao.org/ag/AGP/agpc/doc/Counprof/uruguay/uruguay.htm
+------------------------------------------
+           Farms Area  Farm size (hectares)
+           Number       %%  Hectares    %%
+-------------------------------------------
+1 to 4        6,260   10.9     16,516   0.1
+5 to 9        7,086   12.4     47,611   0.3
+10 to 19      7,118   12.5     97,841   0.8
+20 to 49      8,934   15.6    285,254   1.7
+50 to 99      6,647   11.6    472,928   2.9
+100 to 199    6,382   11.2    910,286   5.5
+200 to 499    6,783   11.9  2,162,836  13.2
+500 to 999    3,687    6.8  2,725,637  16.6
+1000 to 2499  2,912    5.1  4,441,627  27.0
+2500 to 4999    838    1.5  2,837,134  17.3
+5000 to 9999    228    0.4  1,504,482   9.2
+10000 and more   56    0.1    917,531   5.6
+-------------------------------------------
+TOTAL        57,131  100.0 16,419,683 100.0
+-------------------------------------------
+\end{verbatim}
+
+Zadanie 1:
+
+Trasa wy¶cigu dooko³a Flandrii liczy³a w 2007 roku 259 km.
+Od 125 km do mety zaczê³y siê s³ynne flandryjskie pagórki, których wykaz jest na stronie
+\verb@http://pl.wikipedia.org/wiki/Dooko³a_Flandrii_2007.@
+
+1.~Wyznaczyæ ¶redni± wysoko¶æ wzniesieñ oraz przeprowadziæ wszechstronn± analizê 
+szeregu szczegó³owego wykorzystuj±c pozycyjne miary przeciêtnego poziomu (dominanta, mediana, kwartyle)
+
+2.~Przeprowadziæ szczegó³ow± analizê wykorzystuj±c miary dyspersji i asymetrii.
+
+3.~Zbudowaæ szereg rozdzielczy.
+
+
+\end{slide}
+
+
+\end{document}
+
+% Local Variables:
+% TeX-master: ""
+% mode: latex
+% coding: iso-8859-2
+% ispell-local-dictionary: "polish"
+% End:
+

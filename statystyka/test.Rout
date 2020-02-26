@@ -1,0 +1,54 @@
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> library("ggplot2")
+> library("dplyr")
+
+Dołączanie pakietu: ‘dplyr’
+
+Następujące obiekty zostały zakryte z ‘package:stats’:
+
+    filter, lag
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> library("ggpubr")
+Ładowanie wymaganego pakietu: magrittr
+> 
+> dane <- read.csv(file= "MZM.csv", header=T, sep=";");
+> 
+> p1 <- ggplot() +
++   geom_point(data=dane, mapping=aes(x=data, y=razem, colour="blue"), alpha=.5, size=2) +  geom_point(data=dane, mapping=aes(x=data, y=krajowi, colour="green"), alpha=.5, size=2) +  
++   ylab(label="sales [ths]") +
++   theme(legend.title=element_blank()) 
+> 
+> p2 <- ggplot() +
++ geom_line(data=dane, mapping=aes(x=as.Date(data), 
++    y=razem, colour="blue"), alpha=.5, size=2) +  
++ geom_line(data=dane, mapping=aes(x=as.Date(data), y=krajowi, colour="green"), alpha=.5, size=2) +  
++   ylab(label="sales [ths]") +
++   theme(legend.title=element_blank()) 
+> 
+> ggarrange(p1, p2, ncol = 2, nrow = 1)
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     1.211      0.068      1.265 

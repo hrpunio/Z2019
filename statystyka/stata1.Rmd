@@ -267,11 +267,9 @@ Rodzaje wykresów (podział ze względu na zastosowanie):
 
 **Jedna cecha**
 
-szeregi strukturalne: punktowe, słupkowe, histogram, pudełkowe, kołowe (nie używać)
-
-szeregi czasowe: liniowe
-
-szeregi przestrzenne: kartogramy
+**szeregi strukturalne**: punktowe, słupkowe, histogram, pudełkowe, kołowe;
+**szeregi czasowe**: liniowe, słupkowe, punktowe;
+**szeregi przestrzenne**: kartogramy.
 
 **Dwie cechy**
 
@@ -302,7 +300,7 @@ Analiza struktury obejmuje:
 **asymetrię** (rozłożenie wartości wokół średniej);
 **koncentrację** (podział wartości cechy pomiędzy jednostki)
 
-### Wykresy
+## Wykresy
 
 Celem jest pokazanie rozkładu wartości cechy w populacji: jakie wartości występują
 często a jakie rzadko, jak bardzo wartości różnią się między sobą. Jak różnią
@@ -633,6 +631,169 @@ przed 40-tką w literaturze, przed trzydziestką w chemii, medycynie i nagrodzie
 
 Wykres niezwykle użyteczny do porównywania różnic w rozkładach wartości cechy.
 
+**Przykład 4: Zaufanie do Politykow**
+
+CBOS realizuje co najmniej 12 razy w roku sondaż "Aktualne problemy i wydarzenia", na reprezentatywnej ok. 1000-osobowej próbie dorosłych mieszkańców Polski. (cf https://www.cbos.pl/PL/trendy/trendy.php?)
+
+```{r, cache = F, echo=F, message=F, warning=FALSE}
+require("tidyr");
+
+dA <- read.csv("zaufanie_do_politykow_CBOS_2019.csv", sep = ';',  header=T, na.string="NA");
+
+## kto;zaufanie;diffz;nieuf;diffn;obojetnosc;nieznajomosc
+
+## https://stackoverflow.com/questions/17148679/construct-a-manual-legend-for-a-complicated-plot
+cols <- c("zaufanie"="blue","nieufnosc"="red","nieznajomosc"="black")
+
+p1 <- ggplot(dA, aes(x = reorder(kto, zaufanie) )) +
+  geom_point(aes(y = zaufanie, colour="zaufanie"), size=3 ) +
+  geom_point(aes(y = nieuf, colour="nieufnosc" ), size=3 ) +
+  geom_bar(stat = 'identity', 
+           aes(y = nieznajomosc, fill="nieznajomosc" ), alpha=.3 ) + 
+  xlab(label="") + 
+  ylab(label="%") + 
+  ggtitle("Zaufanie do polityków 1/2019") +
+  theme(axis.text = element_text(size = 8)) +
+  theme(legend.position="top") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  ###coord_cartesian(ylim = c(0, 8)) +
+  ##scale_fill_manual(values = c("blue", "red", "black")) +
+  scale_colour_manual(name="",values=cols) + 
+  scale_fill_manual(name="",values=cols) +
+  coord_flip()
+
+### https://www.guru99.com/r-dplyr-tutorial.html#9
+### Ordering factor
+dA$sortOrder <- dA$zaufanie
+
+dB <- dA %>% gather(aspekt, vv, zaufanie:nieznajomosc) %>% 
+   filter(aspekt=="zaufanie" | aspekt =="nieuf" | aspekt == "nieznajomosc") %>% as.data.frame
+
+p2 <- ggplot(dB, aes(x = reorder(kto, sortOrder), y=vv, fill=aspekt )) +
+  ggtitle("Zaufanie do polityków 1/2019") +
+  theme(legend.position="top") +
+  xlab(label="") + 
+  ylab(label="") + 
+  geom_bar(position="stack", stat="identity") +
+  coord_flip()
+
+### wariant z linią bazową pośrodku (lewa-prawa)
+dA$nieuf <- -dA$nieuf
+dA$nieznajomosc <- -dA$nieznajomosc
+
+dC <- dA %>% gather(aspekt, vv, zaufanie:nieznajomosc) %>%
+   filter(aspekt=="zaufanie" | aspekt =="nieuf" | aspekt == "nieznajomosc") %>% as.data.frame
+
+p2A <- ggplot(dC, aes(x = reorder(kto, sortOrder), y=vv, fill=aspekt )) +
+  ggtitle("Zaufanie do polityków 1/2019") +
+  theme(legend.position="top") +
+  xlab(label="") +
+  ylab(label="") +
+  geom_bar(position="stack", stat="identity") +
+  coord_flip()
+
+## Faceted piechart
+##
+p3 <- ggplot(dB,aes(x = "", y=vv, fill=factor(aspekt))) +
+  ggtitle("Zaufanie do polityków 1/2019") +
+  xlab(label="") +
+  ylab(label="") +
+  facet_wrap(~kto) +
+  geom_bar(width = 1,position = "fill", stat="identity") +
+  coord_polar(theta="y")
+
+## Faceted piechar
+## http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/
+p3 <- ggplot(dB,aes(x = "", y=vv, fill=factor(aspekt))) + 
+  ggtitle("Zaufanie do polityków 1/2019") +
+   theme(legend.position="top") +
+  xlab(label="") + 
+  ylab(label="") + 
+  facet_wrap(~kto, ncol=8) + 
+  geom_bar(width = 1,position = "fill", stat="identity") + 
+  coord_polar(theta="y")
+
+## Faceted barchart
+p3A <- ggplot(dB, aes(x =kto , y=vv, fill=aspekt )) +
+  ggtitle("Zaufanie do polityków 1/2019") +
+  theme(legend.position="top") +
+  xlab(label="") +
+  ylab(label="") +
+  facet_wrap(~aspekt) +
+  geom_bar(stat="identity") +
+  coord_flip()
+```
+
+Częścią tych badań jest badanie zaufania do Polityków. Które to zaufanie
+jest mierzone w taki sposób, że respondenci odpowiadają na jedno pytanie,
+które brzmi: *Ludzie aktywni publicznie – swoim zachowaniem, tym, co mówią, do czego dążą – budzą mniejsze lub większe
+zaufanie. Przedstawimy teraz Panu(i) listę osób aktywnych w życiu politycznym naszego kraju. O każdej z nich proszę powiedzieć,
+w jakim stopniu budzi ona Pana(i) zaufanie. Odpowiadając, proszę posłużyć się skalą, na której –5 oznacza, że osoba ta budzi
+w Panu(i) głęboką nieufność, 0 – że jest ona Panu(i) obojętna, a +5 oznacza, że ma Pan(i) do tej osoby pełne zaufanie. Oczywiście
+może się Pan(i) posługiwać innymi ocenami tej skali. Jeżeli kogoś Pan(i) nie zna, proszę powiedzieć*
+
+Odsetki badanych wyrażających zaufanie – wskazania punktów od +1 do +5, nieufność – wskazania punktów od –1 do –5,
+obojętność – 0
+
+W zestawieniu CBOS pomija odpowiedzi „trudno powiedzieć” 
+i odmowy odpowiedzi. 
+
+Analiza CBOS (przykład raportu jest 
+w pliku `zaufanie_do_politykow_CBOS_2019.pdf`) posługuje się 
+skumulowanym wykresem słupkowym (*stacked barchart*):
+
+```{r cache = F, echo=F, message=F, warning=FALSE, fig.width=10}
+ggarrange(p2, p2A, ncol = 2, nrow = 1)
+```
+
+Skumulowany wykres słupkowy jest w zasadzie jest wykresem kołowym,
+tyle że zamiast kółek są prostokąty (cf https://eagereyes.org/techniques/stacked-bars-are-the-worst). 
+Można łatwo porównywać 
+łączną wartość albo wartość przedstawioną za pomocą pierwszego słupka
+(bo mają wspólną linię dla wartości zero, *common baseline*).
+Pozostałe słupki nie są oparte o wspólną linię zerowej wartości i w związku
+z tym porównanie ich wartości jest trudne.
+W  przykładzie każdy słupek ma 3 kategorie a już jest trudno 
+wskazać czy nieufność do Pawła Kukiza jest większa czy mniejsza od nieufności
+do Roberta Biedronia. Gorzej wykres sugeruje, że nieufność do Biedronia
+jest większa niż do Kukiza, podczas gdy w rzeczywistości jest odwrotnie.
+Podobnie trudno jest określić dla konkretnego polityka czy zaufanie jest większe od nieufności albo o ile jest większe (lub mniejsze)..
+
+Można trochę poprawić
+wykres jeżeli wartości podzielimy na ujemne/dodatnie 
+(wykres po prawej). Można ale po co? Najlepiej po prostu wykreślić
+oddzielne wykresy słupkowe dla każdej kategorii czyli wykreślić
+słupki z każdej kategorii oddzielniem na wspólnej linii zera:
+
+```{r cache=F, echo=F, message=F, warning=FALSE}
+p3A
+```
+
+Wykres kołowy kolejny raz jest najmniej przydatny. Niemożliwe albo
+bardzo trudne jest zorientowanie się w różnicach odsetka zaufania/nieufności/nieznajmości dla poszczególnych kandydatów:
+
+```{r cache = F, echo=F, message=F, warning=FALSE, fig.width=10}
+p3
+```
+
+Można spróbować połączyć wykres punktowy z wykresem słupkowym:
+
+```{r cache = F, echo=F, message=F, warning=FALSE}
+p1
+```
+
+Patrząc na słupki można ocenić nieznajomość;
+patrząc na kropki zaufanie/nieufność. W porówaniu do skumulowanego
+wykresu słupkowego zarówno łatwe jest porównanie poziomów każdego 
+czynnika dla wszystkich ocenianych
+polityków, jak i porównanie dla konkretnego polityka (czy zaufanie jest większe od nieufności albo o ile jest większe/mniejsze). Ale uwaga jeżeli
+liczba wymiarów będzie większa niż trzy wykres straci 
+na przejrzystości zamieniając się w chmurę różnokolorowych kropek.
+
+**Przykład 5: Marimekko mosaic chart**
+
+## Analiza parametryczna
+
 ### Miary położenia
 
 Miary przeciętne charakteryzują średni lub
@@ -695,7 +856,7 @@ populację w proporcji 25/75%, kwartyl drugi w proporcji 50/50%, a kwartyl trzec
 Przykładowo wartość 99 centyla 
 i mniejszą ma 99% jednostek w populacji.
 
-## Miary zmienności
+### Miary zmienności
 
 Wariancja, odchylenie standardowe, odchylenie przeciętne, współczynnik
 zmienności (Pearsona)
@@ -785,7 +946,7 @@ Vm -- współczynnik zmienności tj Vm = Sm / Tm * 100
 Dla lutego współczynnik zmienności przymuje absurdalną wartość 6 tysięcy (procent).
 Do tego na minus.
 
-## Miary asymetrii
+### Miary asymetrii
 
 Asymetria (*skewness*), to odwrotność symetrii. Szereg jest symetryczny
 jeżeli jednostki są rozłożone ,,równomiernie'' wokół wartości średniej:
@@ -826,11 +987,11 @@ $$
 W_{sq} =  \frac{(Q_3 - Q_2) - (Q_2 - Q_1)}{Q_3 - Q_1}
 $$
 
-## Miary koncentracji
+### Miary koncentracji
 
 **Koncentracja** -- nierównomierny podział wartości cechy w zbiorowości.
 
-### Współczynnik Giniego i Krzywa Lorenza.
+*Współczynnik Giniego i Krzywa Lorenza*
 
 **Krzywa Lorenza** jest funkcją określoną na zbiorze liczb dodatnich L(Cn),
 gdzie Cn jest kumulowaną liczebnością zaś L kumulowaną wartość cechy.
@@ -848,7 +1009,7 @@ równomiernego rozkładu (koncentracji równomiernej, *line of equality*).
 Im większa koncentracji, tym krzywa Lorenza jest bardziej wygięta, a wartość
 współczynnika Ginego większa (maksymalną wartością jest 1)
 
-### Współczynnik HH
+*Współczynnik HH*
 
 Innym współczynnikiem koncentracji jest współczynnik Herfindahla-Hirschmana 
 (HH-Index, https://en.wikipedia.org/wiki/Herfindahl%E2%80%93Hirschman_Index):
@@ -857,9 +1018,14 @@ $$HH = \sum_{i=1}^N x_i^2, \quad\mathrm{gdzie}: \sum_{i=1}^N x_i =100%$$
 Maksymalną wartością tego współczynnika jest 10000, wartości większe od 1800
 świadczą o znacznej koncentracji.
 
+### Przykłady analizy parametrycznej ###
+
+
 # Analiza korelacji
 
-### Wykresy
+## Pojęcia wstępne
+
+## Wykresy
 
 Zależność pomiędzy uzwiązkowieniem (liczonym jako udział płac związkowców w całości płac)
 a wielkością GDP (na głowę, czyli per capita):
@@ -879,30 +1045,86 @@ lm <- lm(data=d, gdppc ~ tu.density );
 ##summary(lm)
 ```
 
+## Analiza parametryczna
 
 # Analiza szeregów czasowych
 
 ### Wykresy
+
+W przypadku szeregów czasowych celem wizualizacji jest: pokazanie poziomu
+zjawiska, jego dynamiki (spada, rośnie, zmienia się cyklicznie), porównanie poziomów/dynamiki wielu zmiennych.
+
+Do wizualizacji szeregów czasowych należy stosować wykresy punktowe,
+liniowe lub słupkowe.
+
+**Przykład 1: Zwiedzający Muzeum Zamkowe w Malborku**
+
+Plik `MZM.csv` zawiera liczę zwiedzających Muzeum Zamkowe w Malborku
+(w latach 2015-2019; dane miesięczne)
 
 ```{r message=FALSE, echo=F, warning=FALSE, fig.width=10}
 dane <- read.csv(file= "MZM.csv", header=T, sep=";");
 
 p1 <- ggplot() +
   geom_point(data=dane, mapping=aes(x=as.Date(data), 
-                  y=razem, colour="blue"), alpha=.5, size=2) +  
+                  y=razem, colour="razem"), alpha=.5, size=2) +  
   geom_point(data=dane, mapping=aes(x=as.Date(data), 
-                      y=krajowi, colour="green"), alpha=.5, size=2) +  
-  ylab(label="sales [ths]") +
+                      y=krajowi, colour="krajowi"), alpha=.5, size=2) +  
+  ylab(label="zwiedzający") +
+  xlab(label="") +
+  theme(legend.position="top") +
   theme(legend.title=element_blank()) 
 
 p2 <- ggplot() +
-geom_line(data=dane, mapping=aes(x=as.Date(data), y=razem, colour="blue"), alpha=.5, size=1) +  geom_line(data=dane, mapping=aes(x=as.Date(data), y=krajowi, colour="green"), alpha=.5, size=1) +  
-  ylab(label="sales [ths]") +
+geom_line(data=dane, mapping=aes(x=as.Date(data), y=razem, colour="razem"), alpha=.5, size=1) +  
+  geom_line(data=dane, mapping=aes(x=as.Date(data), y=krajowi, colour="krajowi"), alpha=.5, size=1) +  
+  ylab(label="zwiedzający") +
+  xlab(label="") +
+  theme(legend.position="top") +
   theme(legend.title=element_blank()) 
 
-ggarrange(p1, p2, ncol = 2, nrow = 1)
+p3 <- ggplot() +
+geom_bar(data=dane, mapping=aes(x=as.Date(data), y=razem, fill="razem", stat = 'identity'), stat = 'identity', alpha=.5, size=1) +  
+geom_bar(data=dane, mapping=aes(x=as.Date(data), y=krajowi, fill="krajowi", stat = 'identity'), stat = 'identity', alpha=.5, size=1) +  
+  ylab(label="zwiedzający") +
+  xlab(label="") +
+  theme(legend.position="top") +
+  theme(legend.title=element_blank()) 
 
+daneC <- dane %>% gather(kat, liczba, razem:krajowi) %>%
+   filter(kat=="razem" | kat =="krajowi") %>% as.data.frame
+
+p4 <- ggplot(data=daneC, aes(x=as.Date(data), y=liczba, fill=kat)) +
+   geom_bar(stat = 'identity', position=position_dodge(), alpha=.5, size=1) +  
+  ylab(label="zwiedzający") +
+  xlab(label="") +
+  theme(legend.position="top") +
+  theme(legend.title=element_blank()) 
+
+
+ggarrange(p1, p2, p3, p4, ncol = 2, nrow = 2)
 ```
+
+Wykres kropkowy zwykle się nie sprawdza. Jeżeli przebieg zjawiska nie jest uporządkowany albo wykres zawiera kilka zmiennych (w przykładzie dwie zmienne).
+to wynikiem jest chmura różnokolowych kropek w której trudno się połapać.
+
+Wykres liniowy zwykle daje najlepsze rezultaty.
+
+Wykres słupkowy z półprzeźroczystymi słupkami też zwykle się nie sprawdza
+(w przykładzie jeden słupek zawsze zachodzi na drugi, co w rezultacie prowadzi do sytuacji, że turkusowego koloru w ogóle nie ma na wykresie)
+
+Wykres słupkowy ze słupkami przylegającymi do siebie (grupowany) jest dobrą alternatywą dla wykresu liniowego.
+
+**Przykład 2: Sprzedaż gazet w Polsce**
+
+Związek Kontroli Dystrybucji Prasy (cf https://pl.wikipedia.org/wiki/Zwi%C4%85zek_Kontroli_Dystrybucji_Prasy)
+publikuje dane nt sprzedaży prasy w Polsce (cf https://www.zkdp.pl/).
+Plik `newspaper_sales_EF.csv` zawiera dane nt. miesięcznej sprzedaży
+największych polskich dzienników w latach 2015--2019.
+
+**Przykład 3: Spożycie mięsa**
+
+## Analiza parametryczna
 
 # Wnioskowanie statystyczne
 

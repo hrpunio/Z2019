@@ -1,0 +1,241 @@
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> library("ggplot2")
+> library("dplyr")
+
+Dołączanie pakietu: ‘dplyr’
+
+Następujące obiekty zostały zakryte z ‘package:stats’:
+
+    filter, lag
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> library("tidyr")
+> library("ggpubr")
+Ładowanie wymaganego pakietu: magrittr
+
+Dołączanie pakietu: ‘magrittr’
+
+Następujący obiekt został zakryty z ‘package:tidyr’:
+
+    extract
+
+> 
+> dane <- read.csv(file= "MZM.csv", header=T, sep=";");
+> 
+> p1 <- ggplot() +
++   geom_point(data=dane, mapping=aes(x=as.Date(data), 
++                   y=razem, colour="blue"), alpha=.5, size=2) +  
++   geom_point(data=dane, mapping=aes(x=as.Date(data), 
++                       y=krajowi, colour="green"), alpha=.5, size=2) +  
++   ylab(label="sales [ths]") +
++   theme(legend.position="top") +
++   theme(legend.title=element_blank()) 
+> 
+> p2 <- ggplot() +
++ geom_line(data=dane, mapping=aes(x=as.Date(data), y=razem, colour="blue"), alpha=.5, size=1) +  
++   geom_line(data=dane, mapping=aes(x=as.Date(data), y=krajowi, colour="green"), alpha=.5, size=1) +  
++   ylab(label="sales [ths]") +
++   theme(legend.position="top") +
++   theme(legend.title=element_blank()) 
+> 
+> p3 <- ggplot() +
++ geom_bar(data=dane, mapping=aes(x=as.Date(data), y=razem, fill="razem", stat = 'identity'), stat = 'identity', alpha=.5, size=1) +  
++ geom_bar(data=dane, mapping=aes(x=as.Date(data), y=krajowi, fill="krajowi", stat = 'identity'), stat = 'identity', alpha=.5, size=1) +  
++   ylab(label="sales [ths]") +
++   theme(legend.position="top") +
++   theme(legend.title=element_blank()) 
+Ostrzeżenie: Ignoring unknown aesthetics: stat
+Ostrzeżenie: Ignoring unknown aesthetics: stat
+> 
+> daneC <- dane %>% gather(kat, liczba, razem:krajowi) %>% as.data.frame
+> 
+> daneC
+          data         kat liczba
+1   2015-01-01       razem   3278
+2   2015-02-01       razem   4149
+3   2015-03-01       razem   4623
+4   2015-04-01       razem  13083
+5   2015-05-01       razem  68485
+6   2015-06-01       razem  66199
+7   2015-07-01       razem 105843
+8   2015-08-01       razem  95255
+9   2015-09-01       razem  28021
+10  2015-10-01       razem  13532
+11  2015-11-01       razem   4382
+12  2015-12-01       razem   3204
+13  2016-01-01       razem   3382
+14  2016-02-01       razem   6772
+15  2016-03-01       razem   5361
+16  2016-04-01       razem  18435
+17  2016-05-01       razem  73453
+18  2016-06-01       razem  70743
+19  2016-07-01       razem 109008
+20  2016-08-01       razem 116078
+21  2016-09-01       razem  37274
+22  2016-10-01       razem  14841
+23  2016-11-01       razem   5416
+24  2016-12-01       razem   3369
+25  2017-01-01       razem   3637
+26  2017-02-01       razem   4829
+27  2017-03-01       razem   4766
+28  2017-04-01       razem  20221
+29  2017-05-01       razem  80379
+30  2017-06-01       razem  77613
+31  2017-07-01       razem 113931
+32  2017-08-01       razem 115067
+33  2017-09-01       razem  35377
+34  2017-10-01       razem  15191
+35  2017-11-01       razem   6693
+36  2017-12-01       razem   8130
+37  2018-01-01       razem   5537
+38  2018-02-01       razem   6640
+39  2018-03-01       razem   5635
+40  2018-04-01       razem  25634
+41  2018-05-01       razem 100558
+42  2018-06-01       razem  86494
+43  2018-07-01       razem 135269
+44  2018-08-01       razem 145479
+45  2018-09-01       razem  51064
+46  2018-10-01       razem  21936
+47  2018-11-01       razem   9164
+48  2018-12-01       razem   7589
+49  2019-01-01       razem   5482
+50  2019-02-01       razem   8798
+51  2019-03-01       razem  10613
+52  2015-01-01 zagraniczni   2144
+53  2015-02-01 zagraniczni   1000
+54  2015-03-01 zagraniczni   2128
+55  2015-04-01 zagraniczni   5293
+56  2015-05-01 zagraniczni  17384
+57  2015-06-01 zagraniczni  18831
+58  2015-07-01 zagraniczni  27809
+59  2015-08-01 zagraniczni  28109
+60  2015-09-01 zagraniczni  17853
+61  2015-10-01 zagraniczni   8876
+62  2015-11-01 zagraniczni   2661
+63  2015-12-01 zagraniczni   2279
+64  2016-01-01 zagraniczni   2121
+65  2016-02-01 zagraniczni   1181
+66  2016-03-01 zagraniczni   3081
+67  2016-04-01 zagraniczni   6623
+68  2016-05-01 zagraniczni  17617
+69  2016-06-01 zagraniczni  22312
+70  2016-07-01 zagraniczni  28073
+71  2016-08-01 zagraniczni  31701
+72  2016-09-01 zagraniczni  17923
+73  2016-10-01 zagraniczni   8929
+74  2016-11-01 zagraniczni   2767
+75  2016-12-01 zagraniczni   2850
+76  2017-01-01 zagraniczni   2238
+77  2017-02-01 zagraniczni   1490
+78  2017-03-01 zagraniczni   2994
+79  2017-04-01 zagraniczni   8849
+80  2017-05-01 zagraniczni  18490
+81  2017-06-01 zagraniczni  24043
+82  2017-07-01 zagraniczni  29475
+83  2017-08-01 zagraniczni  33578
+84  2017-09-01 zagraniczni  17950
+85  2017-10-01 zagraniczni   9239
+86  2017-11-01 zagraniczni   2028
+87  2017-12-01 zagraniczni   2755
+88  2018-01-01 zagraniczni   2764
+89  2018-02-01 zagraniczni   1615
+90  2018-03-01 zagraniczni   4518
+91  2018-04-01 zagraniczni   6899
+92  2018-05-01 zagraniczni  15924
+93  2018-06-01 zagraniczni  26416
+94  2018-07-01 zagraniczni  26941
+95  2018-08-01 zagraniczni  27901
+96  2018-09-01 zagraniczni  18219
+97  2018-10-01 zagraniczni   6030
+98  2018-11-01 zagraniczni   2020
+99  2018-12-01 zagraniczni   1264
+100 2019-01-01 zagraniczni   1845
+101 2019-02-01 zagraniczni   1244
+102 2019-03-01 zagraniczni   3740
+103 2015-01-01     krajowi   5422
+104 2015-02-01     krajowi   5149
+105 2015-03-01     krajowi   6751
+106 2015-04-01     krajowi  18376
+107 2015-05-01     krajowi  85869
+108 2015-06-01     krajowi  85030
+109 2015-07-01     krajowi 133652
+110 2015-08-01     krajowi 123364
+111 2015-09-01     krajowi  45874
+112 2015-10-01     krajowi  22408
+113 2015-11-01     krajowi   7043
+114 2015-12-01     krajowi   5483
+115 2016-01-01     krajowi   5503
+116 2016-02-01     krajowi   7953
+117 2016-03-01     krajowi   8442
+118 2016-04-01     krajowi  25058
+119 2016-05-01     krajowi  91070
+120 2016-06-01     krajowi  93055
+121 2016-07-01     krajowi 137081
+122 2016-08-01     krajowi 147779
+123 2016-09-01     krajowi  55197
+124 2016-10-01     krajowi  23770
+125 2016-11-01     krajowi   8183
+126 2016-12-01     krajowi   6219
+127 2017-01-01     krajowi   5875
+128 2017-02-01     krajowi   6319
+129 2017-03-01     krajowi   7760
+130 2017-04-01     krajowi  29070
+131 2017-05-01     krajowi  98869
+132 2017-06-01     krajowi 101656
+133 2017-07-01     krajowi 143406
+134 2017-08-01     krajowi 148645
+135 2017-09-01     krajowi  53327
+136 2017-10-01     krajowi  24430
+137 2017-11-01     krajowi   8721
+138 2017-12-01     krajowi  10885
+139 2018-01-01     krajowi   8301
+140 2018-02-01     krajowi   8255
+141 2018-03-01     krajowi  10153
+142 2018-04-01     krajowi  32533
+143 2018-05-01     krajowi 116482
+144 2018-06-01     krajowi 112910
+145 2018-07-01     krajowi 162210
+146 2018-08-01     krajowi 173380
+147 2018-09-01     krajowi  69283
+148 2018-10-01     krajowi  27966
+149 2018-11-01     krajowi  11184
+150 2018-12-01     krajowi   8853
+151 2019-01-01     krajowi   7327
+152 2019-02-01     krajowi  10042
+153 2019-03-01     krajowi  14353
+> 
+> p4 <- ggplot(data=daneC, aes(x=as.Date(data), y=liczba, fill=kat)) +
++    geom_bar(stat = 'identity', position=position_dodge(), alpha=.5, size=1) +  
++   ylab(label="sales [ths]") +
++   theme(legend.position="top") +
++   theme(legend.title=element_blank()) 
+> 
+> 
+> ggarrange(p1, p2, p3, p4, ncol = 2, nrow = 2)
+> 
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     1.750      0.072      1.814 

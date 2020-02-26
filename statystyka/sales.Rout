@@ -1,0 +1,388 @@
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> library(ggplot2)
+> library(reshape2)
+> 
+> normalize <- function(x) { return (x /x[1] * 100 )  }
+> dg <- read.csv("newspaper_sales_EF.csv", sep = ';', header=T, na.string="NA");
+> fperiod  <- 61 ## 5 x12 +1
+> 
+> ### sales in ths ###############################################################
+> df <- dg
+> 
+> seq = c (1:nrow(df))
+> 
+> seq
+ [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+[26] 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+[51] 51 52 53 54 55 56 57 58 59
+> 
+> fperiod
+[1] 61
+> 
+> # str(df)
+> meltdf <- melt(df,id="month")
+> 
+> 
+> df["trend"] <- seq
+> trendL.gw <- lm(data=df, gw ~ trend )
+> trendL.fakt <- lm(data=df, fakt ~ trend )
+> trendL.se <- lm(data=df, se ~ trend )
+> trendL.rz <- lm(data=df, rz ~ trend )
+> 
+> summary(trendL.gw)
+
+Call:
+lm(formula = gw ~ trend, data = df)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-13663.2  -6236.4   -125.1   5459.6  12814.6 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 166761.86    1781.20   93.62   <2e-16 ***
+trend        -1602.21      51.63  -31.03   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6754 on 57 degrees of freedom
+Multiple R-squared:  0.9441,	Adjusted R-squared:  0.9431 
+F-statistic: 962.9 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> summary(trendL.fakt)
+
+Call:
+lm(formula = fakt ~ trend, data = df)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-16852.3  -6518.3   -739.7   6392.0  19927.5 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 320503.45    2295.39  139.63   <2e-16 ***
+trend        -1962.53      66.54  -29.49   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 8704 on 57 degrees of freedom
+Multiple R-squared:  0.9385,	Adjusted R-squared:  0.9374 
+F-statistic: 869.9 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> summary(trendL.se)
+
+Call:
+lm(formula = se ~ trend, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8019.3 -3052.0  -125.9  2515.1 11176.4 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 150119.03    1118.28  134.24   <2e-16 ***
+trend         -714.58      32.42  -22.04   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4240 on 57 degrees of freedom
+Multiple R-squared:  0.895,	Adjusted R-squared:  0.8932 
+F-statistic: 485.9 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> summary(trendL.rz)
+
+Call:
+lm(formula = rz ~ trend, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2567.0  -580.4  -170.9   721.2  3991.3 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 58388.632    309.699  188.53   <2e-16 ***
+trend        -302.993      8.978  -33.75   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1174 on 57 degrees of freedom
+Multiple R-squared:  0.9523,	Adjusted R-squared:  0.9515 
+F-statistic:  1139 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> 
+> trendcoeffs.gw <- coef(trendL.gw);
+> trendcoeffs.fakt <- coef(trendL.fakt);
+> trendcoeffs.se <- coef(trendL.se);
+> trendcoeffs.rz <- coef(trendL.rz);
+> 
+> # str(meltdf)
+> #> str(meltdf)
+> #'data.frame':   208 obs. of  3 variables:
+> # $ month   : Factor w/ 52 levels "2015-01-01","2015-02-01",..: 1 2 3 4 5 6 7 8 9 10 ...
+> # $ variable: Factor w/ 4 levels "gw","se","fakt",..: 1 1 1 1 1 1 1 1 1 1 ...
+> # $ value   : int  168859 168077 158924 166740 156043 154296 152873 153541 149416 155735 ...
+> ## prognoza 1/2020
+> forecast.gw   <- trendcoeffs.gw[2]   * fperiod + trendcoeffs.gw[1]
+> forecast.fakt <- trendcoeffs.fakt[2] * fperiod + trendcoeffs.fakt[1]
+> forecast.se   <- trendcoeffs.se[2]   * fperiod + trendcoeffs.se[1]
+> forecast.rz   <- trendcoeffs.rz[2]   * fperiod + trendcoeffs.rz[1]
+> 
+> label.gw   <- sprintf("GW: s = %.2f t + %.2f", trendcoeffs.gw[2], trendcoeffs.gw[1] )
+> label.fakt <- sprintf("Fakt: s = %.2f t + %.2f", trendcoeffs.fakt[2], trendcoeffs.fakt[1] )
+> label.se   <- sprintf("SE: s = %.2f t + %.2f", trendcoeffs.se[2], trendcoeffs.se[1] )
+> label.rz   <- sprintf("Rz: s = %.2f t + %.2f", trendcoeffs.rz[2], trendcoeffs.rz[1] )
+> 
+> xpx <- 6;
+> ggplot(meltdf,aes(x=month, y=value, colour=variable, group=variable)) +
++   geom_point() +
++   ylab(label="sales [ths]") +
++   theme(legend.title=element_blank())
+> ggplot(meltdf,aes(x=month, y=value, colour=variable, group=variable)) +
++   geom_line() +
++   ylab(label="sales [ths]") +
++   theme(legend.title=element_blank())
+> 
+> ## stat_smooth(method = "lm", se=F) +
+> ##
+> ggtitle('Newspaper sales (data: https://www.zkdp.pl/)') +
++ annotate("text", x = xpx, y = 240000, label = sprintf("Trend:\n%s\n%s\n%s\n%s", 
++    label.gw, label.fakt, label.se, label.rz), size=3, hjust = 0) +
++ annotate("text", x = 6, y = 210000, label = sprintf("Forecast 1/2020 (ths): %.1f (gw) %.1f (f)\n%.1f (se) %.1f (rz)", 
++   forecast.gw/1000, forecast.fakt/1000, forecast.se/1000, forecast.rz/1000 ), size=3, hjust = 0, fontface = "bold") +
++ ##
++   scale_x_discrete (breaks=c("2015-01-01", "2015-07-01",
++      "2016-01-01", "2016-07-01", "2017-01-01", "2017-07-01", "2018-01-01", "2018-07-01", "2019-01-01", "2019-07-01" ),
++   labels=c("2015-01", "2015-07", "2016-01", "2016-07", "2017-01", "2017-07", "2018-01", "2018-07", "2019-01", "2019-07")  )
+NULL
+> 
+> # https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame
+> obs <- df[,c("month")]
+> 
+> ### sales in %%% ###############################################################
+> 
+> dfN <- as.data.frame(lapply(dg[-1], normalize))
+> seq = c (1:nrow(dfN))
+> 
+> # https://stackoverflow.com/questions/10150579/adding-a-column-to-a-data-frame
+> dfN["month"] <- obs
+> 
+> str(dfN)
+'data.frame':	59 obs. of  5 variables:
+ $ gw   : num  100 99.5 94.1 98.7 92.4 ...
+ $ se   : num  100 93.3 94 96.5 91.4 ...
+ $ fakt : num  100 99.9 97.2 101.2 94.2 ...
+ $ rz   : num  100 98.9 97.1 97 97.2 ...
+ $ month: Factor w/ 59 levels "2015-01-01","2015-02-01",..: 1 2 3 4 5 6 7 8 9 10 ...
+> 
+> dfN
+          gw        se      fakt        rz      month
+1  100.00000 100.00000 100.00000 100.00000 2015-01-01
+2   99.53689  93.25932  99.87352  98.92445 2015-02-01
+3   94.11639  93.97113  97.15640  97.12554 2015-03-01
+4   98.74511  96.50690 101.22361  96.99261 2015-04-01
+5   92.41024  91.35099  94.16815  97.20496 2015-05-01
+6   91.37564  88.49738  90.21973  96.50922 2015-06-01
+7   90.53293  89.77320  91.47966  95.03487 2015-07-01
+8   90.92853  88.69088  92.68542  95.72025 2015-08-01
+9   88.48566  87.20888  91.70616  95.24549 2015-09-01
+10  92.22784  90.60999  92.00529  94.90194 2015-10-01
+11  93.00955  89.48961  92.26903  94.95719 2015-11-01
+12  94.96088  91.24060  93.35200  95.18507 2015-12-01
+13  91.29807  96.43521  96.91574 100.89255 2016-01-01
+14  90.24393  90.85995  94.92737  95.21097 2016-02-01
+15  86.29034  90.96971  92.26011  95.52344 2016-03-01
+16  90.18293  92.20682  87.21025  94.61536 2016-04-01
+17  83.88833  86.46788  84.95445  93.36717 2016-05-01
+18  79.05649  82.34861  83.10611  93.61577 2016-06-01
+19  84.20161  86.48121  81.97298  93.25495 2016-07-01
+20  78.62536  83.76590  83.19382  90.94848 2016-08-01
+21  80.62526  86.35623  86.01496  91.14184 2016-09-01
+22  80.11240  86.08089  82.15055  90.01278 2016-10-01
+23  76.86058  83.84584  82.71189  89.93681 2016-11-01
+24  78.66741  85.72879  83.91180  89.98688 2016-12-01
+25  70.03003  86.98366  86.13436  90.54969 2017-01-01
+26  70.89761  83.55971  86.14914  85.00276 2017-02-01
+27  69.34780  84.43775  85.51640  84.39162 2017-03-01
+28  71.39981  84.27597  81.98652  85.42746 2017-04-01
+29  66.32694  82.87645  79.92060  84.62295 2017-05-01
+30  66.43886  81.33799  80.02277  84.37090 2017-06-01
+31  63.84025  80.88311  77.73004  84.23106 2017-07-01
+32  60.30357  77.67296  77.92546  83.34714 2017-08-01
+33  63.54414  79.80523  76.47535  83.24529 2017-09-01
+34  60.48064  76.89707  76.11928  82.31130 2017-10-01
+35  61.18478  77.74845  77.88792  82.61342 2017-11-01
+36  65.18871  82.86186  79.82581  82.65141 2017-12-01
+37  57.24776  78.88660  80.53856  78.16967 2018-01-01
+38  58.15029  78.39746  79.73472  77.80713 2018-02-01
+39  59.92159  81.14068  78.54435  79.40750 2018-03-01
+40  57.20927  74.93735  75.21389  78.04192 2018-04-01
+41  55.15608  72.33053  76.62707  77.81576 2018-05-01
+42  54.57097  74.49262  72.86145  78.70658 2018-06-01
+43  51.65908  70.65694  70.36068  78.05745 2018-07-01
+44  53.02353  72.97256  71.82803  77.32028 2018-08-01
+45  53.35102  70.16971  69.00197  77.33409 2018-09-01
+46  54.41404  71.72974  69.63224  76.43982 2018-10-01
+47  59.37557  76.18398  68.04733  77.03025 2018-11-01
+48  58.16391  73.81063  65.43054  77.17354 2018-12-01
+49  54.45786  72.94465  72.90238  70.73924 2019-01-01
+50  54.63671  73.69516  70.24866  71.07935 2019-02-01
+51  53.51269  74.74385  68.62898  72.04440 2019-03-01
+52  50.91467  70.26868  67.25211  72.03577 2019-04-01
+53  52.81329  72.87930  68.35016  72.09274 2019-05-01
+54  48.96274  70.00983  64.30910  72.72115 2019-06-01
+55  46.72952  67.58319  63.28030  72.52434 2019-07-01
+56  50.08439  73.88105  66.06697  74.50280 2019-08-01
+57  48.42976  70.92086  63.17966  74.01595 2019-09-01
+58  49.70182  70.16336  63.44494  73.42725 2019-10-01
+59  49.41993  72.35274  63.77485  73.90201 2019-11-01
+> 
+> meltdf <- melt(dfN,id="month")
+> 
+> # Trend liniowy
+> # http://t-redactyl.io/blog/2016/05/creating-plots-in-r-using-ggplot2-part-11-linear-regression-plots.html
+> 
+> # http://r-statistics.co/Time-Series-Analysis-With-R.html
+> dfN["trend"] <- seq
+> 
+> trendL.gw <- lm(data=dfN, gw ~ trend )
+> trendL.fakt <- lm(data=dfN, fakt ~ trend )
+> trendL.se <- lm(data=dfN, se ~ trend )
+> trendL.rz <- lm(data=dfN, rz ~ trend )
+> 
+> summary(trendL.gw)
+
+Call:
+lm(formula = gw ~ trend, data = dfN)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.0915 -3.6933 -0.0741  3.2333  7.5890 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 98.75805    1.05484   93.62   <2e-16 ***
+trend       -0.94884    0.03058  -31.03   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4 on 57 degrees of freedom
+Multiple R-squared:  0.9441,	Adjusted R-squared:  0.9431 
+F-statistic: 962.9 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> summary(trendL.fakt)
+
+Call:
+lm(formula = fakt ~ trend, data = dfN)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.1863 -2.0060 -0.2276  1.9671  6.1327 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 98.63466    0.70640  139.63   <2e-16 ***
+trend       -0.60397    0.02048  -29.49   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.679 on 57 degrees of freedom
+Multiple R-squared:  0.9385,	Adjusted R-squared:  0.9374 
+F-statistic: 869.9 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> summary(trendL.se)
+
+Call:
+lm(formula = se ~ trend, data = dfN)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.0876 -1.9362 -0.0798  1.5956  7.0905 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 95.23809    0.70946  134.24   <2e-16 ***
+trend       -0.45334    0.02057  -22.04   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.69 on 57 degrees of freedom
+Multiple R-squared:  0.895,	Adjusted R-squared:  0.8932 
+F-statistic: 485.9 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> summary(trendL.rz)
+
+Call:
+lm(formula = rz ~ trend, data = dfN)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-4.432 -1.002 -0.295  1.245  6.891 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 100.8021     0.5347  188.53   <2e-16 ***
+trend        -0.5231     0.0155  -33.75   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.027 on 57 degrees of freedom
+Multiple R-squared:  0.9523,	Adjusted R-squared:  0.9515 
+F-statistic:  1139 on 1 and 57 DF,  p-value: < 2.2e-16
+
+> 
+> trendcoeffs.gw <- coef(trendL.gw);
+> trendcoeffs.fakt <- coef(trendL.fakt);
+> trendcoeffs.se <- coef(trendL.se);
+> trendcoeffs.rz <- coef(trendL.rz);
+> 
+> label.gw   <- sprintf("GW: s = %.2f t + %.2f", trendcoeffs.gw[2], trendcoeffs.gw[1] )
+> label.fakt <- sprintf("Fakt: s = %.2f t + %.2f", trendcoeffs.fakt[2], trendcoeffs.fakt[1] )
+> label.se   <- sprintf("SE: s = %.2f t + %.2f", trendcoeffs.se[2], trendcoeffs.se[1] )
+> label.rz   <- sprintf("Rz: s = %.2f t + %.2f", trendcoeffs.rz[2], trendcoeffs.rz[1] )
+> 
+> # https://www.r-bloggers.com/what-is-a-linear-trend-by-the-way/
+> pN <- ggplot(meltdf,
++  aes(x=month, y=value, colour=variable, group=variable)) + 
++  geom_line(size=.3) +
++  geom_point(size=1) +
++  ylab(label="% sales") +
++  theme(legend.title=element_blank()) +
++  ggtitle('Newspaper sales (data: https://www.zkdp.pl/; 2015-01=100%)') +
++  ##ggtitle('Sprzedaż gazet (dane ZKDP; 2015-01=100%)') +
++  stat_smooth(method = "lm", se=F) +
++ ##
++ annotate("text", x = 11, y = 60, label = sprintf("Trend:\n%s\n%s\n%s\n%s", 
++    label.gw, label.fakt, label.se, label.rz), size=3, hjust = 0) +
++ #annotate("text", x = 15, y = 70, label = sprintf("Trend:"), size=3, hjust = 0) +
++ #annotate("text", x = 15, y = 67, label = sprintf("GW: s = %.2f t + %.2f", trendcoeffs.gw[2], trendcoeffs.gw[1] ), size=3, hjust = 0) +
++ #annotate("text", x = 15, y = 64, label = sprintf("Fakt: s = %.2f t + %.2f", trendcoeffs.fakt[2], trendcoeffs.fakt[1] ), size=3, hjust = 0) +
++ #annotate("text", x = 15, y = 61, label = sprintf("SE: s = %.2f t + %.2f", trendcoeffs.se[2], trendcoeffs.se[1] ), size=3, hjust = 0) +
++ #annotate("text", x = 15, y = 58, label = sprintf("Rz: s = %.2f t + %.2f", trendcoeffs.rz[2], trendcoeffs.rz[1] ), size=3, hjust = 0) +
++ ##
++   scale_x_discrete (breaks=c("2015-01-01", "2015-07-01",
++      "2016-01-01", "2016-07-01", "2017-01-01", "2017-07-01", "2018-01-01", "2018-07-01", "2019-01-01", "2019-07-01"),
++   labels=c("2015-01", "2015-07", "2016-01", "2016-07", "2017-01", "2017-07", "2018-01", "2018-07", "2019-01", "2019-07")  )
+> 
+> pN
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     1.493      0.073      1.555 
